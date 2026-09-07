@@ -162,7 +162,7 @@ async function syncPlatform(p) {
       lastOkAt: parsed ? nowIso() : (prev.lastOkAt ?? null),
       fetchedVia: via,
       archivedAt: archivedAt ?? null,
-      error: archivedAt ? `官方页面无法直接访问（${liveErrors}），使用 ${archivedAt} 的网页存档` : null,
+      error: archivedAt ? `官方页面无法直接访问${liveErrors ? `（${liveErrors}）` : ''}，使用 ${archivedAt} 的网页存档` : null,
     };
     if (archivedAt && !prev.archivedAt) result.changes.push({ kind: 'archive', message: `${p.name}：官方页面无法直接访问，改用 ${archivedAt} 的网页存档` });
     if (prev.snippetHash && prev.snippetHash !== snapHash) {
@@ -182,7 +182,7 @@ async function syncPlatform(p) {
     } else if (prev.status === 'ok') {
       result.changes.push({ kind: 'quota', message: `${p.name}：官方页面不再写明数字，沿用上次的 ${p.quota.display}` });
     }
-    if (prev.status === 'failed' && status !== 'failed') result.changes.push({ kind: 'recovered', message: `${p.name}：官方页面恢复可访问` });
+    if ((prev.status === 'failed' || prev.archivedAt) && !archivedAt) result.changes.push({ kind: 'recovered', message: `${p.name}：官方页面恢复可访问` });
     p.officialResult = officialResult;
     result.status = status;
     await writeFile(path.join(SNAPSHOT_DIR, `${p.id}.md`), `<!-- ${src.url} fetched ${officialResult.checkedAt} -->\n${text.slice(0, 20000)}\n`, 'utf8').catch(() => {});
