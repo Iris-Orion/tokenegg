@@ -1,4 +1,4 @@
-<!-- https://autoclaw.zhipuai.cn/ fetched 2026-09-07T16:05:23.553Z -->
+<!-- https://autoclaw.zhipuai.cn/ fetched 2026-09-07T16:06:47.316Z -->
 AutoClaw 开箱即用 - 1分钟安装，50+技能免配置，接入飞书/微信即用 | 智谱官方
 智谱 AutoClaw
 首页 博客 更新日志 团购方案 养虾社群 Lark
