@@ -1,4 +1,4 @@
-<!-- https://docs.coze.cn/coze_pro_credits fetched 2026-09-07T16:06:41.876Z -->
+<!-- https://docs.coze.cn/coze_pro_credits fetched 2026-09-07T19:53:50.872Z -->
 Title: 积分
 
 URL Source: https://docs.coze.cn/coze_pro_credits
@@ -47,6 +47,8 @@ Feedback
 定价/积分
 
 # 积分
+
+Copy Page
 
 积分是扣子平台各项资源消耗的统一计量与结算单位，支持抵扣在开发扣子任务、开发与运行 AI 编程项目等场景下产生的主要资源消耗。本文介绍扣子积分的基本概念以及积分的获取、消耗、有效期等规则。
 
@@ -272,4 +274,10 @@ Helpful Not helpful
 [查看积分到期时间](https://docs.coze.cn/coze_pro_credits#d2fc049e "查看积分到期时间")
 
 [常见问题](https://docs.coze.cn/coze_pro_credits#73076628 "常见问题")
+
+X
+
+100%
+
+![Image 14](https://docs.coze.cn/coze_pro_credits)
 
