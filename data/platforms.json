@@ -52,13 +52,13 @@
         "url": "https://help.aliyun.com/zh/qwenwork/qw-personal-benefits",
         "label": "阿里云帮助中心 · 个人版权益",
         "status": "ok",
-        "checkedAt": "2026-09-07T15:52:14.486Z",
+        "checkedAt": "2026-09-07T15:54:31.537Z",
         "snippet": [
           "每日登录奖励 限时 100 积分 200 积分 300 积分"
         ],
         "snippetHash": "c761030388ab5287",
         "matched": "每日登录奖励 限时 100 积分",
-        "lastOkAt": "2026-09-07T15:52:14.486Z",
+        "lastOkAt": "2026-09-07T15:54:31.537Z",
         "error": null,
         "snippetChangedAt": null
       }
@@ -109,14 +109,14 @@
         "url": "https://docs.trae.cn/ide_plans-and-billing",
         "label": "Trae 文档 · 套餐与计费",
         "status": "ok",
-        "checkedAt": "2026-09-07T15:52:17.116Z",
+        "checkedAt": "2026-09-07T15:54:34.030Z",
         "snippet": [
           "| 每日签到 | 每天 150 通用积分。 | 31 个自然日 |",
           "| 每日签到 | 每天 200 通用积分。 | 31 个自然日 |"
         ],
         "snippetHash": "ae5c2d1d7604645e",
         "matched": "每日签到 | 每天 150 通用积分",
-        "lastOkAt": "2026-09-07T15:52:17.116Z",
+        "lastOkAt": "2026-09-07T15:54:34.030Z",
         "error": null,
         "snippetChangedAt": null
       }
@@ -166,7 +166,7 @@
         "url": "https://office.xiaohuanxiong.com/pricing",
         "label": "办公小浣熊 · 定价页",
         "status": "no-number",
-        "checkedAt": "2026-09-07T15:52:19.333Z",
+        "checkedAt": "2026-09-07T15:54:36.321Z",
         "snippet": [
           "安装桌面端送 3000 积分",
           "点击安装桌面端，再领 3000 积分。去下载 →"
@@ -223,13 +223,13 @@
         "url": "https://docs.coze.cn/coze_pro_credits",
         "label": "扣子文档 · 积分",
         "status": "ok",
-        "checkedAt": "2026-09-07T15:52:21.509Z",
+        "checkedAt": "2026-09-07T15:54:38.976Z",
         "snippet": [
           "| 每日登录扣子：活动积分 | 个人版 | 1500 积分 | 1 天 |"
         ],
         "snippetHash": "3e672bca2db8c6ff",
         "matched": "每日登录扣子：活动积分 | 个人版 | 1500 积分",
-        "lastOkAt": "2026-09-07T15:52:21.509Z",
+        "lastOkAt": "2026-09-07T15:54:38.976Z",
         "error": null,
         "snippetChangedAt": null
       }
@@ -279,7 +279,7 @@
         "url": "https://agent.minimaxi.com/docs/code/account/usage",
         "label": "MiniMax Agent 文档 · Token Plan 与积分",
         "status": "ok",
-        "checkedAt": "2026-09-07T15:52:23.477Z",
+        "checkedAt": "2026-09-07T15:54:40.734Z",
         "snippet": [
           "* 每日签到",
           "每日签到",
@@ -288,7 +288,7 @@
         ],
         "snippetHash": "e83844b558b0c574",
         "matched": "每日签到可领取 400 积分",
-        "lastOkAt": "2026-09-07T15:52:23.477Z",
+        "lastOkAt": "2026-09-07T15:54:40.734Z",
         "error": null,
         "snippetChangedAt": null
       }
@@ -336,8 +336,8 @@
       "officialResult": {
         "url": "https://autoclaw.zhipuai.cn/",
         "label": "AutoClaw 官网 FAQ",
-        "status": "no-number",
-        "checkedAt": "2026-09-07T15:54:06.401Z",
+        "status": "failed",
+        "checkedAt": "2026-09-07T15:54:42.766Z",
         "snippet": [
           "每月登陆AutoClaw，即领大额积分",
           "AutoClaw 基础功能可以免费使用，并提供每日免费积分额度。个人用户和中小团队可以在免费额度内完成文档生成、数据分析、浏览器自动化和 IM 助手体验；更高频或更复杂的任务可以按需选择付费方案。"
@@ -345,7 +345,7 @@
         "snippetHash": "b15c29487c674b9e",
         "matched": null,
         "lastOkAt": null,
-        "error": null,
+        "error": "direct: fetch failed / direct-browser-ua: fetch failed / reader: HTTP 422",
         "snippetChangedAt": null
       }
     },
@@ -401,7 +401,7 @@
         "url": "https://www.workbuddy.cn/pricing/",
         "label": "WorkBuddy 官网 · 定价",
         "status": "ok",
-        "checkedAt": "2026-09-07T15:52:27.245Z",
+        "checkedAt": "2026-09-07T15:54:44.823Z",
         "snippet": [
           "体验版",
           "* 每月 500 积分",
@@ -409,7 +409,7 @@
         ],
         "snippetHash": "2077c7cf64fd3a40",
         "matched": "体验版 限时免费 00/月 免费试用 * 每月 500 积分",
-        "lastOkAt": "2026-09-07T15:52:27.245Z",
+        "lastOkAt": "2026-09-07T15:54:44.823Z",
         "error": null,
         "snippetChangedAt": null
       }
@@ -464,14 +464,14 @@
         "url": "https://cloud.baidu.com/doc/Dumate/s/nmnevrk0l",
         "label": "百度智能云文档 · DuMate 计费说明",
         "status": "ok",
-        "checkedAt": "2026-09-07T15:52:29.756Z",
+        "checkedAt": "2026-09-07T15:54:47.601Z",
         "snippet": [
           "当前全部用户（包括免费版及付费订阅版）限时每日可通过签到领取 500 积分，后续百度有权依据实际情况调整赠送积分机制，以客户端内实际赠送规则为准。",
           "* 赠送积分：DuMate 免费赠送的积分，如当前每日签到领取的积分，存在有效期，有效期结束后清零。"
         ],
         "snippetHash": "debc0cb5f661b409",
         "matched": "每日可通过签到领取 500 积分",
-        "lastOkAt": "2026-09-07T15:52:29.756Z",
+        "lastOkAt": "2026-09-07T15:54:47.601Z",
         "error": null,
         "snippetChangedAt": null
       }
@@ -522,7 +522,7 @@
         "url": "https://marvis.qq.com/docs",
         "label": "Marvis 官网 · 产品文档",
         "status": "no-number",
-        "checkedAt": "2026-09-07T15:52:31.889Z",
+        "checkedAt": "2026-09-07T15:54:50.518Z",
         "snippet": [],
         "snippetHash": "e3b0c44298fc1c14",
         "matched": null,
@@ -577,7 +577,7 @@
         "url": "https://catpaw.meituan.com/docs",
         "label": "CatPaw 官网文档",
         "status": "no-number",
-        "checkedAt": "2026-09-07T15:52:33.946Z",
+        "checkedAt": "2026-09-07T15:54:52.217Z",
         "snippet": [],
         "snippetHash": "e3b0c44298fc1c14",
         "matched": null,
@@ -632,7 +632,7 @@
         "url": "https://joycode.jd.com/pricing/",
         "label": "JoyCode 官网 · 定价",
         "status": "ok",
-        "checkedAt": "2026-09-07T15:52:36.121Z",
+        "checkedAt": "2026-09-07T15:54:54.644Z",
         "snippet": [
           "¥0/用户/月 限时免费",
           "席位资源限额：10000积分",
@@ -641,7 +641,7 @@
         ],
         "snippetHash": "5086655ff69a1772",
         "matched": "席位资源限额：10000积分",
-        "lastOkAt": "2026-09-07T15:52:36.121Z",
+        "lastOkAt": "2026-09-07T15:54:54.644Z",
         "error": null,
         "snippetChangedAt": null
       }
@@ -691,7 +691,7 @@
         "url": "https://www.ant-ling.com/zh/",
         "label": "百灵官网",
         "status": "no-number",
-        "checkedAt": "2026-09-07T15:52:38.461Z",
+        "checkedAt": "2026-09-07T15:54:56.831Z",
         "snippet": [
           "以 100 亿 Token，让开放智能进入真实业务",
           "百灵创作者征集中，立即报名即可获得 1 亿 免费 token 包",
@@ -751,7 +751,7 @@
         "url": "https://docs.cnb.cool/zh/pricing.html",
         "label": "CNB 文档 · 定价",
         "status": "ok",
-        "checkedAt": "2026-09-07T15:52:40.371Z",
+        "checkedAt": "2026-09-07T15:54:58.645Z",
         "snippet": [
           "* 免费额度说明",
           "免费额度 + 超额按量计费。免费额度用尽后，相关能力将受限。例如 AI Credits 用尽后，NPC 等 AI 能力将不可用。",
@@ -760,11 +760,11 @@
         ],
         "snippetHash": "bb3c30e548e2db12",
         "matched": "AI Credits | 500 credits/月",
-        "lastOkAt": "2026-09-07T15:52:40.371Z",
+        "lastOkAt": "2026-09-07T15:54:58.645Z",
         "error": null,
         "snippetChangedAt": null
       }
     }
   ],
-  "lastUpdated": "2026-09-07T15:54:05.932Z"
+  "lastUpdated": "2026-09-07T15:54:30.251Z"
 }
