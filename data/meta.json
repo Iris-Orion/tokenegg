@@ -1,6 +1,20 @@
 {
   "history": [
     {
+      "at": "2026-09-07T16:00:54.806Z",
+      "atBeijing": "2026-09-08 00:00:54",
+      "status": "ok",
+      "ok": 8,
+      "noNumber": 4,
+      "failed": 1,
+      "changes": [
+        {
+          "kind": "failed",
+          "message": "AutoClaw（澳龙）：官方页面抓取失败（direct: fetch failed / direct-browser-ua: fetch failed / reader: HTTP 422）"
+        }
+      ]
+    },
+    {
       "at": "2026-09-07T16:00:09.878Z",
       "atBeijing": "2026-09-08 00:00:09",
       "status": "ok",
@@ -75,14 +89,14 @@
       "changes": []
     }
   ],
-  "lastSyncAt": "2026-09-07T16:00:09.878Z",
-  "lastSyncAtBeijing": "2026-09-08 00:00:39",
-  "lastSuccessAt": "2026-09-07T16:00:09.878Z",
+  "lastSyncAt": "2026-09-07T16:00:54.806Z",
+  "lastSyncAtBeijing": "2026-09-08 00:01:27",
+  "lastSuccessAt": "2026-09-07T16:00:54.806Z",
   "status": "ok",
   "counts": {
     "ok": 8,
-    "noNumber": 5,
-    "failed": 0
+    "noNumber": 4,
+    "failed": 1
   },
   "platformCount": 13,
   "error": null
