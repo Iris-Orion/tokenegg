@@ -1,13 +1,18 @@
 {
   "history": [
     {
-      "at": "2026-09-07T15:56:53.261Z",
-      "atBeijing": "2026-09-07 23:56:53",
+      "at": "2026-09-07T15:58:18.789Z",
+      "atBeijing": "2026-09-07 23:58:18",
       "status": "ok",
-      "ok": 8,
-      "noNumber": 4,
-      "failed": 1,
-      "changes": []
+      "ok": 0,
+      "noNumber": 1,
+      "failed": 0,
+      "changes": [
+        {
+          "kind": "recovered",
+          "message": "AutoClaw（澳龙）：官方页面恢复可访问"
+        }
+      ]
     },
     {
       "at": "2026-09-07T15:54:30.251Z",
@@ -61,14 +66,14 @@
       "changes": []
     }
   ],
-  "lastSyncAt": "2026-09-07T15:56:53.261Z",
-  "lastSyncAtBeijing": "2026-09-07 23:57:20",
-  "lastSuccessAt": "2026-09-07T15:56:53.261Z",
+  "lastSyncAt": "2026-09-07T15:58:18.789Z",
+  "lastSyncAtBeijing": "2026-09-07 23:58:20",
+  "lastSuccessAt": "2026-09-07T15:58:18.789Z",
   "status": "ok",
   "counts": {
     "ok": 8,
-    "noNumber": 4,
-    "failed": 1
+    "noNumber": 5,
+    "failed": 0
   },
   "platformCount": 13,
   "error": null
