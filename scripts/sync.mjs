@@ -119,17 +119,8 @@ function applyRules(text, rules) {
   return null;
 }
 
-// Community-reported quota (from the Zhihu answer) used only when the official page states no number.
-function communityQuota(p) {
-  const display = p.community?.display ?? '免费';
-  const m = display.replace(/,/g, '').match(/(\d+)(?:\s*~\s*(\d+))?\s*(万|亿)?\s*(积分|token|credits)\s*\/\s*(天|月)/i);
-  if (!m) return { amount: null, amountMax: null, unit: '', period: '', display };
-  const mult = m[3] === '亿' ? 1e8 : m[3] === '万' ? 1e4 : 1;
-  return {
-    amount: Number(m[1]) * mult, amountMax: m[2] ? Number(m[2]) * mult : null,
-    unit: m[4].toLowerCase() === 'token' ? 'token' : m[4], period: m[5] === '月' ? '每月' : '每天', display,
-  };
-}
+// Used when the official page states no number: show the official wording, never a number.
+const noNumberQuota = (p) => ({ amount: null, amountMax: null, unit: '', period: '', display: p.fallbackDisplay ?? '官方未标数量' });
 
 // ---------- per platform ----------
 async function syncPlatform(p) {
@@ -156,16 +147,16 @@ async function syncPlatform(p) {
     } else officialResult.snippetChangedAt = prev.snippetChangedAt ?? null;
 
     if (parsed) {
-      const before = p.quota?.display;
-      if (p.quotaSource !== 'official' || before !== parsed.display) {
-        result.changes.push({ kind: 'quota', message: `${p.name}：额度 ${before ?? '—'} → ${parsed.display}（官方）` });
+      const before = p.quota?.amount != null ? p.quota.display : null;
+      if (before !== parsed.display) {
+        result.changes.push({ kind: 'quota', message: `${p.name}：额度 ${before ?? '—'} → ${parsed.display}` });
       }
       const { matchedText, ...quota } = parsed;
       p.quota = quota;
-      p.quotaSource = 'official';
-    } else if (p.quotaSource !== 'official') {
-      p.quotaSource = 'community';
-      p.quota = communityQuota(p);
+    } else if (p.quota?.amount == null) {
+      p.quota = noNumberQuota(p);
+    } else if (prev.status === 'ok') {
+      result.changes.push({ kind: 'quota', message: `${p.name}：官方页面不再写明数字，沿用上次的 ${p.quota.display}` });
     }
     if (prev.status === 'failed' && status !== 'failed') result.changes.push({ kind: 'recovered', message: `${p.name}：官方页面恢复可访问` });
     p.officialResult = officialResult;
@@ -176,7 +167,7 @@ async function syncPlatform(p) {
     p.officialResult = { ...prev, url: src.url, label: src.label, status: 'failed', checkedAt: nowIso(), error: message };
     if (prev.status && prev.status !== 'failed') result.changes.push({ kind: 'failed', message: `${p.name}：官方页面抓取失败（${message}）` });
     result.error = message;
-    if (!p.quotaSource) { p.quotaSource = 'community'; p.quota = communityQuota(p); }
+    if (!p.quota) p.quota = noNumberQuota(p);
   }
   return result;
 }

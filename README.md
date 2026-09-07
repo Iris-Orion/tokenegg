@@ -1,8 +1,6 @@
 # 🥚 TokenEgg
 
-中国 AI 公司每天可领取的免费 token / 积分额度清单。纯静态页面，托管在 GitHub Pages，每天北京时间 00:10 由 GitHub Actions 自动抓取各平台**不需要登录的官方页面**核对额度。
-
-平台清单最初整理自知乎用户「学写作的丧失」的回答 [opencode go取消首月5刀优惠会有什么影响？](https://www.zhihu.com/question/2075318872438265091/answer/2080272945654522135)，之后的额度数字以官方页面为准。
+中国 AI 公司每天可领取的免费 token / 积分额度清单。纯静态页面，托管在 GitHub Pages，每天北京时间 00:10 由 GitHub Actions 自动抓取各平台**不需要登录的官方页面**核对额度。页面上只展示官方页面抓到的信息。
 
 ## 工作方式
 
@@ -18,16 +16,16 @@ scripts/sync.mjs      同步脚本：逐个抓官方页面 → 摘出含关键�
 
 | 状态 | 含义 | 卡片显示 |
 |---|---|---|
-| `ok` | 官方页面写明了数字，已解析 | 官方已核对（绿） |
-| `no-number` | 页面能抓到，但没写具体数量，或页面是纯前端渲染 | 官方未标数量（黄），数字沿用社区数据 |
-| `failed` | 页面抓取失败 | 官方页抓取失败（红），保留上次数据 |
+| `ok` | 官方页面写明了数字，已解析 | 官方已核对（绿），显示数字 |
+| `no-number` | 页面能抓到，但没写具体数量，或页面是纯前端渲染 | 官方未标数量（黄），只显示官方措辞 |
+| `failed` | 页面抓取失败 | 官方页抓取失败（红），保留上次结果 |
 
-抓取通过 Jina Reader（`r.jina.ai`）获取渲染后的正文，失败时回退到直接请求 HTML；AutoClaw 官网在 Reader 侧无法解析域名，因此直连优先。
+抓取通过 Jina Reader（`r.jina.ai`）获取渲染后的正文，失败时回退到直接请求 HTML（含浏览器 UA 重试）。AutoClaw 的 `autoclaw.zhipuai.cn` 在境外解析不到，改抓智谱同内容的 `autoglm.zhipuai.cn/autoclaw`。
 
 ## 本地运行
 
 ```bash
-node scripts/sync.mjs            # 同步全部平台
+node scripts/sync.mjs              # 同步全部平台
 node scripts/sync.mjs coze dumate  # 只同步指定平台（调试）
 # 国内网络需要代理时：NODE_USE_ENV_PROXY=1 node scripts/sync.mjs
 ```
@@ -36,4 +34,4 @@ node scripts/sync.mjs coze dumate  # 只同步指定平台（调试）
 
 ## 维护
 
-新增平台：在 `data/platforms.json` 的 `platforms` 数组里加一项，填 `official.url`（不登录能看的官方页面）、`official.keywords`（摘取原文用的关键词）和 `official.rules`（解析数字的正则，第一个捕获组是数字；token 类可用第二个捕获组匹配「万/亿」）。`community` 里放社区数据作为兜底。
+新增平台：在 `data/platforms.json` 的 `platforms` 数组里加一项，填 `official.url`（不登录能看的官方页面）、`official.keywords`（摘取原文用的关键词）和 `official.rules`（解析数字的正则，第一个捕获组是数字；token 类可用第二个捕获组匹配「万/亿」）。官方页面没有数字时，`fallbackDisplay` 决定卡片上显示的措辞。

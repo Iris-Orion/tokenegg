@@ -1,11 +1,4 @@
 {
-  "community": {
-    "title": "opencode go取消首月5刀优惠会有什么影响？大家有其他plan推荐么？",
-    "url": "https://www.zhihu.com/question/2075318872438265091/answer/2080272945654522135",
-    "author": "学写作的丧失",
-    "authorUrl": "https://www.zhihu.com/people/zombiewriter",
-    "site": "知乎"
-  },
   "platforms": [
     {
       "id": "qwenwork",
@@ -35,10 +28,6 @@
           }
         ]
       },
-      "community": {
-        "quote": "千问办公每天送100积分，蹬qwen-3.8-flash够你蹬很久。",
-        "display": "100 积分 / 天"
-      },
       "quota": {
         "amount": 100,
         "amountMax": null,
@@ -47,7 +36,6 @@
         "scope": "免费版",
         "display": "100 积分 / 天"
       },
-      "quotaSource": "official",
       "officialResult": {
         "url": "https://help.aliyun.com/zh/qwenwork/qw-personal-benefits",
         "label": "阿里云帮助中心 · 个人版权益",
@@ -75,7 +63,7 @@
         "DeepSeek V4 Flash（Trae Work）",
         "qwen-3.8-flash"
       ],
-      "notes": "官方文档为 Trae IDE 计费页；Trae Work 签到积分为 Work 专用积分，社区实测同为 150。",
+      "notes": "官方文档为 Trae IDE 计费页；免费用户每日签到 150 通用积分，会员为 200。",
       "official": {
         "label": "Trae 文档 · 套餐与计费",
         "url": "https://docs.trae.cn/ide_plans-and-billing",
@@ -92,10 +80,6 @@
           }
         ]
       },
-      "community": {
-        "quote": "traework每天签到送150积分，在work上可以蹬DS V4 FLash，在traecode上可以蹬qwen-3.8-flash。",
-        "display": "150 积分 / 天"
-      },
       "quota": {
         "amount": 150,
         "amountMax": null,
@@ -104,7 +88,6 @@
         "scope": "免费用户",
         "display": "150 积分 / 天"
       },
-      "quotaSource": "official",
       "officialResult": {
         "url": "https://docs.trae.cn/ide_plans-and-billing",
         "label": "Trae 文档 · 套餐与计费",
@@ -150,18 +133,14 @@
           }
         ]
       },
-      "community": {
-        "quote": "商汤小浣熊每天送300积分，可以蹬GLM-5.3-flash，还有免费的商汤自己的flash。",
-        "display": "300 积分 / 天"
-      },
-      "quotaSource": "community",
       "quota": {
-        "amount": 300,
+        "amount": null,
         "amountMax": null,
-        "unit": "积分",
-        "period": "每天",
-        "display": "300 积分 / 天"
+        "unit": "",
+        "period": "",
+        "display": "每日赠送积分（数量见站内）"
       },
+      "fallbackDisplay": "每日赠送积分（数量见站内）",
       "officialResult": {
         "url": "https://office.xiaohuanxiong.com/pricing",
         "label": "办公小浣熊 · 定价页",
@@ -206,10 +185,6 @@
           }
         ]
       },
-      "community": {
-        "quote": "扣子coze每天送1500积分，也是GLM-5.3-flash。",
-        "display": "1500 积分 / 天"
-      },
       "quota": {
         "amount": 1500,
         "amountMax": null,
@@ -218,7 +193,6 @@
         "scope": "个人版",
         "display": "1500 积分 / 天"
       },
-      "quotaSource": "official",
       "officialResult": {
         "url": "https://docs.coze.cn/coze_pro_credits",
         "label": "扣子文档 · 积分",
@@ -262,10 +236,6 @@
           }
         ]
       },
-      "community": {
-        "quote": "minimaxcode每天送400-1000积分。【这个积分还能用H3】",
-        "display": "400 ~ 1000 积分 / 天"
-      },
       "quota": {
         "amount": 400,
         "amountMax": null,
@@ -274,7 +244,6 @@
         "scope": null,
         "display": "400 积分 / 天"
       },
-      "quotaSource": "official",
       "officialResult": {
         "url": "https://agent.minimaxi.com/docs/code/account/usage",
         "label": "MiniMax Agent 文档 · Token Plan 与积分",
@@ -321,18 +290,14 @@
           }
         ]
       },
-      "community": {
-        "quote": "autoclaw（智谱的）每天送100积分。",
-        "display": "100 积分 / 天"
-      },
-      "quotaSource": "community",
       "quota": {
-        "amount": 100,
+        "amount": null,
         "amountMax": null,
-        "unit": "积分",
-        "period": "每天",
-        "display": "100 积分 / 天"
+        "unit": "",
+        "period": "",
+        "display": "每日免费积分（数量见站内）"
       },
+      "fallbackDisplay": "每日免费积分（数量见站内）",
       "officialResult": {
         "url": "https://autoglm.zhipuai.cn/autoclaw",
         "label": "AutoClaw 官网（智谱 AutoGLM 站点镜像）FAQ",
@@ -360,7 +325,7 @@
         "混元 HY4 preview（限免）",
         "Kimi K3 等"
       ],
-      "notes": "官方定价页写的是体验版每月 500 积分；每日签到 100 积分为社区实测，官方更新日志曾提示签到活动下线。",
+      "notes": "官方定价页：体验版限时免费、每月 500 积分；签到规则以客户端内为准。",
       "official": {
         "label": "WorkBuddy 官网 · 定价",
         "url": "https://www.workbuddy.cn/pricing/",
@@ -384,10 +349,6 @@
           }
         ]
       },
-      "community": {
-        "quote": "workbuddy每天送100积分。",
-        "display": "100 积分 / 天"
-      },
       "quota": {
         "amount": 500,
         "amountMax": null,
@@ -396,7 +357,6 @@
         "scope": "体验版",
         "display": "500 积分 / 月"
       },
-      "quotaSource": "official",
       "officialResult": {
         "url": "https://www.workbuddy.cn/pricing/",
         "label": "WorkBuddy 官网 · 定价",
@@ -447,10 +407,6 @@
           }
         ]
       },
-      "community": {
-        "quote": "dumate（百度）每天送500积分带抽奖【但是不知道用的啥模型，不能自定义】",
-        "display": "500 积分 / 天"
-      },
       "quota": {
         "amount": 500,
         "amountMax": null,
@@ -459,7 +415,6 @@
         "scope": null,
         "display": "500 积分 / 天"
       },
-      "quotaSource": "official",
       "officialResult": {
         "url": "https://cloud.baidu.com/doc/Dumate/s/nmnevrk0l",
         "label": "百度智能云文档 · DuMate 计费说明",
@@ -487,7 +442,7 @@
         "混元（云端路由）",
         "DeepSeek V4 Pro（云端路由）"
       ],
-      "notes": "官网与产品文档没有写额度数字；1000 万 token / 天来自发布报道与社区实测。",
+      "notes": "官网与产品文档未写额度数字，以客户端内显示为准。",
       "official": {
         "label": "Marvis 官网 · 产品文档",
         "url": "https://marvis.qq.com/docs",
@@ -506,18 +461,14 @@
           }
         ]
       },
-      "community": {
-        "quote": "mavis（腾讯的）每天送1000万token。（路由混元模型和DS V4 PRO）",
-        "display": "1000 万 token / 天"
-      },
-      "quotaSource": "community",
       "quota": {
-        "amount": 10000000,
+        "amount": null,
         "amountMax": null,
-        "unit": "token",
-        "period": "每天",
-        "display": "1000 万 token / 天"
+        "unit": "",
+        "period": "",
+        "display": "每日免费额度（数量见站内）"
       },
+      "fallbackDisplay": "每日免费额度（数量见站内）",
       "officialResult": {
         "url": "https://marvis.qq.com/docs",
         "label": "Marvis 官网 · 产品文档",
@@ -537,11 +488,11 @@
       "company": "美团",
       "url": "https://catpaw.meituan.com",
       "type": "daily",
-      "claim": "体验版免费（官网文档为前端渲染，抓不到额度数字）",
+      "claim": "体验版免费（官网未标数量）",
       "models": [
         "LongCat-2（1.6 万亿总参数，约 480 亿激活，1M 上下文）"
       ],
-      "notes": "第三方转述官方定价：体验版每月 200 Credits，专业版 88 元/月 4000 Credits。",
+      "notes": "官网文档为前端渲染，抓不到定价文字，以站内为准。",
       "official": {
         "label": "CatPaw 官网文档",
         "url": "https://catpaw.meituan.com/docs",
@@ -561,18 +512,14 @@
           }
         ]
       },
-      "community": {
-        "quote": "catpaw（美团的）每天可以白嫖longcat-2【总参数规模1.6万亿，平均激活约480亿参数，动态范围33B~56B，原生支持1M超长上下文】。",
-        "display": "每日免费（额度未标明）"
-      },
-      "quotaSource": "community",
       "quota": {
         "amount": null,
         "amountMax": null,
         "unit": "",
         "period": "",
-        "display": "每日免费（额度未标明）"
+        "display": "免费体验版（额度见站内）"
       },
+      "fallbackDisplay": "免费体验版（额度见站内）",
       "officialResult": {
         "url": "https://catpaw.meituan.com/docs",
         "label": "CatPaw 官网文档",
@@ -615,10 +562,6 @@
           }
         ]
       },
-      "community": {
-        "quote": "joycode（京东的）可以白嫖京东的joyAI【我也不知道是啥参数】。",
-        "display": "免费（额度未标明）"
-      },
       "quota": {
         "amount": 10000,
         "amountMax": null,
@@ -627,7 +570,6 @@
         "scope": "团队版",
         "display": "10000 积分 / 月"
       },
-      "quotaSource": "official",
       "officialResult": {
         "url": "https://joycode.jd.com/pricing/",
         "label": "JoyCode 官网 · 定价",
@@ -651,12 +593,12 @@
       "name": "蚂蚁百灵 Ling",
       "company": "蚂蚁集团",
       "url": "https://ling.tbox.cn",
-      "type": "limited",
-      "claim": "开放平台注册后有每日免费 API 额度（官网为前端渲染，抓不到数字）",
+      "type": "free",
+      "claim": "开放平台注册后有免费 API 额度（官网未标数量）",
       "models": [
         "Ling-3.0-flash（124B 总参数，5.1B 激活，256K 上下文）"
       ],
-      "notes": "第三方资料：API 每日 50 万 tokens 免费额度；Ling-3.0-flash 曾限时一个月免费。",
+      "notes": "官网为前端渲染，抓不到额度文字，以开放平台站内为准。",
       "official": {
         "label": "百灵官网",
         "url": "https://www.ant-ling.com/zh/",
@@ -675,18 +617,14 @@
           }
         ]
       },
-      "community": {
-        "quote": "蚂蚁数科maas（支付宝），目前限时一个月白嫖ling-3.0-flash【124B激活5.1B上下文256K】",
-        "display": "限时一个月免费"
-      },
-      "quotaSource": "community",
       "quota": {
         "amount": null,
         "amountMax": null,
         "unit": "",
         "period": "",
-        "display": "限时一个月免费"
+        "display": "免费 API 额度（数量见站内）"
       },
+      "fallbackDisplay": "免费 API 额度（数量见站内）",
       "officialResult": {
         "url": "https://www.ant-ling.com/zh/",
         "label": "百灵官网",
@@ -734,10 +672,6 @@
           }
         ]
       },
-      "community": {
-        "quote": "腾讯的CNB，相当于腾讯的github，里面可以白嫖到十二月免费的帮你写代码的NPC。【免费的HY4，DSV4 FLASH，GLM-5.3-flash。",
-        "display": "免费至 12 月"
-      },
       "quota": {
         "amount": 500,
         "amountMax": null,
@@ -746,7 +680,6 @@
         "scope": null,
         "display": "500 credits / 月"
       },
-      "quotaSource": "official",
       "officialResult": {
         "url": "https://docs.cnb.cool/zh/pricing.html",
         "label": "CNB 文档 · 定价",

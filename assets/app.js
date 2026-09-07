@@ -109,7 +109,7 @@
       node.dataset.id = p.id;
       $('.name', node).textContent = p.name;
       $('.company', node).textContent = p.company;
-      $('.quota-main', node).textContent = p.quota?.display || p.community?.display || '免费';
+      $('.quota-main', node).textContent = p.quota?.display || p.fallbackDisplay || '官方未标数量';
       const sub = [];
       if (p.quota?.scope) sub.push(p.quota.scope);
       if (p.claim) sub.push(p.claim);
@@ -124,7 +124,6 @@
       addBadge(p.type, typeLabel[p.type] || p.type);
       const st = off.status || 'unknown';
       addBadge(`official ${st}`, officialLabel[st] || '未同步', off.checkedAt ? `最近抓取 ${fmtBeijing(off.checkedAt)}（北京时间）` : '');
-      if (p.quotaSource === 'community') addBadge('community', '数字来自社区', '官方页面未写明数量，展示的是知乎回答里的数字');
       if (off.snippetChangedAt && off.checkedAt && off.snippetChangedAt.slice(0, 10) === off.checkedAt.slice(0, 10)) {
         addBadge('changed', '官方页面今日有变化');
       }
@@ -158,8 +157,6 @@
         const li = document.createElement('li'); li.textContent = '页面上没有找到与额度相关的文字。'; offText.appendChild(li);
       }
       $('.official-time', offBox).textContent = off.checkedAt ? `抓取于 ${fmtBeijing(off.checkedAt)}（北京时间）` : '尚未抓取';
-
-      $('.quote', node).textContent = p.community?.quote || '';
 
       const go = $('.go', node);
       go.href = p.url;
@@ -262,10 +259,6 @@
     state.meta = meta;
     loadClaims();
 
-    const src = data.community || {};
-    $('#sourceLink').href = src.url || '#';
-    $('#authorLink').href = src.authorUrl || '#';
-    $('#authorLink').textContent = src.author || '知乎回答';
     if (location.hostname.endsWith('github.io')) {
       const owner = location.hostname.split('.')[0];
       const name = location.pathname.split('/').filter(Boolean)[0];

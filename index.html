@@ -35,7 +35,6 @@
     <section class="sync" id="syncBar" aria-live="polite">
       <span class="dot" id="syncDot"></span>
       <span id="syncText">正在加载同步状态…</span>
-      <a id="sourceLink" href="#" target="_blank" rel="noopener">社区来源（知乎回答）↗</a>
     </section>
 
     <section class="toolbar">
@@ -49,7 +48,7 @@
       <div class="toolbar-right">
         <select id="companyFilter" aria-label="按公司筛选"><option value="">全部公司</option></select>
         <select id="sortBy" aria-label="排序">
-          <option value="source">按原文顺序</option>
+          <option value="source">默认顺序</option>
           <option value="amount">按每日额度</option>
           <option value="unclaimed">未领优先</option>
         </select>
@@ -69,7 +68,7 @@
     <section class="about">
       <h2>关于</h2>
       <p>每个平台都对应一个<strong>不需要登录就能访问的官方页面</strong>（帮助中心、定价页或产品文档）。GitHub Actions 每天北京时间 00:10 抓取这些页面，摘出与免费额度相关的原文，能解析出数字的直接更新卡片上的额度，并记录页面文字的变化。</p>
-      <p>官方页面只写了「每日赠送」却没写数量、或页面是纯前端渲染抓不到文字的平台，卡片会标「官方未标数量」，数字沿用知乎用户 <a id="authorLink" href="#" target="_blank" rel="noopener">学写作的丧失</a> 回答里的社区数据，并附上官方原文供对照。以各平台站内实际显示为准。</p>
+      <p>官方页面只写了「每日赠送」却没写数量、或页面是纯前端渲染抓不到文字的平台，卡片会标「官方未标数量」，不显示任何非官方数字。一切以各平台站内实际显示为准。</p>
       <p>打卡记录只保存在你自己的浏览器里（localStorage），按北京日期自动重置。本页面不提供任何登录或代领功能。</p>
     </section>
   </main>
@@ -99,10 +98,6 @@
         <summary>官方页面原文 · <a class="official-link" href="#" target="_blank" rel="noopener">官方页面</a></summary>
         <ul class="official-text"></ul>
         <p class="official-time"></p>
-      </details>
-      <details class="more">
-        <summary>社区数据（知乎回答原文）</summary>
-        <blockquote class="quote"></blockquote>
       </details>
       <a class="go btn" target="_blank" rel="noopener">去领取 ↗</a>
     </article>
