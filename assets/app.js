@@ -65,12 +65,6 @@
   });
 
   // ---------- formatting ----------
-  const fmtCN = (n) => {
-    if (n == null) return '—';
-    if (n >= 1e8) return `${+(n / 1e8).toFixed(2)} 亿`;
-    if (n >= 1e4) return `${+(n / 1e4).toFixed(n % 1e4 ? 1 : 0)} 万`;
-    return String(n);
-  };
   const typeLabel = { daily: '每日领取', limited: '限时免费', free: '长期免费' };
   const officialLabel = {
     ok: '官方已核对',
@@ -183,10 +177,7 @@
     $('#statPlatforms').textContent = ps.length;
     const daily = ps.filter((p) => p.quota?.period === '每天' && p.quota.unit === '积分' && p.quota.amount != null);
     const pts = daily.reduce((s, p) => s + p.quota.amount, 0);
-    const tokens = ps.filter((p) => p.quota?.period === '每天' && p.quota.unit === 'token' && p.quota.amount != null)
-      .reduce((s, p) => s + p.quota.amount, 0);
     $('#statDaily').textContent = pts.toLocaleString('zh-CN');
-    $('#statTokens').textContent = tokens ? `${fmtCN(tokens)}+` : '—';
     const okCount = ps.filter((p) => p.officialResult?.status === 'ok').length;
     $('#statOfficial').textContent = `${okCount} / ${ps.length}`;
     $('#statClaimed').textContent = `${[...state.claimed].filter((id) => ps.some((p) => p.id === id)).length} / ${ps.length}`;

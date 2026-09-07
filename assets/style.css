@@ -131,7 +131,6 @@ input[type="search"] { min-width: 180px; }
 .badge.official.ok { background: var(--ok-soft); color: var(--ok); }
 .badge.official.no-number { background: var(--warn-soft); color: var(--warn); }
 .badge.official.failed, .badge.official.unknown { background: var(--bad-soft); color: var(--bad); }
-.badge.community { background: var(--bg); color: var(--muted); border: 1px solid var(--line); }
 .badge.changed { background: var(--accent-soft); color: var(--accent); }
 .official-text { margin: 8px 0 4px; padding-left: 18px; }
 .official-text li { margin: 2px 0; }
