@@ -56,19 +56,22 @@ async function fetchViaJina(url) {
   return text;
 }
 
+const BROWSER_UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36';
+
 async function fetchPage(source) {
-  const attempts = source.via === 'direct'
-    ? [() => fetchText(source.url).then(htmlToText), () => fetchViaJina(source.url)]
-    : [() => fetchViaJina(source.url), () => fetchText(source.url).then(htmlToText)];
-  let lastErr;
-  for (const run of attempts) {
+  const direct = { name: 'direct', run: () => fetchText(source.url).then(htmlToText) };
+  const browser = { name: 'direct-browser-ua', run: () => fetchText(source.url, { 'User-Agent': BROWSER_UA, 'Accept-Language': 'zh-CN,zh;q=0.9' }).then(htmlToText) };
+  const reader = { name: 'reader', run: () => fetchViaJina(source.url) };
+  const attempts = source.via === 'direct' ? [direct, browser, reader] : [reader, direct, browser];
+  const errors = [];
+  for (const a of attempts) {
     try {
-      const text = await run();
+      const text = await a.run();
       if (text && text.length > 200) return text;
-      lastErr = new Error('page too short');
-    } catch (e) { lastErr = e; }
+      errors.push(`${a.name}: page too short`);
+    } catch (e) { errors.push(`${a.name}: ${String(e?.message ?? e).slice(0, 80)}`); }
   }
-  throw lastErr ?? new Error('fetch failed');
+  throw new Error(errors.join(' / '));
 }
 
 // ---------- extraction ----------

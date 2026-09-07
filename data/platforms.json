@@ -336,8 +336,8 @@
       "officialResult": {
         "url": "https://autoclaw.zhipuai.cn/",
         "label": "AutoClaw 官网 FAQ",
-        "status": "failed",
-        "checkedAt": "2026-09-07T15:52:25.371Z",
+        "status": "no-number",
+        "checkedAt": "2026-09-07T15:54:06.401Z",
         "snippet": [
           "每月登陆AutoClaw，即领大额积分",
           "AutoClaw 基础功能可以免费使用，并提供每日免费积分额度。个人用户和中小团队可以在免费额度内完成文档生成、数据分析、浏览器自动化和 IM 助手体验；更高频或更复杂的任务可以按需选择付费方案。"
@@ -345,7 +345,7 @@
         "snippetHash": "b15c29487c674b9e",
         "matched": null,
         "lastOkAt": null,
-        "error": "HTTP 422",
+        "error": null,
         "snippetChangedAt": null
       }
     },
@@ -766,5 +766,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-09-07T15:52:13.524Z"
+  "lastUpdated": "2026-09-07T15:54:05.932Z"
 }
