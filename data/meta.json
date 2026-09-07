@@ -1,0 +1,22 @@
+{
+  "history": [
+    {
+      "at": "2026-09-07T15:29:23.253Z",
+      "atBeijing": "2026-09-07 23:29:23",
+      "status": "ok",
+      "changes": [],
+      "hash": "31ff60694c1a0473",
+      "sourceChanged": false
+    }
+  ],
+  "lastSyncAt": "2026-09-07T15:29:23.253Z",
+  "lastSyncAtBeijing": "2026-09-07 23:29:24",
+  "lastSuccessAt": "2026-09-07T15:29:23.253Z",
+  "lastSuccessAtBeijing": "2026-09-07 23:29:24",
+  "status": "ok",
+  "error": null,
+  "sourceHash": "31ff60694c1a0473",
+  "sourceChanged": false,
+  "sourceChangedAt": null,
+  "platformCount": 13
+}

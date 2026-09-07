@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>TokenEgg · 每日免费 Token 领取清单</title>
+  <meta name="description" content="中国 AI 公司每天可领取的免费 token / 积分额度，每日自动同步。">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🥚</text></svg>">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header class="hero">
+    <div class="wrap">
+      <div class="hero-top">
+        <h1><span class="egg">🥚</span> TokenEgg</h1>
+        <div class="hero-actions">
+          <button id="themeToggle" class="btn ghost" type="button" title="切换主题">🌗</button>
+          <a class="btn ghost" id="repoLink" href="#" target="_blank" rel="noopener" hidden>GitHub</a>
+        </div>
+      </div>
+      <p class="tagline">中国 AI 公司每天可领取的免费 token / 积分额度 · 每天北京时间 00:10 自动同步</p>
+
+      <div class="stats" id="stats">
+        <div class="stat"><div class="stat-num" id="statPlatforms">–</div><div class="stat-label">平台</div></div>
+        <div class="stat"><div class="stat-num" id="statDaily">–</div><div class="stat-label">每日可领积分（保底合计）</div></div>
+        <div class="stat"><div class="stat-num" id="statTokens">–</div><div class="stat-label">每日可领 token</div></div>
+        <div class="stat"><div class="stat-num" id="statClaimed">0 / 0</div><div class="stat-label">今日已领</div></div>
+        <div class="stat"><div class="stat-num" id="statCountdown">–</div><div class="stat-label">距北京时间 0 点刷新</div></div>
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="sync" id="syncBar" aria-live="polite">
+      <span class="dot" id="syncDot"></span>
+      <span id="syncText">正在加载同步状态…</span>
+      <a id="sourceLink" href="#" target="_blank" rel="noopener">查看来源回答 ↗</a>
+    </section>
+
+    <section class="toolbar">
+      <div class="chips" id="typeChips" role="tablist">
+        <button class="chip active" data-type="all" type="button">全部</button>
+        <button class="chip" data-type="daily" type="button">每日领取</button>
+        <button class="chip" data-type="limited" type="button">限时免费</button>
+        <button class="chip" data-type="free" type="button">长期免费</button>
+      </div>
+      <div class="toolbar-right">
+        <select id="companyFilter" aria-label="按公司筛选"><option value="">全部公司</option></select>
+        <select id="sortBy" aria-label="排序">
+          <option value="source">按原文顺序</option>
+          <option value="amount">按每日额度</option>
+          <option value="unclaimed">未领优先</option>
+        </select>
+        <input id="search" type="search" placeholder="搜索平台 / 模型…" aria-label="搜索">
+        <button id="resetClaims" class="btn ghost small" type="button" title="清除今日打卡记录">重置打卡</button>
+      </div>
+    </section>
+
+    <section class="grid" id="grid" aria-live="polite"></section>
+    <p class="empty" id="empty" hidden>没有匹配的平台。</p>
+
+    <section class="history">
+      <h2>同步记录</h2>
+      <ul id="history" class="history-list"></ul>
+    </section>
+
+    <section class="about">
+      <h2>关于</h2>
+      <p>数据整理自知乎用户 <a id="authorLink" href="#" target="_blank" rel="noopener">学写作的丧失</a> 的回答。GitHub Actions 每天北京时间 00:10 重新抓取该回答，比对原文并自动更新额度数字；「补充」一栏是来自各平台官网或社区帖的旁证，与原文不一致时以各平台站内实际显示为准。</p>
+      <p>打卡记录只保存在你自己的浏览器里（localStorage），按北京日期自动重置。本页面不提供任何登录或代领功能。</p>
+    </section>
+  </main>
+
+  <footer class="wrap foot">
+    <span>TokenEgg · 静态页面，托管于 GitHub Pages</span>
+    <span id="footUpdated"></span>
+  </footer>
+
+  <template id="cardTpl">
+    <article class="card">
+      <div class="card-head">
+        <div class="card-title">
+          <h3 class="name"></h3>
+          <span class="company"></span>
+        </div>
+        <label class="claim"><input type="checkbox" class="claim-box"><span>今日已领</span></label>
+      </div>
+      <div class="quota">
+        <div class="quota-main"></div>
+        <div class="quota-sub"></div>
+      </div>
+      <div class="badges"></div>
+      <ul class="models"></ul>
+      <p class="notes"></p>
+      <details class="more">
+        <summary>原文与补充</summary>
+        <blockquote class="quote"></blockquote>
+        <p class="extra"></p>
+        <p class="verified"></p>
+      </details>
+      <a class="go btn" target="_blank" rel="noopener">去领取 ↗</a>
+    </article>
+  </template>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>
