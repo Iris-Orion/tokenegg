@@ -1,6 +1,20 @@
 {
   "history": [
     {
+      "at": "2026-09-07T15:52:13.524Z",
+      "atBeijing": "2026-09-07 23:52:13",
+      "status": "ok",
+      "ok": 8,
+      "noNumber": 4,
+      "failed": 1,
+      "changes": [
+        {
+          "kind": "failed",
+          "message": "AutoClaw（澳龙）：官方页面抓取失败（HTTP 422）"
+        }
+      ]
+    },
+    {
       "at": "2026-09-07T15:48:15.072Z",
       "atBeijing": "2026-09-07 23:48:15",
       "status": "ok",
@@ -10,14 +24,14 @@
       "changes": []
     }
   ],
-  "lastSyncAt": "2026-09-07T15:48:15.072Z",
-  "lastSyncAtBeijing": "2026-09-07 23:48:45",
-  "lastSuccessAt": "2026-09-07T15:48:15.072Z",
+  "lastSyncAt": "2026-09-07T15:52:13.524Z",
+  "lastSyncAtBeijing": "2026-09-07 23:52:41",
+  "lastSuccessAt": "2026-09-07T15:52:13.524Z",
   "status": "ok",
   "counts": {
     "ok": 8,
-    "noNumber": 5,
-    "failed": 0
+    "noNumber": 4,
+    "failed": 1
   },
   "platformCount": 13,
   "error": null
