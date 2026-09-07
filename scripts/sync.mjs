@@ -33,7 +33,13 @@ async function readJson(file, fallback) {
 const UA = 'Mozilla/5.0 (compatible; tokenegg-sync/2.0; +https://github.com)';
 
 async function fetchText(url, headers = {}) {
-  const res = await fetch(url, { headers: { 'User-Agent': UA, ...headers }, signal: AbortSignal.timeout(75_000), redirect: 'follow' });
+  let res;
+  try {
+    res = await fetch(url, { headers: { 'User-Agent': UA, ...headers }, signal: AbortSignal.timeout(75_000), redirect: 'follow' });
+  } catch (e) {
+    const cause = e?.cause?.code || e?.cause?.message || e?.name;
+    throw new Error(cause ? `${e.message} (${cause})` : e.message);
+  }
   if (!res.ok) throw new Error(`HTTP ${res.status}`);
   return res.text();
 }
@@ -58,19 +64,34 @@ async function fetchViaJina(url) {
 
 const BROWSER_UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36';
 
+// Last resort for pages that only resolve inside mainland China: the latest Wayback Machine copy.
+async function fetchViaArchive(url) {
+  const avail = JSON.parse(await fetchText(`https://archive.org/wayback/available?url=${encodeURIComponent(url)}`));
+  const snap = avail?.archived_snapshots?.closest;
+  if (!snap?.available) throw new Error('no archived copy');
+  const html = await fetchText(`https://web.archive.org/web/${snap.timestamp}id_/${url}`);
+  const ts = snap.timestamp; // YYYYMMDDhhmmss
+  return { text: htmlToText(html), archivedAt: `${ts.slice(0, 4)}-${ts.slice(4, 6)}-${ts.slice(6, 8)}` };
+}
+
 async function fetchPage(source) {
   const direct = { name: 'direct', run: () => fetchText(source.url).then(htmlToText) };
   const browser = { name: 'direct-browser-ua', run: () => fetchText(source.url, { 'User-Agent': BROWSER_UA, 'Accept-Language': 'zh-CN,zh;q=0.9' }).then(htmlToText) };
   const reader = { name: 'reader', run: () => fetchViaJina(source.url) };
-  const attempts = source.via === 'direct' ? [direct, browser, reader] : [reader, direct, browser];
+  const attempts = process.env.TOKENEGG_FORCE_ARCHIVE ? [] : (source.via === 'direct' ? [direct, browser, reader] : [reader, direct, browser]);
   const errors = [];
   for (const a of attempts) {
     try {
       const text = await a.run();
-      if (text && text.length > 200) return text;
+      if (text && text.length > 200) return { text, via: a.name, archivedAt: null };
       errors.push(`${a.name}: page too short`);
     } catch (e) { errors.push(`${a.name}: ${String(e?.message ?? e).slice(0, 80)}`); }
   }
+  try {
+    const { text, archivedAt } = await fetchViaArchive(source.url);
+    if (text && text.length > 200) return { text, via: 'archive', archivedAt, liveErrors: errors.join(' / ') };
+    errors.push('archive: page too short');
+  } catch (e) { errors.push(`archive: ${String(e?.message ?? e).slice(0, 80)}`); }
   throw new Error(errors.join(' / '));
 }
 
@@ -129,7 +150,7 @@ async function syncPlatform(p) {
   const prev = p.officialResult ?? {};
   if (!src?.url) { result.status = 'skipped'; return result; }
   try {
-    const text = await fetchPage(src);
+    const { text, via, archivedAt, liveErrors } = await fetchPage(src);
     const snippet = extractSnippet(text, src.keywords ?? []);
     const parsed = applyRules(text, src.rules);
     const snapHash = hash(snippet.join('\n'));
@@ -139,8 +160,11 @@ async function syncPlatform(p) {
       url: src.url, label: src.label, status, checkedAt: nowIso(), snippet, snippetHash: snapHash,
       matched: parsed?.matchedText ?? null,
       lastOkAt: parsed ? nowIso() : (prev.lastOkAt ?? null),
-      error: null,
+      fetchedVia: via,
+      archivedAt: archivedAt ?? null,
+      error: archivedAt ? `官方页面无法直接访问（${liveErrors}），使用 ${archivedAt} 的网页存档` : null,
     };
+    if (archivedAt && !prev.archivedAt) result.changes.push({ kind: 'archive', message: `${p.name}：官方页面无法直接访问，改用 ${archivedAt} 的网页存档` });
     if (prev.snippetHash && prev.snippetHash !== snapHash) {
       result.changes.push({ kind: 'snippet', message: `${p.name}：官方页面额度说明有变化` });
       officialResult.snippetChangedAt = nowIso();

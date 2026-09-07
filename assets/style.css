@@ -132,6 +132,7 @@ input[type="search"] { min-width: 180px; }
 .badge.official.no-number { background: var(--warn-soft); color: var(--warn); }
 .badge.official.failed, .badge.official.unknown { background: var(--bad-soft); color: var(--bad); }
 .badge.changed { background: var(--accent-soft); color: var(--accent); }
+.badge.archive { background: var(--warn-soft); color: var(--warn); }
 .official-text { margin: 8px 0 4px; padding-left: 18px; }
 .official-text li { margin: 2px 0; }
 .official-text li.hit { color: var(--fg); font-weight: 600; }

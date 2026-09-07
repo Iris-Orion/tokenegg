@@ -118,6 +118,7 @@
       addBadge(p.type, typeLabel[p.type] || p.type);
       const st = off.status || 'unknown';
       addBadge(`official ${st}`, officialLabel[st] || '未同步', off.checkedAt ? `最近抓取 ${fmtBeijing(off.checkedAt)}（北京时间）` : '');
+      if (off.archivedAt) addBadge('archive', `网页存档 ${off.archivedAt}`, off.error || '官方页面无法直接访问，展示的是网页存档');
       if (off.snippetChangedAt && off.checkedAt && off.snippetChangedAt.slice(0, 10) === off.checkedAt.slice(0, 10)) {
         addBadge('changed', '官方页面今日有变化');
       }
@@ -150,7 +151,9 @@
       } else {
         const li = document.createElement('li'); li.textContent = '页面上没有找到与额度相关的文字。'; offText.appendChild(li);
       }
-      $('.official-time', offBox).textContent = off.checkedAt ? `抓取于 ${fmtBeijing(off.checkedAt)}（北京时间）` : '尚未抓取';
+      $('.official-time', offBox).textContent = off.checkedAt
+        ? `抓取于 ${fmtBeijing(off.checkedAt)}（北京时间）${off.archivedAt ? `，内容为 ${off.archivedAt} 的网页存档` : ''}`
+        : '尚未抓取';
 
       const go = $('.go', node);
       go.href = p.url;

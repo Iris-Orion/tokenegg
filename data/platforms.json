@@ -272,10 +272,10 @@
       "models": [
         "GLM 系列（智谱）"
       ],
-      "notes": "官网 FAQ 写明「提供每日免费积分额度」，另有按月登录送积分活动（Lite 5,000 / Pro 10,000 / Max 26,000）。autoclaw.zhipuai.cn 域名在境外解析不到，抓取用的是智谱同内容的 autoglm.zhipuai.cn 页面。",
+      "notes": "官网 FAQ 写明「提供每日免费积分额度」，另有按月登录送积分活动（Lite 5,000 / Pro 10,000 / Max 26,000）。官网域名在中国大陆以外解析不到，GitHub 抓取失败时改用网页存档。",
       "official": {
-        "label": "AutoClaw 官网（智谱 AutoGLM 站点镜像）FAQ",
-        "url": "https://autoglm.zhipuai.cn/autoclaw",
+        "label": "AutoClaw 官网 FAQ",
+        "url": "https://autoclaw.zhipuai.cn/",
         "via": "direct",
         "keywords": [
           "每日免费积分",
@@ -299,19 +299,20 @@
       },
       "fallbackDisplay": "每日免费积分（数量见站内）",
       "officialResult": {
-        "url": "https://autoglm.zhipuai.cn/autoclaw",
-        "label": "AutoClaw 官网（智谱 AutoGLM 站点镜像）FAQ",
-        "status": "failed",
-        "checkedAt": "2026-09-07T16:02:09.233Z",
+        "url": "https://autoclaw.zhipuai.cn/",
+        "label": "AutoClaw 官网 FAQ",
+        "status": "no-number",
+        "checkedAt": "2026-09-07T16:05:23.553Z",
         "snippet": [
-          "每月登陆AutoClaw，即领大额积分",
           "AutoClaw 基础功能可以免费使用，并提供每日免费积分额度。个人用户和中小团队可以在免费额度内完成文档生成、数据分析、浏览器自动化和 IM 助手体验；更高频或更复杂的任务可以按需选择付费方案。"
         ],
-        "snippetHash": "b15c29487c674b9e",
+        "snippetHash": "0dc79c93de8dfdee",
         "matched": null,
         "lastOkAt": null,
-        "error": "direct: fetch failed / direct-browser-ua: fetch failed / reader: HTTP 422",
-        "snippetChangedAt": null
+        "fetchedVia": "archive",
+        "archivedAt": "2026-07-16",
+        "error": "官方页面无法直接访问（），使用 2026-07-16 的网页存档",
+        "snippetChangedAt": "2026-09-07T16:05:23.553Z"
       }
     },
     {
@@ -699,5 +700,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-09-07T16:01:51.371Z"
+  "lastUpdated": "2026-09-07T16:05:19.781Z"
 }
