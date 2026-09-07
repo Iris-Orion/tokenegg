@@ -15,28 +15,22 @@
   };
 
   // ---------- Beijing date helpers ----------
-  const beijingDate = (d = new Date()) => {
-    const parts = new Intl.DateTimeFormat('en-CA', {
-      timeZone: 'Asia/Shanghai', year: 'numeric', month: '2-digit', day: '2-digit',
-    }).format(d);
-    return parts; // YYYY-MM-DD
-  };
+  const beijingDate = (d = new Date()) =>
+    new Intl.DateTimeFormat('en-CA', { timeZone: 'Asia/Shanghai', year: 'numeric', month: '2-digit', day: '2-digit' }).format(d);
   const claimKey = () => `tokenegg:claimed:${beijingDate()}`;
 
   const fmtBeijing = (iso) => {
     if (!iso) return '—';
     try {
       return new Intl.DateTimeFormat('zh-CN', {
-        timeZone: 'Asia/Shanghai', month: '2-digit', day: '2-digit',
-        hour: '2-digit', minute: '2-digit', hour12: false,
+        timeZone: 'Asia/Shanghai', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit', hour12: false,
       }).format(new Date(iso));
     } catch { return iso; }
   };
 
   const msUntilBeijingMidnight = () => {
     const now = new Date();
-    // Beijing is fixed UTC+8, no DST.
-    const bj = new Date(now.getTime() + 8 * 3600e3);
+    const bj = new Date(now.getTime() + 8 * 3600e3); // Beijing is fixed UTC+8
     const next = Date.UTC(bj.getUTCFullYear(), bj.getUTCMonth(), bj.getUTCDate() + 1);
     return next - bj.getTime();
   };
@@ -47,7 +41,6 @@
     try {
       const raw = localStorage.getItem(claimKey());
       if (raw) JSON.parse(raw).forEach((id) => state.claimed.add(id));
-      // Drop stale days.
       Object.keys(localStorage)
         .filter((k) => k.startsWith('tokenegg:claimed:') && k !== claimKey())
         .forEach((k) => localStorage.removeItem(k));
@@ -71,17 +64,21 @@
     try { localStorage.setItem('tokenegg:theme', next); } catch { /* ignore */ }
   });
 
-  // ---------- number formatting ----------
+  // ---------- formatting ----------
   const fmtCN = (n) => {
     if (n == null) return '—';
     if (n >= 1e8) return `${+(n / 1e8).toFixed(2)} 亿`;
     if (n >= 1e4) return `${+(n / 1e4).toFixed(n % 1e4 ? 1 : 0)} 万`;
     return String(n);
   };
+  const typeLabel = { daily: '每日领取', limited: '限时免费', free: '长期免费' };
+  const officialLabel = {
+    ok: '官方已核对',
+    'no-number': '官方未标数量',
+    failed: '官方页抓取失败',
+  };
 
   // ---------- rendering ----------
-  const typeLabel = { daily: '每日领取', limited: '限时免费', free: '长期免费' };
-
   const render = () => {
     const grid = $('#grid');
     const tpl = $('#cardTpl');
@@ -89,7 +86,8 @@
     const q = state.query.trim().toLowerCase();
 
     let list = state.data.platforms.map((p, i) => ({ ...p, _i: i }));
-    if (state.type !== 'all') list = list.filter((p) => p.type === state.type);
+    if (state.type === 'official') list = list.filter((p) => p.officialResult?.status === 'ok');
+    else if (state.type !== 'all') list = list.filter((p) => p.type === state.type);
     if (state.company) list = list.filter((p) => p.company === state.company);
     if (q) {
       list = list.filter((p) =>
@@ -97,8 +95,8 @@
     }
     const scoreAmount = (p) => {
       if (p.quota?.amount == null) return -1;
-      // Compare tokens and points on a rough common scale so tokens don't swamp everything.
-      return p.quota.unit === 'token' ? p.quota.amount / 1e4 : p.quota.amount;
+      const perDay = p.quota.period === '每月' ? p.quota.amount / 30 : p.quota.amount;
+      return p.quota.unit === 'token' ? perDay / 1e4 : perDay;
     };
     if (state.sort === 'amount') list.sort((a, b) => scoreAmount(b) - scoreAmount(a));
     if (state.sort === 'unclaimed') {
@@ -107,39 +105,61 @@
 
     for (const p of list) {
       const node = tpl.content.firstElementChild.cloneNode(true);
+      const off = p.officialResult || {};
       node.dataset.id = p.id;
       $('.name', node).textContent = p.name;
       $('.company', node).textContent = p.company;
-      $('.quota-main', node).textContent = p.quota?.display || '免费';
-      $('.quota-sub', node).textContent = p.claim || '';
+      $('.quota-main', node).textContent = p.quota?.display || p.community?.display || '免费';
+      const sub = [];
+      if (p.quota?.scope) sub.push(p.quota.scope);
+      if (p.claim) sub.push(p.claim);
+      $('.quota-sub', node).textContent = sub.join(' · ');
 
       const badges = $('.badges', node);
-      const b = document.createElement('span');
-      b.className = `badge ${p.type}`;
-      b.textContent = typeLabel[p.type] || p.type;
-      badges.appendChild(b);
-      const missing = state.meta?.status === 'ok' && p.lastSeenInSource && state.meta.lastSuccessAt
-        && p.lastSeenInSource.slice(0, 10) < state.meta.lastSuccessAt.slice(0, 10);
-      if (missing) {
-        const m = document.createElement('span');
-        m.className = 'badge missing';
-        m.textContent = '原文已移除？';
-        badges.appendChild(m);
-        node.classList.add('missing');
+      const addBadge = (cls, text, title) => {
+        const b = document.createElement('span');
+        b.className = `badge ${cls}`; b.textContent = text; if (title) b.title = title;
+        badges.appendChild(b);
+      };
+      addBadge(p.type, typeLabel[p.type] || p.type);
+      const st = off.status || 'unknown';
+      addBadge(`official ${st}`, officialLabel[st] || '未同步', off.checkedAt ? `最近抓取 ${fmtBeijing(off.checkedAt)}（北京时间）` : '');
+      if (p.quotaSource === 'community') addBadge('community', '数字来自社区', '官方页面未写明数量，展示的是知乎回答里的数字');
+      if (off.snippetChangedAt && off.checkedAt && off.snippetChangedAt.slice(0, 10) === off.checkedAt.slice(0, 10)) {
+        addBadge('changed', '官方页面今日有变化');
       }
+      if (st === 'failed') node.classList.add('missing');
 
       const models = $('.models', node);
       (p.models || []).forEach((name) => {
-        const li = document.createElement('li');
-        li.textContent = name;
-        models.appendChild(li);
+        const li = document.createElement('li'); li.textContent = name; models.appendChild(li);
       });
       $('.notes', node).textContent = p.notes || '';
-      $('.quote', node).textContent = p.sourceQuote || '';
-      $('.extra', node).textContent = p.extra ? `补充：${p.extra}` : '';
-      $('.verified', node).textContent = p.quotaVerifiedAt
-        ? `额度最近一次与原文核对：${fmtBeijing(p.quotaVerifiedAt)}（北京时间）`
-        : '额度尚未自动核对';
+
+      // Official excerpt
+      const offBox = $('.official-box', node);
+      const offLink = $('.official-link', node);
+      offLink.href = off.url || p.official?.url || p.url;
+      offLink.textContent = off.label || p.official?.label || '官方页面';
+      const offText = $('.official-text', node);
+      offText.innerHTML = '';
+      if (off.status === 'failed') {
+        const li = document.createElement('li'); li.className = 'err';
+        li.textContent = `抓取失败：${off.error || '未知错误'}${off.lastOkAt ? `（上次成功 ${fmtBeijing(off.lastOkAt)}）` : ''}`;
+        offText.appendChild(li);
+      } else if ((off.snippet || []).length) {
+        off.snippet.forEach((line) => {
+          const li = document.createElement('li');
+          li.textContent = line;
+          if (off.matched && line.includes(off.matched.split(' | ')[0].slice(0, 12))) li.classList.add('hit');
+          offText.appendChild(li);
+        });
+      } else {
+        const li = document.createElement('li'); li.textContent = '页面上没有找到与额度相关的文字。'; offText.appendChild(li);
+      }
+      $('.official-time', offBox).textContent = off.checkedAt ? `抓取于 ${fmtBeijing(off.checkedAt)}（北京时间）` : '尚未抓取';
+
+      $('.quote', node).textContent = p.community?.quote || '';
 
       const go = $('.go', node);
       go.href = p.url;
@@ -164,12 +184,14 @@
   const renderStats = () => {
     const ps = state.data.platforms;
     $('#statPlatforms').textContent = ps.length;
-    const pts = ps.filter((p) => p.quota?.unit === '积分' && p.quota.amount != null)
-      .reduce((s, p) => s + p.quota.amount, 0);
-    const tokens = ps.filter((p) => p.quota?.unit === 'token' && p.quota.amount != null)
+    const daily = ps.filter((p) => p.quota?.period === '每天' && p.quota.unit === '积分' && p.quota.amount != null);
+    const pts = daily.reduce((s, p) => s + p.quota.amount, 0);
+    const tokens = ps.filter((p) => p.quota?.period === '每天' && p.quota.unit === 'token' && p.quota.amount != null)
       .reduce((s, p) => s + p.quota.amount, 0);
     $('#statDaily').textContent = pts.toLocaleString('zh-CN');
     $('#statTokens').textContent = tokens ? `${fmtCN(tokens)}+` : '—';
+    const okCount = ps.filter((p) => p.officialResult?.status === 'ok').length;
+    $('#statOfficial').textContent = `${okCount} / ${ps.length}`;
     $('#statClaimed').textContent = `${[...state.claimed].filter((id) => ps.some((p) => p.id === id)).length} / ${ps.length}`;
   };
 
@@ -178,10 +200,14 @@
     const m = state.meta;
     bar.classList.remove('ok', 'failed', 'changed');
     if (!m) { $('#syncText').textContent = '尚无同步记录。'; return; }
+    const c = m.counts || {};
+    const latest = (m.history || [])[0];
+    const nChanges = latest?.changes?.length || 0;
     let text;
     if (m.status === 'ok') {
-      text = `最近同步 ${fmtBeijing(m.lastSyncAt)}（北京时间）· 原文${m.sourceChanged ? '有更新，已自动比对' : '无变化'}`;
-      bar.classList.add(m.sourceChanged ? 'changed' : 'ok');
+      text = `最近同步 ${fmtBeijing(m.lastSyncAt)}（北京时间）· 官方页面：${c.ok ?? 0} 家解析出数字，${c.noNumber ?? 0} 家未标数量，${c.failed ?? 0} 家抓取失败`;
+      if (nChanges) text += ` · 本次 ${nChanges} 处变化`;
+      bar.classList.add(nChanges ? 'changed' : 'ok');
     } else {
       text = `最近一次同步失败（${fmtBeijing(m.lastSyncAt)}）：${m.error || '未知错误'}。当前展示的是 ${fmtBeijing(m.lastSuccessAt)} 的数据。`;
       bar.classList.add('failed');
@@ -194,14 +220,11 @@
     (m.history || []).slice(0, 14).forEach((h) => {
       const li = document.createElement('li');
       const t = document.createElement('span'); t.className = 'time'; t.textContent = h.atBeijing || fmtBeijing(h.at);
-      const st = document.createElement('span'); st.className = `st ${h.status}`; st.textContent = h.status === 'ok' ? '成功' : '失败';
+      const st = document.createElement('span'); st.className = `st ${h.status}`;
+      st.textContent = h.status === 'ok' ? `成功 ${h.ok ?? '?'}/${(h.ok ?? 0) + (h.noNumber ?? 0) + (h.failed ?? 0)}` : '失败';
       const ch = document.createElement('span'); ch.className = 'ch';
-      if (h.status === 'ok') {
-        const n = (h.changes || []).length;
-        ch.textContent = n ? (h.changes.map((c) => c.message).join('；')) : (h.sourceChanged ? '原文有改动，但额度未变' : '无变化');
-      } else {
-        ch.textContent = h.error || '';
-      }
+      const n = (h.changes || []).length;
+      ch.textContent = n ? h.changes.map((x) => x.message).join('；') : (h.status === 'ok' ? '无变化' : (h.error || ''));
       li.append(t, st, ch);
       hist.appendChild(li);
     });
@@ -226,9 +249,7 @@
   $('#companyFilter').addEventListener('change', (e) => { state.company = e.target.value; render(); });
   $('#sortBy').addEventListener('change', (e) => { state.sort = e.target.value; render(); });
   $('#search').addEventListener('input', (e) => { state.query = e.target.value; render(); });
-  $('#resetClaims').addEventListener('click', () => {
-    state.claimed.clear(); saveClaims(); render();
-  });
+  $('#resetClaims').addEventListener('click', () => { state.claimed.clear(); saveClaims(); render(); });
 
   // ---------- boot ----------
   const boot = async () => {
@@ -241,15 +262,15 @@
     state.meta = meta;
     loadClaims();
 
-    $('#sourceLink').href = data.source.url;
-    $('#authorLink').href = data.source.authorUrl;
-    $('#authorLink').textContent = data.source.author;
-    const repo = document.documentElement.dataset.repo || '';
+    const src = data.community || {};
+    $('#sourceLink').href = src.url || '#';
+    $('#authorLink').href = src.authorUrl || '#';
+    $('#authorLink').textContent = src.author || '知乎回答';
     if (location.hostname.endsWith('github.io')) {
       const owner = location.hostname.split('.')[0];
       const name = location.pathname.split('/').filter(Boolean)[0];
       if (name) { const a = $('#repoLink'); a.href = `https://github.com/${owner}/${name}`; a.hidden = false; }
-    } else if (repo) { const a = $('#repoLink'); a.href = repo; a.hidden = false; }
+    }
 
     const companies = [...new Set(data.platforms.map((p) => p.company))];
     const sel = $('#companyFilter');
@@ -259,7 +280,6 @@
     render();
     tickCountdown();
     setInterval(tickCountdown, 30e3);
-    // If the Beijing date rolls over while the page is open, reset claims.
     let day = beijingDate();
     setInterval(() => { const d = beijingDate(); if (d !== day) { day = d; loadClaims(); render(); } }, 60e3);
   };

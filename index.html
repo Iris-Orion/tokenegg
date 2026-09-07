@@ -18,12 +18,13 @@
           <a class="btn ghost" id="repoLink" href="#" target="_blank" rel="noopener" hidden>GitHub</a>
         </div>
       </div>
-      <p class="tagline">中国 AI 公司每天可领取的免费 token / 积分额度 · 每天北京时间 00:10 自动同步</p>
+      <p class="tagline">中国 AI 公司每天可领取的免费 token / 积分额度 · 每天北京时间 00:10 自动抓取各平台官方页面核对</p>
 
       <div class="stats" id="stats">
         <div class="stat"><div class="stat-num" id="statPlatforms">–</div><div class="stat-label">平台</div></div>
         <div class="stat"><div class="stat-num" id="statDaily">–</div><div class="stat-label">每日可领积分（保底合计）</div></div>
         <div class="stat"><div class="stat-num" id="statTokens">–</div><div class="stat-label">每日可领 token</div></div>
+        <div class="stat"><div class="stat-num" id="statOfficial">–</div><div class="stat-label">官方页面已核对</div></div>
         <div class="stat"><div class="stat-num" id="statClaimed">0 / 0</div><div class="stat-label">今日已领</div></div>
         <div class="stat"><div class="stat-num" id="statCountdown">–</div><div class="stat-label">距北京时间 0 点刷新</div></div>
       </div>
@@ -34,7 +35,7 @@
     <section class="sync" id="syncBar" aria-live="polite">
       <span class="dot" id="syncDot"></span>
       <span id="syncText">正在加载同步状态…</span>
-      <a id="sourceLink" href="#" target="_blank" rel="noopener">查看来源回答 ↗</a>
+      <a id="sourceLink" href="#" target="_blank" rel="noopener">社区来源（知乎回答）↗</a>
     </section>
 
     <section class="toolbar">
@@ -43,6 +44,7 @@
         <button class="chip" data-type="daily" type="button">每日领取</button>
         <button class="chip" data-type="limited" type="button">限时免费</button>
         <button class="chip" data-type="free" type="button">长期免费</button>
+        <button class="chip" data-type="official" type="button">官方已核对</button>
       </div>
       <div class="toolbar-right">
         <select id="companyFilter" aria-label="按公司筛选"><option value="">全部公司</option></select>
@@ -66,7 +68,8 @@
 
     <section class="about">
       <h2>关于</h2>
-      <p>数据整理自知乎用户 <a id="authorLink" href="#" target="_blank" rel="noopener">学写作的丧失</a> 的回答。GitHub Actions 每天北京时间 00:10 重新抓取该回答，比对原文并自动更新额度数字；「补充」一栏是来自各平台官网或社区帖的旁证，与原文不一致时以各平台站内实际显示为准。</p>
+      <p>每个平台都对应一个<strong>不需要登录就能访问的官方页面</strong>（帮助中心、定价页或产品文档）。GitHub Actions 每天北京时间 00:10 抓取这些页面，摘出与免费额度相关的原文，能解析出数字的直接更新卡片上的额度，并记录页面文字的变化。</p>
+      <p>官方页面只写了「每日赠送」却没写数量、或页面是纯前端渲染抓不到文字的平台，卡片会标「官方未标数量」，数字沿用知乎用户 <a id="authorLink" href="#" target="_blank" rel="noopener">学写作的丧失</a> 回答里的社区数据，并附上官方原文供对照。以各平台站内实际显示为准。</p>
       <p>打卡记录只保存在你自己的浏览器里（localStorage），按北京日期自动重置。本页面不提供任何登录或代领功能。</p>
     </section>
   </main>
@@ -92,11 +95,14 @@
       <div class="badges"></div>
       <ul class="models"></ul>
       <p class="notes"></p>
+      <details class="more official-box" open>
+        <summary>官方页面原文 · <a class="official-link" href="#" target="_blank" rel="noopener">官方页面</a></summary>
+        <ul class="official-text"></ul>
+        <p class="official-time"></p>
+      </details>
       <details class="more">
-        <summary>原文与补充</summary>
+        <summary>社区数据（知乎回答原文）</summary>
         <blockquote class="quote"></blockquote>
-        <p class="extra"></p>
-        <p class="verified"></p>
       </details>
       <a class="go btn" target="_blank" rel="noopener">去领取 ↗</a>
     </article>

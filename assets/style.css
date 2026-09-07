@@ -128,6 +128,16 @@ input[type="search"] { min-width: 180px; }
 .badge.limited { background: var(--warn-soft); color: var(--warn); }
 .badge.free { background: var(--info-soft); color: var(--info); }
 .badge.missing { background: var(--bad-soft); color: var(--bad); }
+.badge.official.ok { background: var(--ok-soft); color: var(--ok); }
+.badge.official.no-number { background: var(--warn-soft); color: var(--warn); }
+.badge.official.failed, .badge.official.unknown { background: var(--bad-soft); color: var(--bad); }
+.badge.community { background: var(--bg); color: var(--muted); border: 1px solid var(--line); }
+.badge.changed { background: var(--accent-soft); color: var(--accent); }
+.official-text { margin: 8px 0 4px; padding-left: 18px; }
+.official-text li { margin: 2px 0; }
+.official-text li.hit { color: var(--fg); font-weight: 600; }
+.official-text li.err { color: var(--bad); }
+.official-time { margin: 0; font-size: 12px; }
 
 .models { margin: 0; padding: 0; list-style: none; display: flex; flex-wrap: wrap; gap: 6px; }
 .models li { font-size: 12.5px; padding: 3px 8px; border-radius: 6px; background: var(--bg); border: 1px solid var(--line); font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
