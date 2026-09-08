@@ -1,9 +1,9 @@
-<!-- https://joycode.jd.com/pricing/ fetched 2026-09-07T19:55:06.314Z -->
+<!-- https://joycode.jd.com/pricing/ fetched 2026-09-08T19:26:49.656Z -->
 Title: JoyCode | JoyCode
 
 URL Source: https://joycode.jd.com/pricing/
 
-Published Time: Mon, 31 Aug 2026 16:47:05 GMT
+Published Time: Tue, 08 Sep 2026 13:55:31 GMT
 
 Markdown Content:
 [Skip to main content](https://joycode.jd.com/pricing/#)
@@ -12,7 +12,7 @@ Markdown Content:
 
 [功能](https://joycode.jd.com/)[案例](https://joycode.jd.com/case)[文档](https://joycode.jd.com/docs/start/getting-started)[定价](https://joycode.jd.com/pricing)
 
-[下载 IDE](https://joycode.jd.com/pricing/)
+[![Image 2](https://joycode.jd.com/img/ui/clickToJump.png)](https://www.ai-race.com.cn/)[下载 IDE](https://joycode.jd.com/pricing/)
 
 登录
 
@@ -100,7 +100,7 @@ Markdown Content:
 
 [京东云官网](https://www.jdcloud.com/)[JoyAgent](https://www.jdcloud.com/cn/products/agents)
 
-[![Image 2: 京东云](https://img1.jcloudcs.com/portal/jdcloud-logo-white-2021.svg)](https://www.jdcloud.com/)
+[![Image 3: 京东云](https://img1.jcloudcs.com/portal/jdcloud-logo-white-2021.svg)](https://www.jdcloud.com/)
 
 售前：400-098-8505转1
 
@@ -108,6 +108,6 @@ Markdown Content:
 
 [邮箱：org.joycode5@jd.com](mailto:org.joycode5@jd.com)
 
-![Image 3: 扫一扫](https://joycode.s3.cn-north-1.jdcloud-oss.com/JoyCodeIDE-%E5%AE%98%E7%BD%91/qywx.png)
+![Image 4: 扫一扫](https://joycode.s3.cn-north-1.jdcloud-oss.com/JoyCodeIDE-%E5%AE%98%E7%BD%91/qywx.png)
 扫码加入交流群
 

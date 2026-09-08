@@ -1,13 +1,9 @@
-<!-- https://help.aliyun.com/zh/qwenwork/qw-personal-benefits fetched 2026-09-07T19:53:26.030Z -->
+<!-- https://help.aliyun.com/zh/qwenwork/qw-personal-benefits fetched 2026-09-08T19:24:47.835Z -->
 Title: 个人版权益
 
 URL Source: https://help.aliyun.com/zh/qwenwork/qw-personal-benefits
 
-Published Time: Mon, 07 Sep 2026 19:49:28 GMT
-
 Markdown Content:
-[](https://yunqi.aliyun.com/)[](https://help.aliyun.com/zh/qwenwork/qw-personal-benefits)
-
 [](https://www.aliyun.com/)
 
 [大模型](https://www.qianwenai.com/)[产品](https://www.aliyun.com/product/list)[解决方案](https://www.aliyun.com/solution/tech-solution/)[权益](https://www.aliyun.com/benefit)[定价](https://www.aliyun.com/price)[云市场](https://market.aliyun.com/)[伙伴](https://partner.aliyun.com/management/v2)[服务](https://www.aliyun.com/service)[了解阿里云](https://www.aliyun.com/about)
@@ -538,4 +534,8 @@ Serverless
 
 [SAP 解决方案](https://help.aliyun.com/zh/sap-solution/)
 
-[金融云](htt
+[金融云](https://help.aliyun.com/zh/product/29849.html)
+
+[阿里云集成转售解决方案](https://help.aliyun.com/zh/product/90850.html)
+
+[数据湖 OpenLake](https://help.ali

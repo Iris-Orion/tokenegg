@@ -1,4 +1,4 @@
-<!-- https://docs.trae.cn/ide_plans-and-billing fetched 2026-09-07T19:53:28.354Z -->
+<!-- https://docs.trae.cn/ide_plans-and-billing fetched 2026-09-08T19:24:57.900Z -->
 Title: 套餐与计费
 
 URL Source: https://docs.trae.cn/ide_plans-and-billing
@@ -65,6 +65,8 @@ IDE 设置
 TraeCode/会员套餐/套餐与计费
 
 # 套餐与计费
+
+Copy Page
 
 TRAE 采用以积分为核心的计费体系。本文介绍积分类型、会员套餐、增购积分、支付方式及积分获取、消耗、退还等规则，帮助你根据使用需求选择合适的套餐并理解积分管理方式。
 
@@ -252,4 +254,10 @@ Helpful Not helpful
 [原 “优速通 Express” 用户如何处理？](https://docs.trae.cn/ide_plans-and-billing#hV6chwSJ5 "原 “优速通 Express” 用户如何处理？")
 
 [剩余 “速通” 次数如何折算？](https://docs.trae.cn/ide_plans-and-billing#hrBUb9HUx "剩余 “速通” 次数如何折算？")
+
+X
+
+100%
+
+![Image 2](https://docs.trae.cn/ide_plans-and-billing)
 

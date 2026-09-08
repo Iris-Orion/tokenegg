@@ -1,4 +1,4 @@
-<!-- https://docs.coze.cn/coze_pro_credits fetched 2026-09-07T19:53:50.872Z -->
+<!-- https://docs.coze.cn/coze_pro_credits fetched 2026-09-08T19:25:19.329Z -->
 Title: 积分
 
 URL Source: https://docs.coze.cn/coze_pro_credits
@@ -6,7 +6,7 @@ URL Source: https://docs.coze.cn/coze_pro_credits
 Markdown Content:
 [![Image 1: 扣子](https://p9-arcosite.byteimg.com/tos-cn-i-goo7wpa0wc/135afe80ad8d4b4e93ec55ec2de2ce12~tplv-goo7wpa0wc-topic.png) 扣子](https://www.coze.cn/)
 
-[扣子](https://docs.coze.cn/what_is_coze)[扣子编程](https://docs.coze.cn/guides_welcome)[教程](https://docs.coze.cn/videos-start-from-vague-ideas)[定价](https://docs.coze.cn/coze_pro_billing_overview)[资源](https://docs.coze.cn/coze_pro_credits)
+[扣子](https://docs.coze.cn/what_is_coze)[扣子编程](https://docs.coze.cn/guides_welcome)[教程](https://docs.coze.cn/ppt-plugin)[定价](https://docs.coze.cn/coze_pro_billing_overview)[资源](https://docs.coze.cn/coze_pro_credits)
 
 AI 助手
 
@@ -62,7 +62,7 @@ Copy Page
 积分是扣子平台各项资源消耗的**统一计量与结算单位**，不可反向兑换为现金。积分主要用于抵扣开发扣子任务、开发与运行 AI 编程项目（智能体、应用、工作流、技能）等场景下产生的资源消耗，涵盖扣子任务、扣子编程任务、内置集成、大模型 Token、工具调用、音视频时长及存储等费用。
 
 *   **个人版、团队版**：不支持超额使用。当积分为 0 时，各项服务将停止。你需增购积分或等待下一周期重置。
-*   **企业版**：当积分余额不足，系统将按 1000:1（积分:现金）比例自动从你的火山引擎现金账户扣款，以确保业务持续运行。
+*   **企业版**：当积分余额不足，系统将按 1000:1（积分:现金）比例自动从你的火山引擎现金账号扣款，以确保业务持续运行。
 
 ## 积分用途
 
@@ -70,7 +70,7 @@ Copy Page
 
 | **服务分类** | **计费项** |
 | --- | --- |
-| 扣子 | [扣子任务费用](https://docs.coze.cn/coze_pro/coze_task_fee)、[云设备费用](https://docs.coze.cn/coze_pro/cloud_device_fee)、[旁听费用](https://docs.coze.cn/coze_pro_audit_fee) |
+| 扣子 | [扣子任务费用](https://docs.coze.cn/coze_pro/coze_task_fee)、[云设备费用](https://docs.coze.cn/coze_pro/cloud_device_fee)、[旁听费用](https://docs.coze.cn/coze_pro_audit_fee)、[付费技能费用](https://docs.coze.cn/skill-fee) |
 | 扣子编程 | AI 项目 | [扣子编程任务费用](https://docs.coze.cn/coze_pro/task_fee)、[内置集成费用](https://docs.coze.cn/coze_pro/internal_integrations_fee)、[服务托管费用](https://docs.coze.cn/coze_pro_service_hosting_fee) |
 | 低代码项目 | [模型费用](https://docs.coze.cn/coze_pro/model_fee)、[插件费用](https://docs.coze.cn/coze_pro/plugin_fee)、[音视频费用](https://docs.coze.cn/coze_pro/asr_tts_fee)、[记忆库费用](https://docs.coze.cn/coze_pro/memory_fee)、[知识库空间费用](https://docs.coze.cn/coze_pro/knowledge_storage_fee)、[资源扩容费用](https://docs.coze.cn/coze_pro/resource_expansion_fee)、[席位费用（已下架）](https://docs.coze.cn/coze_pro/member_fee)、[智能体调用费用（已下架）](https://docs.coze.cn/coze_pro/bot_request_fee) |
 | 扣子罗盘 | [提示词智能优化费用](https://docs.coze.cn/coze_pro/cozeloop_intelligent_optimization_fee)、[Trace 日志费用](https://docs.coze.cn/coze_pro/trace_fee) |
@@ -88,15 +88,14 @@ Copy Page
 
 | **获取方式** | **支持的套餐** | **积分数量** | **有效期** |
 | --- | --- | --- | --- |
-| 购买套餐：订阅积分 | * 个人进阶版 * 个人高阶版 * 个人旗舰版 * 个人尊享版 * 团队高阶版 * 团队旗舰版 * 团队尊享版 * 企业标准版 * 企业旗舰版 | * 个人进阶版：3 万积分 * 个人高阶版：9.9 万积分 * 个人旗舰版：19.9 万积分 * 个人尊享版：99.9 万积分 * 团队高阶版：19.8万积分起 * 团队旗舰版：39.8万积分起 * 团队尊享版：199.8万积分起 * 企业标准版：34.5 万积分起 * 企业旗舰版：207 万积分起 | 1 个月 （非自然月重置） |
+| 购买套餐：订阅积分 | * 个人进阶版 * 个人高阶版 * 个人旗舰版 * 个人尊享版 * 团队高阶版 * 团队旗舰版 * 团队尊享版 * 企业标准版 * 企业旗舰版 | * 个人进阶版：3 万积分 * 个人高阶版：9.9 万积分 * 个人旗舰版：19.9 万积分 * 个人尊享版：99.9 万积分 * 团队高阶版：9.9万积分起 * 团队旗舰版：19.9万积分起 * 团队尊享版：99.9万积分起 * 企业标准版：34.5 万积分起 * 企业旗舰版：207 万积分起 | 1 个月 （非自然月重置） |
 | 充值购买：增购积分 | * 个人高阶版 * 个人旗舰版 * 个人尊享版 * 团队高阶版 * 团队旗舰版 * 团队尊享版 * 企业标准版 * 企业旗舰版 | * 个人版、团队版：1 万、5 万、10 万、15 万、45 万、100 万 * 企业版：1 万、10 万、1000 万 | 1 年 （非自然年重置） |
-| 每日登录扣子：活动积分 | 个人版 | 1500 积分 | 1 天 |
 | 个人版新用户注册扣子：活动积分 | 个人免费版 | 一次性赠送 1500 积分 | 30 天 |
 
 ## 抵扣顺序
 
 *   优先消耗即将过期的积分。
-*   若到期时间相同，则按照**每日登录活动积分 > 新用户一次性积分 > 订阅积分 > 增购积分**顺序抵扣。
+*   若到期时间相同，则按照**新用户一次性积分 > 订阅积分 > 增购积分**顺序抵扣。
 
 ## 购买积分
 
@@ -112,14 +111,10 @@ Copy Page
 
 1.   在[扣子](https://www.coze.cn/?surl_token=FJvCs&zlink_code=FFKdE&utm_medium=docs&utm_source=docs&utm_content=landingpage&utm_id=&utm_campaign=&utm_term=docs&utm_source_platform=)或[扣子编程](https://code.coze.cn/home?surl_token=FJvCs&zlink_code=FFKdE&utm_medium=docs&utm_source=docs&utm_content=landingpage&utm_id=&utm_campaign=&utm_term=docs&utm_source_platform=)的左下角，单击**积分**卡片。
 2.   在**订阅管理**页面的**积分**区域，单击**增购积分**。
-
-![Image 2: Image](https://p9-arcosite.byteimg.com/tos-cn-i-goo7wpa0wc/a8e31912e75644778c376aeeb1fe9dda~tplv-goo7wpa0wc-topic.webp)
 3.   选择积分规格，并完成支付。
 
-1.   在扣子 App 的左下角，单击**我的**。
+1.   在扣子 App 的左下角，单击**更多**。
 2.   在**账户信息**页，单击**积分**。
-
-![Image 3: Image](https://p9-arcosite.byteimg.com/tos-cn-i-goo7wpa0wc/016fd7cab3de4fff959e1e627e204d9e~tplv-goo7wpa0wc-topic.webp)
 3.   选择积分规格，并完成支付。
 
 ## 积分预警
@@ -145,7 +140,7 @@ Copy Page
  为确保能及时收到积分余量预警通知，请先完成消息接收配置。 
     1.   在[消息中心](https://console.volcengine.com/message/setting)的**基本接收配置**页面，找到**资源包余额预警**。
 
-![Image 4: Image](https://p9-arcosite.byteimg.com/tos-cn-i-goo7wpa0wc/49f89dd3f36f43068ed6c5d49ff7dc57~tplv-goo7wpa0wc-topic.webp)
+![Image 2: Image](https://p9-arcosite.byteimg.com/tos-cn-i-goo7wpa0wc/49f89dd3f36f43068ed6c5d49ff7dc57~tplv-goo7wpa0wc-topic.webp)
     2.   设置消息的接收渠道及接收人。
 
  单击**编辑**，可以添加接收人。
@@ -163,12 +158,38 @@ Copy Page
 
 *   **个人版、团队版**：以**积分**形式补发到账户，1 个工作日内完成。你可以在**订阅管理**页面**积分明细**中查看补发记录。
 
-![Image 5: Image](https://p9-arcosite.byteimg.com/tos-cn-i-goo7wpa0wc/69ce8c706ef84ec4a8555800bd1ae8bd~tplv-goo7wpa0wc-topic.webp)
+![Image 3: Image](https://p9-arcosite.byteimg.com/tos-cn-i-goo7wpa0wc/69ce8c706ef84ec4a8555800bd1ae8bd~tplv-goo7wpa0wc-topic.webp)
 *   **企业版**：平台会统计失败任务消耗的积分，但不支持自动处理并退回积分。扣子团队将根据 SLA 协议相关约定，提供对应补偿。该策略同时适用于**原个人进阶版**、**原团队版和原企业版**。
 
 ## 查看积分消耗明细
 
 你可以从多个维度查看套餐的积分消耗明细。具体操作，请参考[账单与用量](https://docs.coze.cn/coze_pro_bills_and_usage)。
+
+## 通过成就系统领取积分
+
+说明
+
+订阅套餐限制：个人版
+
+成就系统是扣子提供的积分任务与奖励机制。个人版用户在这里查看可完成的探索任务、追踪自己的活跃记录。完成指定任务后，对应成就会被点亮，同时获得相应积分奖励。
+
+成就系统主要包含三部分：成就任务、活跃足迹和徽章墙。
+
+*   **成就任务**：扣子会为你分配一系列探索任务，比如「让扣子认识你」、「在手机上聊一次」等。每个任务都会标明完成条件和可获得的积分奖励。单击**去完成**，即可跳转到对应的功能页面，你只需要按照任务指引完成操作，系统就会自动识别完成状态，点亮对应成就，并发放积分奖励。
+*   **活跃足迹**：展示你过去 12 个月的使用记录，帮助你了解自己在扣子中的持续活跃情况。每天和扣子聊一次即可保持活跃。右侧的热力图展示了过去一年的活跃分布，颜色越深表示当天积分消耗越多。将鼠标悬停在具体日期上，可以查看当天的积分消耗情况。
+*   **徽章墙**：展示你获得过的所有成就徽章。完成成就任务后，对应徽章会被点亮。
+
+你可以在**订阅管理**页面，查看成就系统。
+
+桌面端、网页端 移动端
+
+1.   在[扣子](https://www.coze.cn/?surl_token=FJvCs&zlink_code=FFKdE&utm_medium=docs&utm_source=docs&utm_content=landingpage&utm_id=&utm_campaign=&utm_term=docs&utm_source_platform=)或[扣子编程](https://code.coze.cn/home?surl_token=FJvCs&zlink_code=FFKdE&utm_medium=docs&utm_source=docs&utm_content=landingpage&utm_id=&utm_campaign=&utm_term=docs&utm_source_platform=)的左下角，单击**积分**卡片。
+2.   在**订阅管理**页面，查看成就系统。
+
+![Image 4: Image](https://p9-arcosite.byteimg.com/tos-cn-i-goo7wpa0wc/b80723b2810c43c7a74fb34529a78511~tplv-goo7wpa0wc-topic.webp)
+
+1.   在扣子 App 的左下角，单击更多。
+2.   在订阅套餐卡片中，单击**成就**，查看成就系统。
 
 ## 相关操作
 
@@ -181,12 +202,8 @@ Copy Page
 1.   在[扣子](https://www.coze.cn/?surl_token=FJvCs&zlink_code=FFKdE&utm_medium=docs&utm_source=docs&utm_content=landingpage&utm_id=&utm_campaign=&utm_term=docs&utm_source_platform=)或[扣子编程](https://code.coze.cn/home?surl_token=FJvCs&zlink_code=FFKdE&utm_medium=docs&utm_source=docs&utm_content=landingpage&utm_id=&utm_campaign=&utm_term=docs&utm_source_platform=)的左下角，单击**积分**卡片。
 2.   在**订阅管理**页面的**积分**区域，查看积分余额。
 
-![Image 6: Image](https://p9-arcosite.byteimg.com/tos-cn-i-goo7wpa0wc/97833fa8e9554f4d9632ca64b8e49bcc~tplv-goo7wpa0wc-topic.webp)
-
-1.   在扣子 App 的左下角，单击**我的**。
-2.   在**积分**区域，查看积分余额。
-
-![Image 7: Image](https://p9-arcosite.byteimg.com/tos-cn-i-goo7wpa0wc/016fd7cab3de4fff959e1e627e204d9e~tplv-goo7wpa0wc-topic.webp)
+1.   在扣子 App 的左下角，单击**更多**。
+2.   在订阅套餐卡片中，单击积分剩余比例，查看积分余额。
 
 ### 查看积分购买记录
 
@@ -195,47 +212,35 @@ Copy Page
 **个人版或团队版**
 
 1.   在[扣子](https://www.coze.cn/?surl_token=FJvCs&zlink_code=FFKdE&utm_medium=docs&utm_source=docs&utm_content=landingpage&utm_id=&utm_campaign=&utm_term=docs&utm_source_platform=)或[扣子编程](https://code.coze.cn/home?surl_token=FJvCs&zlink_code=FFKdE&utm_medium=docs&utm_source=docs&utm_content=landingpage&utm_id=&utm_campaign=&utm_term=docs&utm_source_platform=)的左下角，单击**积分**卡片。
-2.   在**订阅管理**页面的右上角，单击**购买记录**。
-
-![Image 8: Image](https://p9-arcosite.byteimg.com/tos-cn-i-goo7wpa0wc/218fb88a521945979e07202cd7f708b5~tplv-goo7wpa0wc-topic.webp)
-3.   在**积分**页签下，查看积分的购买记录。
-
-![Image 9: Image](https://p9-arcosite.byteimg.com/tos-cn-i-goo7wpa0wc/94fa20c0a8f945628929f9fc9bcbabf9~tplv-goo7wpa0wc-topic.webp)
+2.   在**订阅管理**页面的右上角，单击**套餐管理**。
+3.   在**增购积分**页签下，查看积分的购买记录。
 
 **企业版**
 
 1.   在[火山引擎扣子控制台](https://console.volcengine.com/coze-pro/overview)，单击**实例列表**。
 2.   在**积分**页签下，查看积分购买记录。
 
-![Image 10: Image](https://p9-arcosite.byteimg.com/tos-cn-i-goo7wpa0wc/bf7c99d410304ef0a86754501729a1c0~tplv-goo7wpa0wc-topic.webp)
+![Image 5: Image](https://p9-arcosite.byteimg.com/tos-cn-i-goo7wpa0wc/bf7c99d410304ef0a86754501729a1c0~tplv-goo7wpa0wc-topic.webp)
 
 个人版、团队版支持在移动端查看积分购买记录。
 
-1.   在扣子 App 的左下角，单击**我的**。
-2.   单击**订阅套餐**。
-3.   单击页面右上角的**管理**。
-4.   在**增购积分**页签下，查看积分购买记录。
-
-![Image 11: Image](https://p9-arcosite.byteimg.com/tos-cn-i-goo7wpa0wc/b1f8de9724ad4fbda9549dbf90b157db~tplv-goo7wpa0wc-topic.webp)
+1.   在扣子 App 的左下角，单击**更多**。
+2.   在订阅套餐卡片中，单击**套餐管理与购买记录**。
+3.   在**增购积分**页签下，查看积分购买记录。
 
 ### 查看积分到期时间
 
 网页、桌面端 移动端
 
 1.   在[扣子](https://www.coze.cn/?surl_token=FJvCs&zlink_code=FFKdE&utm_medium=docs&utm_source=docs&utm_content=landingpage&utm_id=&utm_campaign=&utm_term=docs&utm_source_platform=)或[扣子编程](https://code.coze.cn/home?surl_token=FJvCs&zlink_code=FFKdE&utm_medium=docs&utm_source=docs&utm_content=landingpage&utm_id=&utm_campaign=&utm_term=docs&utm_source_platform=)的左下角，单击**积分**卡片。
-2.   在**订阅管理**页面的**积分**区域，单击**积分明细**。
-3.   在积分列表中，查看各类积分的到期时间。
-
-![Image 12: Image](https://p9-arcosite.byteimg.com/tos-cn-i-goo7wpa0wc/9967439521344b748d71c6b01a6819be~tplv-goo7wpa0wc-topic.webp)
+2.   在**订阅管理**页面的**积分**区域，单击**积分管理**。
+3.   在**获得积分**页签中，查看各类积分的到期时间。
 
 个人版、团队版支持在移动端查看积分到期时间。
 
-1.   在扣子 App 的左下角，单击**我的**。
-2.   单击**积分**。
-3.   在**积分明细**页签中，单击**明细**。
-4.   查看积分到期时间。
-
-![Image 13: Image](https://p9-arcosite.byteimg.com/tos-cn-i-goo7wpa0wc/7454c5406d604b79b28ddde7cffdb653~tplv-goo7wpa0wc-topic.webp)
+1.   在扣子 App 的左下角，单击**更多**。
+2.   在订阅套餐卡片中，单击积分剩余比例。
+3.   在**获取明细**页签中，查看积分到期时间。
 
 ## 常见问题
 
@@ -265,6 +270,8 @@ Helpful Not helpful
 
 [查看积分消耗明细](https://docs.coze.cn/coze_pro_credits#3ee7b927 "查看积分消耗明细")
 
+[通过成就系统领取积分](https://docs.coze.cn/coze_pro_credits#hpduzjMsY "通过成就系统领取积分")
+
 [相关操作](https://docs.coze.cn/coze_pro_credits#d12acdbb "相关操作")
 
 [查看积分余额](https://docs.coze.cn/coze_pro_credits#8cdca86d "查看积分余额")
@@ -279,5 +286,5 @@ X
 
 100%
 
-![Image 14](https://docs.coze.cn/coze_pro_credits)
+![Image 6](https://docs.coze.cn/coze_pro_credits)
 

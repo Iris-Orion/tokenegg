@@ -1,6 +1,24 @@
 {
   "history": [
     {
+      "at": "2026-09-08T19:24:30.906Z",
+      "atBeijing": "2026-09-09 03:24:30",
+      "status": "ok",
+      "ok": 7,
+      "noNumber": 6,
+      "failed": 0,
+      "changes": [
+        {
+          "kind": "snippet",
+          "message": "扣子 Coze：官方页面额度说明有变化"
+        },
+        {
+          "kind": "quota",
+          "message": "扣子 Coze：官方页面不再写明数字，沿用上次的 1500 积分 / 天"
+        }
+      ]
+    },
+    {
       "at": "2026-09-07T19:53:13.828Z",
       "atBeijing": "2026-09-08 03:53:13",
       "status": "ok",
@@ -152,13 +170,13 @@
       "changes": []
     }
   ],
-  "lastSyncAt": "2026-09-07T19:53:13.828Z",
-  "lastSyncAtBeijing": "2026-09-08 03:55:25",
-  "lastSuccessAt": "2026-09-07T19:53:13.828Z",
+  "lastSyncAt": "2026-09-08T19:24:30.906Z",
+  "lastSyncAtBeijing": "2026-09-09 03:27:13",
+  "lastSuccessAt": "2026-09-08T19:24:30.906Z",
   "status": "ok",
   "counts": {
-    "ok": 8,
-    "noNumber": 5,
+    "ok": 7,
+    "noNumber": 6,
     "failed": 0
   },
   "platformCount": 13,

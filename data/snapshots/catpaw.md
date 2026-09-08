@@ -1,4 +1,4 @@
-<!-- https://catpaw.meituan.com/docs fetched 2026-09-07T19:54:52.841Z -->
+<!-- https://catpaw.meituan.com/docs fetched 2026-09-08T19:26:40.461Z -->
 Title: CatPaw 文档 - 全场景 AI Agent 平台
 
 URL Source: https://catpaw.meituan.com/docs
@@ -159,7 +159,7 @@ Subagent
 
 *   [创建定时任务](https://catpaw.meituan.com/docs#create-scheduled)
 *   [管理定时任务](https://catpaw.meituan.com/docs#manage-scheduled)
-*   [定时任务推送 IM](https://catpaw.meituan.com/docs#scheduled-channel)
+*   [定时任务推送 IM](https://catpaw.meituan.com/docs#scheduled-channel-setting)
 
 技能
 

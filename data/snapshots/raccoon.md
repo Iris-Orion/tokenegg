@@ -1,4 +1,4 @@
-<!-- https://office.xiaohuanxiong.com/pricing fetched 2026-09-07T19:53:41.666Z -->
+<!-- https://office.xiaohuanxiong.com/pricing fetched 2026-09-08T19:25:10.972Z -->
 Title: 商汤小浣熊
 
 URL Source: https://office.xiaohuanxiong.com/pricing
@@ -189,5 +189,5 @@ iPhone 销量分析
 
 统计每个员工在每个自然周的工时，一个自然周为一列，一个员工为一行，在最后加一列这个员工的工时总数，最后导出这个表格
 
-![Image 3](https://bat.bing.com/action/0?ti=343238775&Ver=2&mid=501ee8b7-ca04-4358-99b3-0f4b189fa86c&bo=3&sid=d0b7ee00aaf511f1b45e3fa230dcced9&vid=d0b800a0aaf511f1954783f221934634&vids=0&msclkid=N&pi=918639831&lg=en-US&sw=1280&sh=1280&sc=24&tl=%E5%95%86%E6%B1%A4%E5%B0%8F%E6%B5%A3%E7%86%8A&p=https%3A%2F%2Foffice.xiaohuanxiong.com%2Fpricing&r=&lt=1821&evt=pageLoad&sv=2&asc=G&cdb=AQAQ&rn=596021)
+![Image 3](https://bat.bing.com/action/0?ti=343238775&Ver=2&mid=750f090a-6a99-4170-a5af-063a76e23ccb&bo=3&sid=ffb3aa90abba11f181226b95457dc490&vid=ffb3cb40abba11f1ac107d2cd2b46a33&vids=0&msclkid=N&pi=918639831&lg=en-US&sw=1280&sh=1280&sc=24&tl=%E5%95%86%E6%B1%A4%E5%B0%8F%E6%B5%A3%E7%86%8A&p=https%3A%2F%2Foffice.xiaohuanxiong.com%2Fpricing&r=&lt=3926&evt=pageLoad&sv=2&asc=G&cdb=AQAQ&rn=772687)
 
