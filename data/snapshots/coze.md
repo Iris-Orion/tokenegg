@@ -1,4 +1,4 @@
-<!-- https://docs.coze.cn/coze_pro_credits fetched 2026-09-08T19:25:19.329Z -->
+<!-- https://docs.coze.cn/coze_pro_credits fetched 2026-09-09T19:15:05.022Z -->
 Title: 积分
 
 URL Source: https://docs.coze.cn/coze_pro_credits
@@ -113,7 +113,7 @@ Copy Page
 2.   在**订阅管理**页面的**积分**区域，单击**增购积分**。
 3.   选择积分规格，并完成支付。
 
-1.   在扣子 App 的左下角，单击**更多**。
+1.   在扣子 App 的右下角，单击**更多**。
 2.   在**账户信息**页，单击**积分**。
 3.   选择积分规格，并完成支付。
 
@@ -188,7 +188,7 @@ Copy Page
 
 ![Image 4: Image](https://p9-arcosite.byteimg.com/tos-cn-i-goo7wpa0wc/b80723b2810c43c7a74fb34529a78511~tplv-goo7wpa0wc-topic.webp)
 
-1.   在扣子 App 的左下角，单击更多。
+1.   在扣子 App 的右下角，单击更多。
 2.   在订阅套餐卡片中，单击**成就**，查看成就系统。
 
 ## 相关操作
@@ -202,7 +202,7 @@ Copy Page
 1.   在[扣子](https://www.coze.cn/?surl_token=FJvCs&zlink_code=FFKdE&utm_medium=docs&utm_source=docs&utm_content=landingpage&utm_id=&utm_campaign=&utm_term=docs&utm_source_platform=)或[扣子编程](https://code.coze.cn/home?surl_token=FJvCs&zlink_code=FFKdE&utm_medium=docs&utm_source=docs&utm_content=landingpage&utm_id=&utm_campaign=&utm_term=docs&utm_source_platform=)的左下角，单击**积分**卡片。
 2.   在**订阅管理**页面的**积分**区域，查看积分余额。
 
-1.   在扣子 App 的左下角，单击**更多**。
+1.   在扣子 App 的右下角，单击**更多**。
 2.   在订阅套餐卡片中，单击积分剩余比例，查看积分余额。
 
 ### 查看积分购买记录
@@ -224,7 +224,7 @@ Copy Page
 
 个人版、团队版支持在移动端查看积分购买记录。
 
-1.   在扣子 App 的左下角，单击**更多**。
+1.   在扣子 App 的右下角，单击**更多**。
 2.   在订阅套餐卡片中，单击**套餐管理与购买记录**。
 3.   在**增购积分**页签下，查看积分购买记录。
 
@@ -238,7 +238,7 @@ Copy Page
 
 个人版、团队版支持在移动端查看积分到期时间。
 
-1.   在扣子 App 的左下角，单击**更多**。
+1.   在扣子 App 的右下角，单击**更多**。
 2.   在订阅套餐卡片中，单击积分剩余比例。
 3.   在**获取明细**页签中，查看积分到期时间。
 

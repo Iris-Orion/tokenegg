@@ -1,4 +1,4 @@
-<!-- https://agent.minimaxi.com/docs/code/account/usage fetched 2026-09-08T19:25:37.055Z -->
+<!-- https://agent.minimaxi.com/docs/code/account/usage fetched 2026-09-09T19:15:25.518Z -->
 Title: Token Plan 与积分 - MiniMax Agent 文档
 
 URL Source: https://agent.minimaxi.com/docs/code/account/usage
@@ -49,6 +49,7 @@ Token Plan 与积分
 
 ### 桌面端能力
 
+*   [无限画布](https://agent.minimaxi.com/docs/code/desktop/infinite-canvas)
 *   [内置浏览器](https://agent.minimaxi.com/docs/code/desktop/browser)
 *   [开发面板](https://agent.minimaxi.com/docs/code/desktop/panels)
 *   [快捷键与快捷小窗](https://agent.minimaxi.com/docs/code/desktop/shortcuts)
@@ -59,6 +60,8 @@ Token Plan 与积分
 
 *   [Agent Team](https://agent.minimaxi.com/docs/code/agents/team)
 *   [自定义 Agent](https://agent.minimaxi.com/docs/code/agents/custom-agents)
+*   [自定义 Mini App](https://agent.minimaxi.com/docs/code/agents/mini-apps)
+*   [H3 Max 视频生成](https://agent.minimaxi.com/docs/code/agents/h3-max)
 *   [插件市场](https://agent.minimaxi.com/docs/code/agents/plugins)
 *   [MCP 服务](https://agent.minimaxi.com/docs/code/agents/mcp)
 *   [记忆机制](https://agent.minimaxi.com/docs/code/agents/memory)
