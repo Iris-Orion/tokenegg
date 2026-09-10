@@ -1,4 +1,4 @@
-<!-- https://office.xiaohuanxiong.com/pricing fetched 2026-09-09T19:14:57.254Z -->
+<!-- https://office.xiaohuanxiong.com/pricing fetched 2026-09-10T19:06:27.090Z -->
 Title: 商汤小浣熊
 
 URL Source: https://office.xiaohuanxiong.com/pricing
@@ -33,7 +33,7 @@ Ctrl K
 
 复制链接
 
-[![Image 2](https://sta-volc.xiaohuanxiong.com/raccoon-lab/office/public/images/home/campaign/desktop-points-gift.png)点击安装桌面端，再领 3000 积分。去下载 →](https://xiaohuanxiong.com/download?utm_source=officeweb)
+[![Image 2](https://sta-volc.xiaohuanxiong.com/raccoon-lab/office/public/images/home/campaign/desktop-points-gift.png)点击安装桌面端，再领 3000 积分。去下载 →](https://office.xiaohuanxiong.com/download?utm_source=officeweb)
 
 # 商汤小浣熊 能搞定工作的 AI 助手
 
@@ -189,5 +189,5 @@ iPhone 销量分析
 
 统计每个员工在每个自然周的工时，一个自然周为一列，一个员工为一行，在最后加一列这个员工的工时总数，最后导出这个表格
 
-![Image 3](https://bat.bing.com/action/0?ti=343238775&Ver=2&mid=a1bc104d-b110-4d6e-ac78-5062c12ef7c6&bo=3&sid=bc132610ac8211f184f7612263c43e50&vid=bc136150ac8211f1928b313b06aec430&vids=0&msclkid=N&pi=918639831&lg=en-US&sw=1280&sh=1280&sc=24&tl=%E5%95%86%E6%B1%A4%E5%B0%8F%E6%B5%A3%E7%86%8A&p=https%3A%2F%2Foffice.xiaohuanxiong.com%2Fpricing&r=&lt=1762&evt=pageLoad&sv=2&asc=G&cdb=AQAQ&rn=175660)
+![Image 3](https://bat.bing.com/action/0?ti=343238775&Ver=2&mid=d46ab38d-9200-415f-8f9f-1b18fec1d747&bo=3&sid=b5269370ad4a11f1ab9547c1f9a6d253&vid=b52ba290ad4a11f1a03fd52df92ca58e&vids=0&msclkid=N&pi=918639831&lg=en-US&sw=1280&sh=1280&sc=24&tl=%E5%95%86%E6%B1%A4%E5%B0%8F%E6%B5%A3%E7%86%8A&p=https%3A%2F%2Foffice.xiaohuanxiong.com%2Fpricing&r=&lt=1986&evt=pageLoad&sv=2&asc=G&cdb=AQAQ&rn=365082)
 

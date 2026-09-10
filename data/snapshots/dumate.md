@@ -1,4 +1,4 @@
-<!-- https://cloud.baidu.com/doc/Dumate/s/nmnevrk0l fetched 2026-09-09T19:15:57.940Z -->
+<!-- https://cloud.baidu.com/doc/Dumate/s/nmnevrk0l fetched 2026-09-10T19:07:25.339Z -->
 Title: 计费说明 - DuMate
 
 URL Source: https://cloud.baidu.com/doc/Dumate/s/nmnevrk0l
@@ -247,12 +247,12 @@ Markdown Content:
 
 ### AI应用与智能体
 
-*   #### [Hermes Agent应用部署](https://cloud.baidu.com/product/opc/hermes.html)
-*   #### [快速搭建企业AI知识库问答平台](https://cloud.baidu.com/product/opc/dify.html)
+*   #### [Hermes Agent应用部署](https://cloud.baidu.com/solution/practice/Umtsl3pk4)
+*   #### [快速搭建企业AI知识库问答平台](https://cloud.baidu.com/solution/practice/xmtr0veo2)
 *   #### [10分钟快速部署OpenClaw](https://cloud.baidu.com/doc/LS/s/6ml9f3cvl)
-*   #### [快速搭建与AI Workflow 编排平台](https://cloud.baidu.com/product/opc/n8n.html)
-*   #### [搭建私有知识库与AI助手](https://cloud.baidu.com/product/opc/anythingllm.html)
-*   #### [搭建官网在线客服与线索转化入口](https://cloud.baidu.com/product/opc/chatgptnextweb.html)
+*   #### [快速搭建与AI Workflow 编排平台](https://cloud.baidu.com/solution/practice/omtsfj4pn)
+*   #### [搭建私有知识库与AI助手](https://cloud.baidu.com/solution/practice/omtsl6ylt)
+*   #### [搭建官网在线客服与线索转化入口](https://cloud.baidu.com/solution/practice/Smtslzwjc)
 
 ### AI应用方案
 
@@ -413,4 +413,4 @@ Markdown Content:
 
 ### [市场活动](https://cloud.baidu.com/news/list.html?type=campaign)
 
-*   #### [2026 百度A
+*   ##

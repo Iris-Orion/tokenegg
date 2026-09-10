@@ -1,4 +1,4 @@
-<!-- https://docs.trae.cn/ide_plans-and-billing fetched 2026-09-09T19:14:44.279Z -->
+<!-- https://docs.trae.cn/ide_plans-and-billing fetched 2026-09-10T19:06:11.624Z -->
 Title: 套餐与计费
 
 URL Source: https://docs.trae.cn/ide_plans-and-billing
@@ -219,6 +219,14 @@ TRAE 提供多档付费会员套餐。各档套餐的价格和权益如下，你
 
 剩余 “速通” 次数的有效期保持不变，1 次 “速通” 可折算为 40 通用积分。
 
+### 如何签到领积分？
+
+在 TraeCode 或 TraeWork 中，点击你的头像，然后点击菜单中的 **签到** 按钮，即可完成签到，获得积分。
+
+![Image 2: Image](https://p9-arcosite.byteimg.com/tos-cn-i-goo7wpa0wc/e108ab2b8a2043a9b372a2e7b8484bc9~tplv-goo7wpa0wc-topic.webp)
+
+![Image 3: Image](https://p9-arcosite.byteimg.com/tos-cn-i-goo7wpa0wc/3a69400d9921409eac8fbef9b1daf9bc~tplv-goo7wpa0wc-topic.webp)
+
 Was this document helpful?
 
 Helpful Not helpful
@@ -255,9 +263,11 @@ Helpful Not helpful
 
 [剩余 “速通” 次数如何折算？](https://docs.trae.cn/ide_plans-and-billing#hrBUb9HUx "剩余 “速通” 次数如何折算？")
 
+[如何签到领积分？](https://docs.trae.cn/ide_plans-and-billing#hxcRQybwg "如何签到领积分？")
+
 X
 
 100%
 
-![Image 2](https://docs.trae.cn/ide_plans-and-billing)
+![Image 4](https://docs.trae.cn/ide_plans-and-billing)
 

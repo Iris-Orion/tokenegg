@@ -1,4 +1,4 @@
-<!-- https://agent.minimaxi.com/docs/code/account/usage fetched 2026-09-09T19:15:25.518Z -->
+<!-- https://agent.minimaxi.com/docs/code/account/usage fetched 2026-09-10T19:06:55.184Z -->
 Title: Token Plan 与积分 - MiniMax Agent 文档
 
 URL Source: https://agent.minimaxi.com/docs/code/account/usage
