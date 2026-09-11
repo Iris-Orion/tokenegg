@@ -1,4 +1,4 @@
-<!-- https://office.xiaohuanxiong.com/pricing fetched 2026-09-10T19:06:27.090Z -->
+<!-- https://office.xiaohuanxiong.com/pricing fetched 2026-09-11T19:09:09.454Z -->
 Title: 商汤小浣熊
 
 URL Source: https://office.xiaohuanxiong.com/pricing
@@ -23,9 +23,11 @@ Ctrl K
 
 注册/登录
 
+[![Image 1](https://sta-volc.xiaohuanxiong.com/raccoon-lab/office/public/images/home/campaign/desktop-points-gift.png)点击安装桌面端，再领 3000 积分。去下载 →](https://office.xiaohuanxiong.com/download?utm_source=officeweb)
+
 登录 使用手册
 
-![Image 1](https://sta-volc.xiaohuanxiong.com/raccoon-lab/office/public/images/home/campaign/desktop-points-gift.png)
+![Image 2](https://sta-volc.xiaohuanxiong.com/raccoon-lab/office/public/images/home/campaign/desktop-points-gift.png)
 
 安装桌面端送 3000 积分
 
@@ -33,7 +35,7 @@ Ctrl K
 
 复制链接
 
-[![Image 2](https://sta-volc.xiaohuanxiong.com/raccoon-lab/office/public/images/home/campaign/desktop-points-gift.png)点击安装桌面端，再领 3000 积分。去下载 →](https://office.xiaohuanxiong.com/download?utm_source=officeweb)
+[![Image 3](https://sta-volc.xiaohuanxiong.com/raccoon-lab/office/public/images/home/campaign/desktop-points-gift.png)点击安装桌面端，再领 3000 积分。去下载 →](https://office.xiaohuanxiong.com/download?utm_source=officeweb)
 
 # 商汤小浣熊 能搞定工作的 AI 助手
 
@@ -41,153 +43,22 @@ Ctrl K
 
 通用 数据分析 生成 PPT 一图读懂 Beta 知识库问答 文案生成
 
-### 示例
+![Image 4](https://bat.bing.com/action/0?ti=343238775&Ver=2&mid=d13e09b6-1240-4864-a623-3b01eab2ef7d&bo=3&sid=3382e7f0ae1411f1a486a9987eb33302&vid=33830ec0ae1411f1af2691ceab605c35&vids=0&msclkid=N&pi=918639831&lg=en-US&sw=1280&sh=1280&sc=24&tl=%E5%95%86%E6%B1%A4%E5%B0%8F%E6%B5%A3%E7%86%8A&p=https%3A%2F%2Foffice.xiaohuanxiong.com%2Fhome%3FloginModal%3Dtrue&r=&lt=6004&evt=pageLoad&sv=2&asc=G&cdb=AQAQ&rn=553342)
 
-全部示例
+![Image 5: new](https://sta-volc.xiaohuanxiong.com/raccoon-lab/office/public/images/common/login-bg.png)
+微信扫码登录
 
-平台补贴花得值吗？
+刷新
 
-请基于订单、商品和促销活动数据，分析平台补贴是否真正改善了商家的经营利润，给出补贴分配和活动取舍建议。
+手机号快捷登录
 
-充电站排队与利用率分析
++86
 
-基于充电订单和充电站信息，可视化展示充电需求的时间和空间差异。
+发送验证码 发送验证码
 
-天猫促销商品价格策略与销量表现分析
+登录
 
-基于天猫1-11月促销商品数据，分析价格、补贴、优惠规则和品类特征与销量之间的关系，识别真正有效的促销打法。
+切换为密码登录 →
 
-全球住房压力地图：中国年轻人能参考什么？
-
-基于2020-2023年全球房价、收入、租金负担、首付年限和利率数据，分析不同国家年轻人的住房压力差异，并提炼对中国年轻人在城市选择、租买决策和海外发展上的参考洞察
-
-餐厅怎样备餐才能少浪费、不缺货
-
-基于菜品销售和食材损耗数据，分析不同门店、菜品和时段的销量、售罄与浪费情况，识别经常备多、备少或波动较大的菜品，并给出更合理的备餐量和食材采购建议。请重点展示缺货风险与损耗成本之间的平衡。
-
-为什么全世界都在搜"Token"？
-
-基于Google Trends提供的2026年Q1全球token搜索数据，对相关搜索词进行时间序列分析和语义分类，识别AI模型等高增长领域的投资机会
-
-AI 就业市场供需与薪资结构分析
-
-2026 AI 人才市场全解析：薪资梯度、岗位分布、供需缺口与跨界风口，数据可视化一步到位
-
-20亿美元值得吗？-Meta收购Manus未来收益预测分析报告
-
-基于目前的Manus 并购估值模型，预测Meta收购Manus后的收益
-
-高中学生考试成绩整理分析
-
-按照文理各科目、班级和年级的类别整理并分析学生成绩
-
-社交平台用户留存与渠道质量分析
-
-基于社交平台的用户留存和渠道质量数据，进行不同渠道客户留存效果的分析。
-
-全球电影数据指标分析
-
-基于电影票房、评分、语言地区、导演演员等数据，生成全球电影的分析报告
-
-英伟达股票投资建议分析
-
-基于英伟达公司的相关股票财务数据，给出投资预测和建议。
-
-制造设备停机与维护效率分析
-
-基于设备运行与维修记录，分析停机时长、故障类型、产线及保养频率的关系，定位主要损失来源，并给出预防性维护建议。
-
-在线课程学习效果与流失分析
-
-基于课程学习与作业测评数据，分析学习进度、互动行为和成绩变化，识别易流失学员及高效课程环节，并提出课程与运营优化建议
-
-城市共享单车供需与运维分析
-
-基于骑行订单与车辆运维数据，分析不同区域和时段的供需缺口、车辆周转及故障分布，识别调度低效区域，并给出投放与维修安排建议。
-
-公司员工满意度分析r l z
-
-基于员工职级、薪资等数据，输出员工满意度分析报告
-
-采购渠道效果分析
-
-基于复杂的多维度采购数据，判断不同供应商的交付能力与效果
-
-上海相亲市场调研
-
-基于相亲样本数据，生成上海本地相亲市场调研报告
-
-拆解《哆啦A梦》角色背景设定
-
-基于《哆啦A梦》人物介绍数据，拆解出一套故事背景设定的方法论
-
-全球幸福度指标分析
-
-表格包含了关于幸福度的评分，和多个关联指标包括但不限于经济水平、社会支持、预期寿命和自由度等。请这些数据进行分析，包括基本的统计描述和相关性分析，给出详细的中国幸福报告综述
-
-学生心理状态测评数据分析
-
-这张表格为某县学生心理状态测评的各维度数据，请绘制雷达图，展示这个县学生心理状态的各维度数，数值包括某县水平、平均值、标准差。
-
-宜居城市推荐
-
-基于城市宜居度指标，进行宜居城市的个性化推荐
-
-苹果股票投资建议分析
-
-基于某个公司的股票相关数据，给出投资建议
-
-黄金收盘价格预测
-
-使用移动平均法预测收盘价格，窗口设置为1个月，绘制2024年实际收盘价变化与预测收盘价变化图
-
-营销活动用户数据统计
-
-这是一份营销活动中收集到的用户数据，包含人口统计数据、营销特定指标、客户参与度指标以及历史购买据。请帮我进行相关分析，谢谢
-
-唯品会各品类商品榜单数据
-
-进行一些电商的数据分析和数据的可视化展示
-
-历届奥运会赛事数据集（1986-2016）
-
-这是一份历届奥运赛事数据集，请读取文件并告诉我有哪些有趣的数据可以进行分析，谢谢
-
-身高体重关系表
-
-分析身高和体重之间的相关系数，并绘制身高与体重的散点图
-
-花卉品种分析
-
-请分析不同品种的花与形态特征的关系
-
-电商平台用户行为数据
-
-本数据集汇集了某个电商平台的用户基本信息、行为习惯和互动数据。它包括用户的年龄、性别、居住地区、收入水平等基本属性，以及他们的兴趣偏好、登录频率、购买行为和平台互动等动态指标。请进行一些相关数据的分析以及可视化展示
-
-海平面高度变化数据
-
-绘制能体现海平面变化的可视化图表
-
-詹姆斯投篮数据集（2003-2021）
-
-这是篮球明星詹姆斯的投篮数据集，请读取文件并告诉我有哪些有趣的数据可以进行分析，谢谢
-
-东京奥运会金牌数据
-
-这是一份东京奥运会的金牌数据集，请读取文件并告诉我有哪些有趣的数据可以进行分析，谢谢
-
-iPhone 销量分析
-
-秋季范围内，哪个地区的iPhone总销量最高
-
-采购管理
-
-采购需要花多少钱
-
-工时管理
-
-统计每个员工在每个自然周的工时，一个自然周为一列，一个员工为一行，在最后加一列这个员工的工时总数，最后导出这个表格
-
-![Image 3](https://bat.bing.com/action/0?ti=343238775&Ver=2&mid=d46ab38d-9200-415f-8f9f-1b18fec1d747&bo=3&sid=b5269370ad4a11f1ab9547c1f9a6d253&vid=b52ba290ad4a11f1a03fd52df92ca58e&vids=0&msclkid=N&pi=918639831&lg=en-US&sw=1280&sh=1280&sc=24&tl=%E5%95%86%E6%B1%A4%E5%B0%8F%E6%B5%A3%E7%86%8A&p=https%3A%2F%2Foffice.xiaohuanxiong.com%2Fpricing&r=&lt=1986&evt=pageLoad&sv=2&asc=G&cdb=AQAQ&rn=365082)
+勾选即代表你同意[《服务条款》](https://office.xiaohuanxiong.com/pricing)与[《隐私政策》](https://office.xiaohuanxiong.com/pricing)
 
