@@ -1,6 +1,20 @@
 {
   "history": [
     {
+      "at": "2026-09-12T18:18:54.683Z",
+      "atBeijing": "2026-09-13 02:18:54",
+      "status": "ok",
+      "ok": 7,
+      "noNumber": 6,
+      "failed": 0,
+      "changes": [
+        {
+          "kind": "snippet",
+          "message": "小浣熊：官方页面额度说明有变化"
+        }
+      ]
+    },
+    {
       "at": "2026-09-11T19:07:59.528Z",
       "atBeijing": "2026-09-12 03:07:59",
       "status": "ok",
@@ -207,9 +221,9 @@
       "changes": []
     }
   ],
-  "lastSyncAt": "2026-09-11T19:07:59.528Z",
-  "lastSyncAtBeijing": "2026-09-12 03:10:46",
-  "lastSuccessAt": "2026-09-11T19:07:59.528Z",
+  "lastSyncAt": "2026-09-12T18:18:54.683Z",
+  "lastSyncAtBeijing": "2026-09-13 02:21:00",
+  "lastSuccessAt": "2026-09-12T18:18:54.683Z",
   "status": "ok",
   "counts": {
     "ok": 7,
