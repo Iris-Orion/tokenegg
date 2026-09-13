@@ -1,9 +1,7 @@
-<!-- https://help.aliyun.com/zh/qwenwork/qw-personal-benefits fetched 2026-09-12T18:19:04.594Z -->
+<!-- https://help.aliyun.com/zh/qwenwork/qw-personal-benefits fetched 2026-09-13T18:45:06.001Z -->
 Title: 个人版权益
 
 URL Source: https://help.aliyun.com/zh/qwenwork/qw-personal-benefits
-
-Published Time: Sat, 12 Sep 2026 18:14:01 GMT
 
 Markdown Content:
 [](https://www.aliyun.com/)
@@ -538,4 +536,6 @@ Serverless
 
 [金融云](https://help.aliyun.com/zh/product/29849.html)
 
-[阿里云集成转售解决方案](https://help.aliyun.com/zh/produ
+[阿里云集成转售解决方案](https://help.aliyun.com/zh/product/90850.html)
+
+[数据湖 OpenLake](https://help.ali
