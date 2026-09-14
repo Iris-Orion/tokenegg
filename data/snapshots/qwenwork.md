@@ -1,4 +1,4 @@
-<!-- https://help.aliyun.com/zh/qwenwork/qw-personal-benefits fetched 2026-09-13T18:45:06.001Z -->
+<!-- https://help.aliyun.com/zh/qwenwork/qw-personal-benefits fetched 2026-09-14T20:17:03.977Z -->
 Title: 个人版权益
 
 URL Source: https://help.aliyun.com/zh/qwenwork/qw-personal-benefits
@@ -328,6 +328,7 @@ AI 原生数据库
 *   [向量检索服务 Milvus 版](https://help.aliyun.com/zh/milvus/)
 *   [图计算服务 GraphCompute](https://help.aliyun.com/zh/graph-compute/)
 *   [Cloudera CDP 企业数据云平台](https://help.aliyun.com/zh/cdp/)
+*   [AI 原生大数据服务](https://help.aliyun.com/zh/product/3053749.html)
 
 数据湖
 *   [开源大数据平台 E-MapReduce](https://help.aliyun.com/zh/emr/)
@@ -536,6 +537,4 @@ Serverless
 
 [金融云](https://help.aliyun.com/zh/product/29849.html)
 
-[阿里云集成转售解决方案](https://help.aliyun.com/zh/product/90850.html)
-
-[数据湖 OpenLake](https://help.ali
+[阿里云集成转售解决方案](https://help.
