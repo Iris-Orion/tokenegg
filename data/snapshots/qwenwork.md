@@ -1,4 +1,4 @@
-<!-- https://help.aliyun.com/zh/qwenwork/qw-personal-benefits fetched 2026-09-14T20:17:03.977Z -->
+<!-- https://help.aliyun.com/zh/qwenwork/qw-personal-benefits fetched 2026-09-15T19:40:25.852Z -->
 Title: 个人版权益
 
 URL Source: https://help.aliyun.com/zh/qwenwork/qw-personal-benefits
@@ -126,6 +126,7 @@ Serverless 计算
 *   [函数计算](https://help.aliyun.com/zh/functioncompute/)
 *   [弹性容器实例](https://help.aliyun.com/zh/eci/)
 *   [容器计算服务 ACS](https://help.aliyun.com/zh/cs/)
+*   [智能体沙箱](https://help.aliyun.com/zh/product/3053819.html)
 
 应用托管
 *   [计算巢服务](https://help.aliyun.com/zh/compute-nest/)
@@ -535,6 +536,4 @@ Serverless
 
 [SAP 解决方案](https://help.aliyun.com/zh/sap-solution/)
 
-[金融云](https://help.aliyun.com/zh/product/29849.html)
-
-[阿里云集成转售解决方案](https://help.
+[金融云](https://help.a

@@ -1,4 +1,4 @@
-<!-- https://docs.coze.cn/coze_pro_credits fetched 2026-09-14T20:17:28.546Z -->
+<!-- https://docs.coze.cn/coze_pro_credits fetched 2026-09-15T19:40:57.860Z -->
 Title: 积分
 
 URL Source: https://docs.coze.cn/coze_pro_credits
@@ -135,20 +135,16 @@ Copy Page
 *   新购、退订等操作使积分总量变化时，会重新触发预警判断。
 *   首次购买某类积分时，系统默认为该类积分开启余量预警（阈值20%）。若手动关闭该预警，后续购买同类积分时将不再自动开启，需要手动开启。
 
-1.   设置消息接收配置。
-
+1.   设置消息接收配置。  
  为确保能及时收到积分余量预警通知，请先完成消息接收配置。 
-    1.   在[消息中心](https://console.volcengine.com/message/setting)的**基本接收配置**页面，找到**资源包余额预警**。
-
+    1.   在[消息中心](https://console.volcengine.com/message/setting)的**基本接收配置**页面，找到**资源包余额预警**。  
 ![Image 2: Image](https://p9-arcosite.byteimg.com/tos-cn-i-goo7wpa0wc/49f89dd3f36f43068ed6c5d49ff7dc57~tplv-goo7wpa0wc-topic.webp)
-    2.   设置消息的接收渠道及接收人。
-
+    2.   设置消息的接收渠道及接收人。  
  单击**编辑**，可以添加接收人。
 
 2.   设置余量预警。 
     1.   在[火山引擎扣子控制台](https://console.volcengine.com/coze-pro)**概览**页面，单击右上角的**余量预警**。
-    2.   在**设置余额预警**面板中，为目标积分开启预警。
-
+    2.   在**设置余额预警**面板中，为目标积分开启预警。  
  你可以为每个积分商品分别设置不同的余量阈值比例，也可以通过批量功能，统一设置余量阈值比例。
     3.   单击**确定**。
 
@@ -156,8 +152,7 @@ Copy Page
 
 因为扣子平台技术问题而失败的任务，平台将进行周期性补偿。系统自动识别并处理，无需手动申请。
 
-*   **个人版、团队版**：以**积分**形式补发到账户，1 个工作日内完成。你可以在**订阅管理**页面**积分明细**中查看补发记录。
-
+*   **个人版、团队版**：以**积分**形式补发到账户，1 个工作日内完成。你可以在**订阅管理**页面**积分明细**中查看补发记录。  
 ![Image 3: Image](https://p9-arcosite.byteimg.com/tos-cn-i-goo7wpa0wc/69ce8c706ef84ec4a8555800bd1ae8bd~tplv-goo7wpa0wc-topic.webp)
 *   **企业版**：平台会统计失败任务消耗的积分，但不支持自动处理并退回积分。扣子团队将根据 SLA 协议相关约定，提供对应补偿。该策略同时适用于**原个人进阶版**、**原团队版和原企业版**。
 
@@ -184,8 +179,7 @@ Copy Page
 桌面端、网页端 移动端
 
 1.   在[扣子](https://www.coze.cn/?surl_token=FJvCs&zlink_code=FFKdE&utm_medium=docs&utm_source=docs&utm_content=landingpage&utm_id=&utm_campaign=&utm_term=docs&utm_source_platform=)或[扣子编程](https://code.coze.cn/home?surl_token=FJvCs&zlink_code=FFKdE&utm_medium=docs&utm_source=docs&utm_content=landingpage&utm_id=&utm_campaign=&utm_term=docs&utm_source_platform=)的左下角，单击**积分**卡片。
-2.   在**订阅管理**页面，查看成就系统。
-
+2.   在**订阅管理**页面，查看成就系统。  
 ![Image 4: Image](https://p9-arcosite.byteimg.com/tos-cn-i-goo7wpa0wc/b80723b2810c43c7a74fb34529a78511~tplv-goo7wpa0wc-topic.webp)
 
 1.   在扣子 App 的右下角，单击更多。
@@ -218,8 +212,7 @@ Copy Page
 **企业版**
 
 1.   在[火山引擎扣子控制台](https://console.volcengine.com/coze-pro/overview)，单击**实例列表**。
-2.   在**积分**页签下，查看积分购买记录。
-
+2.   在**积分**页签下，查看积分购买记录。  
 ![Image 5: Image](https://p9-arcosite.byteimg.com/tos-cn-i-goo7wpa0wc/bf7c99d410304ef0a86754501729a1c0~tplv-goo7wpa0wc-topic.webp)
 
 个人版、团队版支持在移动端查看积分购买记录。
