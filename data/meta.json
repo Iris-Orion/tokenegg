@@ -1,6 +1,52 @@
 {
   "history": [
     {
+      "at": "2026-09-17T19:41:51.141Z",
+      "atBeijing": "2026-09-18 03:41:51",
+      "status": "ok",
+      "ok": 4,
+      "noNumber": 7,
+      "failed": 2,
+      "changes": [
+        {
+          "kind": "snippet",
+          "message": "千问办公：官方页面额度说明有变化"
+        },
+        {
+          "kind": "snippet",
+          "message": "Trae：官方页面额度说明有变化"
+        },
+        {
+          "kind": "quota",
+          "message": "Trae：官方页面不再写明数字，沿用上次的 150 积分 / 天"
+        },
+        {
+          "kind": "failed",
+          "message": "小浣熊：官方页面抓取失败（reader: HTTP 401 / direct: page too short / direct-browser-ua: page too short / archive: no archived copy）"
+        },
+        {
+          "kind": "failed",
+          "message": "WorkBuddy：官方页面抓取失败（reader: HTTP 401 / direct: page too short / direct-browser-ua: page too short / archive: page too short）"
+        },
+        {
+          "kind": "snippet",
+          "message": "DuMate（搭子）：官方页面额度说明有变化"
+        },
+        {
+          "kind": "snippet",
+          "message": "JoyCode：官方页面额度说明有变化"
+        },
+        {
+          "kind": "snippet",
+          "message": "CNB 云原生构建：官方页面额度说明有变化"
+        },
+        {
+          "kind": "quota",
+          "message": "CNB 云原生构建：官方页面不再写明数字，沿用上次的 500 credits / 月"
+        }
+      ]
+    },
+    {
       "at": "2026-09-16T19:30:49.929Z",
       "atBeijing": "2026-09-17 03:30:49",
       "status": "ok",
@@ -262,14 +308,14 @@
       "changes": []
     }
   ],
-  "lastSyncAt": "2026-09-16T19:30:49.929Z",
-  "lastSyncAtBeijing": "2026-09-17 03:33:51",
-  "lastSuccessAt": "2026-09-16T19:30:49.929Z",
+  "lastSyncAt": "2026-09-17T19:41:51.141Z",
+  "lastSyncAtBeijing": "2026-09-18 03:42:52",
+  "lastSuccessAt": "2026-09-17T19:41:51.141Z",
   "status": "ok",
   "counts": {
-    "ok": 7,
-    "noNumber": 6,
-    "failed": 0
+    "ok": 4,
+    "noNumber": 7,
+    "failed": 2
   },
   "platformCount": 13,
   "error": null

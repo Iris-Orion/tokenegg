@@ -1,4 +1,4 @@
-<!-- https://agent.minimaxi.com/docs/code/account/usage fetched 2026-09-16T19:32:16.443Z -->
+<!-- https://agent.minimaxi.com/docs/code/account/usage fetched 2026-09-17T19:42:11.648Z -->
 Token Plan 与积分 - MiniMax Agent 文档
 Documentation Index
 Fetch the complete documentation index at: /docs/llms.txt
