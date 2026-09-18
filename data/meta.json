@@ -1,6 +1,48 @@
 {
   "history": [
     {
+      "at": "2026-09-18T18:59:57.542Z",
+      "atBeijing": "2026-09-19 02:59:57",
+      "status": "ok",
+      "ok": 7,
+      "noNumber": 6,
+      "failed": 0,
+      "changes": [
+        {
+          "kind": "snippet",
+          "message": "千问办公：官方页面额度说明有变化"
+        },
+        {
+          "kind": "snippet",
+          "message": "Trae：官方页面额度说明有变化"
+        },
+        {
+          "kind": "recovered",
+          "message": "小浣熊：官方页面恢复可访问"
+        },
+        {
+          "kind": "snippet",
+          "message": "MiniMax Code：官方页面额度说明有变化"
+        },
+        {
+          "kind": "recovered",
+          "message": "WorkBuddy：官方页面恢复可访问"
+        },
+        {
+          "kind": "snippet",
+          "message": "DuMate（搭子）：官方页面额度说明有变化"
+        },
+        {
+          "kind": "snippet",
+          "message": "JoyCode：官方页面额度说明有变化"
+        },
+        {
+          "kind": "snippet",
+          "message": "CNB 云原生构建：官方页面额度说明有变化"
+        }
+      ]
+    },
+    {
       "at": "2026-09-17T19:41:51.141Z",
       "atBeijing": "2026-09-18 03:41:51",
       "status": "ok",
@@ -308,14 +350,14 @@
       "changes": []
     }
   ],
-  "lastSyncAt": "2026-09-17T19:41:51.141Z",
-  "lastSyncAtBeijing": "2026-09-18 03:42:52",
-  "lastSuccessAt": "2026-09-17T19:41:51.141Z",
+  "lastSyncAt": "2026-09-18T18:59:57.542Z",
+  "lastSyncAtBeijing": "2026-09-19 03:02:29",
+  "lastSuccessAt": "2026-09-18T18:59:57.542Z",
   "status": "ok",
   "counts": {
-    "ok": 4,
-    "noNumber": 7,
-    "failed": 2
+    "ok": 7,
+    "noNumber": 6,
+    "failed": 0
   },
   "platformCount": 13,
   "error": null
