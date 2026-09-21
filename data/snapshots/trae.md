@@ -1,4 +1,4 @@
-<!-- https://docs.trae.cn/ide_plans-and-billing fetched 2026-09-20T18:43:28.426Z -->
+<!-- https://docs.trae.cn/ide_plans-and-billing fetched 2026-09-21T20:24:21.766Z -->
 Title: 套餐与计费
 
 URL Source: https://docs.trae.cn/ide_plans-and-billing
@@ -24,7 +24,7 @@ TRAE IDE 里最热门的 Skill 是哪些？
 
 新对话
 
-Feedback
+文档反馈
 
 [TRAE 概览](https://docs.trae.cn/ide_trae-overview)
 
@@ -66,7 +66,7 @@ TraeCode/会员套餐/套餐与计费
 
 # 套餐与计费
 
-Copy Page
+复制页面
 
 TRAE 采用以积分为核心的计费体系。本文介绍积分类型、会员套餐、增购积分、支付方式及积分获取、消耗、退还等规则，帮助你根据使用需求选择合适的套餐并理解积分管理方式。
 
@@ -169,7 +169,7 @@ TRAE 提供多档付费会员套餐。各档套餐的价格和权益如下，你
 
 ### 积分退还
 
-*   **支持退还**：请求因敏感词拦截、底层模型报错或死循环而失败。
+*   **支持退还**：请求因底层模型报错或死循环而失败。
 *   **不支持退还**：请求因客户端本地报错而失败，例如本地磁盘空间已满。
 
 ### 套餐升级与订阅方式变更
@@ -219,11 +219,11 @@ TRAE 提供多档付费会员套餐。各档套餐的价格和权益如下，你
 
 ![Image 3: Image](https://p9-arcosite.byteimg.com/tos-cn-i-goo7wpa0wc/3a69400d9921409eac8fbef9b1daf9bc~tplv-goo7wpa0wc-topic.webp)
 
-Was this document helpful?
+文档对您有帮助吗?
 
-Helpful Not helpful
+有帮助 无帮助
 
-[Previous 自动运行 & 安全性](https://docs.trae.cn/ide_auto-run-and-security)[Next 订阅管理](https://docs.trae.cn/ide_subscription-management)
+[上一篇 自动运行 & 安全性](https://docs.trae.cn/ide_auto-run-and-security)[下一篇 订阅管理](https://docs.trae.cn/ide_subscription-management)
 
 [积分类型](https://docs.trae.cn/ide_plans-and-billing#hVOIBMTsK "积分类型")
 
@@ -256,10 +256,4 @@ Helpful Not helpful
 [剩余 “速通” 次数如何折算？](https://docs.trae.cn/ide_plans-and-billing#hrBUb9HUx "剩余 “速通” 次数如何折算？")
 
 [如何签到领积分？](https://docs.trae.cn/ide_plans-and-billing#hxcRQybwg "如何签到领积分？")
-
-X
-
-100%
-
-![Image 4](https://docs.trae.cn/ide_plans-and-billing)
 

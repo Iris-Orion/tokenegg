@@ -1,14 +1,12 @@
-<!-- https://help.aliyun.com/zh/qwenwork/qw-personal-benefits fetched 2026-09-20T18:43:26.111Z -->
+<!-- https://help.aliyun.com/zh/qwenwork/qw-personal-benefits fetched 2026-09-21T20:24:19.330Z -->
 Title: 个人版权益
 
 URL Source: https://help.aliyun.com/zh/qwenwork/qw-personal-benefits
 
-Published Time: Sun, 20 Sep 2026 18:14:07 GMT
-
 Markdown Content:
 [](https://www.aliyun.com/)
 
-[大模型](https://www.qianwenai.com/)[产品](https://www.aliyun.com/product/list)[解决方案](https://www.aliyun.com/solution/tech-solution/)[权益](https://www.aliyun.com/benefit)[定价](https://www.aliyun.com/price)[云市场](https://market.aliyun.com/)[伙伴](https://partner.aliyun.com/management/v2)[服务](https://www.aliyun.com/service)[了解阿里云](https://www.aliyun.com/about)
+[大模型](https://www.qianwenai.com/)[产品](https://www.aliyun.com/product/list)[解决方案](https://www.aliyun.com/solution/tech-solution/)[权益](https://www.aliyun.com/benefit)[定价](https://www.aliyun.com/price)[AI 应用市场](https://market.aliyun.com/)[伙伴](https://partner.aliyun.com/management/v2)[服务](https://www.aliyun.com/service)[了解阿里云](https://www.aliyun.com/about)
 
 查看 "" 全部搜索结果
 
@@ -535,4 +533,6 @@ Serverless
 
 [阿里云电子政务云](https://help.aliyun.com/zh/govcloud/)
 
-[MindSphere on Alibaba Cloud](https://help.ali
+[MindSphere on Alibaba Cloud](https://help.aliyun.com/zh/mdsp/)
+
+[SAP 解决方案](https://help.
