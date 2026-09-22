@@ -1,4 +1,4 @@
-<!-- https://docs.trae.cn/ide_plans-and-billing fetched 2026-09-21T20:24:21.766Z -->
+<!-- https://docs.trae.cn/ide_plans-and-billing fetched 2026-09-22T19:43:10.237Z -->
 Title: 套餐与计费
 
 URL Source: https://docs.trae.cn/ide_plans-and-billing
@@ -44,7 +44,7 @@ SOLO 模式
 
 开发环境
 
-IDE 设置
+系统设置
 
 会员套餐
 
@@ -256,4 +256,10 @@ TRAE 提供多档付费会员套餐。各档套餐的价格和权益如下，你
 [剩余 “速通” 次数如何折算？](https://docs.trae.cn/ide_plans-and-billing#hrBUb9HUx "剩余 “速通” 次数如何折算？")
 
 [如何签到领积分？](https://docs.trae.cn/ide_plans-and-billing#hxcRQybwg "如何签到领积分？")
+
+X
+
+100%
+
+![Image 4](https://docs.trae.cn/ide_plans-and-billing)
 
