@@ -1,4 +1,4 @@
-<!-- https://autoclaw.zhipuai.cn/ fetched 2026-09-22T19:43:49.931Z -->
+<!-- https://autoclaw.zhipuai.cn/ fetched 2026-09-23T19:39:21.094Z -->
 智谱AutoClaw官网-智谱autoclaw（澳龙）安装下载-GLM-5.3-Flash已上线
 智谱 AutoClaw
 博客 团购方案 养虾社群 Lark
@@ -17,7 +17,7 @@ Coming soon
 下载体验
 智谱 AutoClaw
 替你干活的 AI 搭档
-新用户注册登录，领取 1亿 GLM-5.3-Flash tokens，价值60元
+新用户注册登录，领取 2亿 tokens，价值120元
 下载 Mac 版本（M芯片） 下载 Mac 版（Intel芯片） 下载 Windows 版
 获取移动端 NEW 获取银河麒麟版 NEW
 在AutoClaw中用智谱Coding Plan，享专属权益
