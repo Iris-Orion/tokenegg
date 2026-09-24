@@ -1,4 +1,4 @@
-<!-- https://www.workbuddy.cn/pricing/ fetched 2026-09-23T19:39:29.317Z -->
+<!-- https://www.workbuddy.cn/pricing/ fetched 2026-09-24T19:58:55.839Z -->
 Title: WorkBuddy 定价 - AI Agent 办公新范式
 
 URL Source: https://www.workbuddy.cn/pricing/
@@ -41,7 +41,7 @@ Markdown Content:
 
 根据您的实际使用场景及用量，选择最合适的方案
 
-![Image 7](https://download.codebuddy.cn/web/workbuddy/3624179317673ee8cbe6b5ab62552ea25ba14520/assets/discount-B16rN_8C.png)**Deepseek-v4.1-flash 独家联合首发**官方合作享限时折扣[立即体验](https://www.workbuddy.cn/pricing/#)
+![Image 7](https://download.codebuddy.cn/web/workbuddy/3624179317673ee8cbe6b5ab62552ea25ba14520/assets/discount-B16rN_8C.png)**Hy4 preview 邀您免费体验！**Agent 与复杂任务执行能力全面跃升，限免两周。[立即体验](workbuddy://switch-model?modelId=hy4-preview)
 
 个人 企业
 
