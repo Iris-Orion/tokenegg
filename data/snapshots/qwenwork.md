@@ -1,9 +1,7 @@
-<!-- https://help.aliyun.com/zh/qwenwork/qw-personal-benefits fetched 2026-09-25T19:59:47.798Z -->
+<!-- https://help.aliyun.com/zh/qwenwork/qw-personal-benefits fetched 2026-09-26T19:11:17.351Z -->
 Title: 个人版权益
 
 URL Source: https://help.aliyun.com/zh/qwenwork/qw-personal-benefits
-
-Published Time: Fri, 25 Sep 2026 19:55:06 GMT
 
 Markdown Content:
 [](https://www.aliyun.com/)
@@ -535,4 +533,6 @@ Serverless
 
 [阿里云电子政务云](https://help.aliyun.com/zh/govcloud/)
 
-[MindSphere on Alibaba Cloud](https://help
+[MindSphere on Alibaba Cloud](https://help.aliyun.com/zh/mdsp/)
+
+[SAP 解决方案](https://help.

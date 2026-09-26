@@ -1,4 +1,4 @@
-<!-- https://docs.trae.cn/ide_plans-and-billing fetched 2026-09-25T19:59:55.595Z -->
+<!-- https://docs.trae.cn/ide_plans-and-billing fetched 2026-09-26T19:11:19.796Z -->
 Title: 套餐与计费
 
 URL Source: https://docs.trae.cn/ide_plans-and-billing
