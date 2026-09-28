@@ -1,4 +1,4 @@
-<!-- https://marvis.qq.com/docs fetched 2026-09-27T19:45:25.367Z -->
+<!-- https://marvis.qq.com/docs fetched 2026-09-28T21:54:22.189Z -->
 Title: Marvis-产品认知与定位-腾讯马维斯官网
 
 URL Source: https://marvis.qq.com/docs
@@ -10,7 +10,7 @@ Markdown Content:
 
 产品文档
 
-产品认知与定位 下载、注册与上手 核心功能与使用场景 多 Agent 体系 隐私与数据安全
+[产品认知与定位](https://marvis.qq.com/docs/product-description)[下载、注册与上手](https://marvis.qq.com/docs/marvis-download-guide)[核心功能与使用场景](https://marvis.qq.com/docs/core-ability-and-major-user-scene)[多 Agent 体系](https://marvis.qq.com/docs/agent-system)[隐私与数据安全](https://marvis.qq.com/docs/data-and-security)
 
 [首页](https://marvis.qq.com/)产品文档
 
