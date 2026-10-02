@@ -1,5 +1,5 @@
-<!-- https://agent.minimaxi.com/docs/code/account/usage fetched 2026-10-01T21:00:30.387Z -->
-Title: Token Plan 与积分 - MiniMax Agent 文档
+<!-- https://agent.minimaxi.com/docs/code/account/usage fetched 2026-10-02T20:40:34.865Z -->
+Title: M Plan 与积分 - MiniMax Agent 文档
 
 URL Source: https://agent.minimaxi.com/docs/code/account/usage
 
@@ -14,7 +14,7 @@ Markdown Content:
 
 [跳转到主要内容](https://agent.minimaxi.com/docs/code/account/usage#content-area)
 
-[MiniMax Agent 文档 home page![Image 1: light logo](https://mintcdn.com/agent-cn/adVqF7AWWrY2xO08/logo/light.svg?fit=max&auto=format&n=adVqF7AWWrY2xO08&q=85&s=ffdd97a225809e62b5b2c219604e4e54)![Image 2: dark logo](https://mintcdn.com/agent-cn/adVqF7AWWrY2xO08/logo/dark.svg?fit=max&auto=format&n=adVqF7AWWrY2xO08&q=85&s=7c367a39f2a521068e163f5557ff7820)](https://agent.minimaxi.com/)
+[MiniMax Agent 文档 home page![Image 1: light logo](https://mintcdn.com/agent-cn/HmIRif1h5-2beWGj/logo/light.svg?fit=max&auto=format&n=HmIRif1h5-2beWGj&q=85&s=a9bc9e5772d3e59e044fc76d9de082ae)![Image 2: dark logo](https://mintcdn.com/agent-cn/HmIRif1h5-2beWGj/logo/dark.svg?fit=max&auto=format&n=HmIRif1h5-2beWGj&q=85&s=e7ef2b339d0b0768b5a8fa82de7b7bf5)](https://agent.minimaxi.com/)
 
 搜索...
 
@@ -28,7 +28,7 @@ Ctrl K
 
 模型与账户
 
-Token Plan 与积分
+M Plan 与积分
 
 [MiniMax Code](https://agent.minimaxi.com/docs/code/welcome)[CLI](https://agent.minimaxi.com/docs/cli/quick-start)[更新日志](https://agent.minimaxi.com/docs/changelog)[技术博客](https://agent.minimaxi.com/docs/techblog)
 
@@ -51,7 +51,9 @@ Token Plan 与积分
 
 *   [无限画布](https://agent.minimaxi.com/docs/code/desktop/infinite-canvas)
 *   [内置浏览器](https://agent.minimaxi.com/docs/code/desktop/browser)
+*   [电脑操控](https://agent.minimaxi.com/docs/code/desktop/computer-use)
 *   [开发面板](https://agent.minimaxi.com/docs/code/desktop/panels)
+*   [界面外观](https://agent.minimaxi.com/docs/code/desktop/appearance)
 *   [快捷键与快捷小窗](https://agent.minimaxi.com/docs/code/desktop/shortcuts)
 *   [更新与反馈](https://agent.minimaxi.com/docs/code/desktop/updates-feedback)
 *   [目标功能](https://agent.minimaxi.com/docs/code/desktop/goal)
@@ -74,7 +76,7 @@ Token Plan 与积分
 
 ### 模型与账户
 
-*   [Token Plan 与积分](https://agent.minimaxi.com/docs/code/account/usage)
+*   [M Plan 与积分](https://agent.minimaxi.com/docs/code/account/usage)
 *   [MiniMax API 密钥](https://agent.minimaxi.com/docs/code/account/minimax-api)
 *   [自定义模型 / BYOK](https://agent.minimaxi.com/docs/code/account/byok)
 *   [Agent 配置指南](https://agent.minimaxi.com/docs/code/account/byok-agent-setup)
@@ -86,16 +88,27 @@ Token Plan 与积分
 
 ## 在此页面
 
+*   [订阅套餐](https://agent.minimaxi.com/docs/code/account/usage#%E8%AE%A2%E9%98%85%E5%A5%97%E9%A4%90)
 *   [每日签到](https://agent.minimaxi.com/docs/code/account/usage#%E6%AF%8F%E6%97%A5%E7%AD%BE%E5%88%B0)
 *   [可以查看什么](https://agent.minimaxi.com/docs/code/account/usage#%E5%8F%AF%E4%BB%A5%E6%9F%A5%E7%9C%8B%E4%BB%80%E4%B9%88)
 
 模型与账户
 
-# Token Plan 与积分
+# M Plan 与积分
 
-查看 MiniMax Code 的用量、订阅状态和积分余额。
+查看 MiniMax Code 的订阅套餐、积分余额和用量额度。
 
-在设置的用量页面中，你可以查看当前 Token Plan、积分余额、使用额度和发票入口。![Image 3: 用量与模型页面](https://mintcdn.com/agent-cn/BK6oKQ5dsiqXZ-jT/images/code/usage-model.png?fit=max&auto=format&n=BK6oKQ5dsiqXZ-jT&q=85&s=f318eee878ccb075447dbec34683f7e3)
+在设置的用量页面中，你可以查看当前订阅套餐、积分余额、使用额度和发票入口。![Image 3: 用量与模型页面](https://mintcdn.com/agent-cn/umh5PknLTCWWt1a5/images/code/usage-model.png?fit=max&auto=format&n=umh5PknLTCWWt1a5&q=85&s=15a66d9a2fa5a7e369f1f479ead94b04)
+## [​](https://agent.minimaxi.com/docs/code/account/usage#%E8%AE%A2%E9%98%85%E5%A5%97%E9%A4%90)
+
+订阅套餐
+
+M Plan 是 MiniMax Code 的订阅套餐，承接并拓展了 Token Plan 的订阅能力。
+*   套餐订阅价格与文本使用额度保持不变
+*   部分档位可以使用包括 H3 在内的 MiniMax 全系列模型
+*   在用量页面可以查看当前订阅状态、套餐有效期和剩余额度
+
+档位、可用模型、计费方式和额度规则的完整说明，见 [M Plan 概览](https://platform.minimax.cn/docs/m-plan/intro)。
 ## [​](https://agent.minimaxi.com/docs/code/account/usage#%E6%AF%8F%E6%97%A5%E7%AD%BE%E5%88%B0)
 
 每日签到
@@ -112,12 +125,12 @@ Token Plan 与积分
 可以查看什么
 
 *   当前订阅状态
-*   Token Plan 有效期
+*   套餐有效期
 *   MiniMax 积分余额
 *   用量额度
 *   订阅、充值、发票和签到入口
 
-具体计费和额度规则以产品内展示为准。
+具体档位、可用模型、计费和额度规则以产品内展示为准。
 
 [IM 连接](https://agent.minimaxi.com/docs/code/automation/im)[MiniMax API 密钥](https://agent.minimaxi.com/docs/code/account/minimax-api)
 

@@ -1,4 +1,4 @@
-<!-- https://docs.trae.cn/ide_plans-and-billing fetched 2026-10-01T20:59:38.975Z -->
+<!-- https://docs.trae.cn/ide_plans-and-billing fetched 2026-10-02T20:39:56.689Z -->
 Title: 套餐与计费
 
 URL Source: https://docs.trae.cn/ide_plans-and-billing
@@ -226,4 +226,10 @@ TRAE 提供多档付费会员套餐。各档套餐的价格和权益如下，你
 [原 “优速通 Express” 用户如何处理？](https://docs.trae.cn/ide_plans-and-billing#hV6chwSJ5 "原 “优速通 Express” 用户如何处理？")
 
 [如何签到领积分？](https://docs.trae.cn/ide_plans-and-billing#hxcRQybwg "如何签到领积分？")
+
+X
+
+100%
+
+![Image 3](https://docs.trae.cn/ide_plans-and-billing)
 

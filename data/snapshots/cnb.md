@@ -1,4 +1,4 @@
-<!-- https://docs.cnb.cool/zh/pricing.html fetched 2026-10-01T21:02:16.157Z -->
+<!-- https://docs.cnb.cool/zh/pricing.html fetched 2026-10-02T20:41:50.696Z -->
 Title: 定价 | CNB 文档
 
 URL Source: https://docs.cnb.cool/zh/pricing.html
