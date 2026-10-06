@@ -1,6 +1,15 @@
 {
   "history": [
     {
+      "at": "2026-10-06T20:55:29.324Z",
+      "atBeijing": "2026-10-07 04:55:29",
+      "status": "ok",
+      "ok": 6,
+      "noNumber": 7,
+      "failed": 0,
+      "changes": []
+    },
+    {
       "at": "2026-10-05T22:33:44.949Z",
       "atBeijing": "2026-10-06 06:33:44",
       "status": "ok",
@@ -521,9 +530,9 @@
       "changes": []
     }
   ],
-  "lastSyncAt": "2026-10-05T22:33:44.949Z",
-  "lastSyncAtBeijing": "2026-10-06 06:35:57",
-  "lastSuccessAt": "2026-10-05T22:33:44.949Z",
+  "lastSyncAt": "2026-10-06T20:55:29.324Z",
+  "lastSyncAtBeijing": "2026-10-07 04:57:39",
+  "lastSuccessAt": "2026-10-06T20:55:29.324Z",
   "status": "ok",
   "counts": {
     "ok": 6,
