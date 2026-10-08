@@ -1,4 +1,4 @@
-<!-- https://docs.trae.cn/ide_plans-and-billing fetched 2026-10-07T21:14:33.701Z -->
+<!-- https://docs.trae.cn/ide_plans-and-billing fetched 2026-10-08T21:16:02.815Z -->
 Title: 套餐与计费
 
 URL Source: https://docs.trae.cn/ide_plans-and-billing
@@ -27,8 +27,6 @@ TRAE IDE 里最热门的 Skill 是哪些？
 文档反馈
 
 [TRAE 概览](https://docs.trae.cn/ide_trae-overview)
-
-[重磅更新：TraeWork 客户端上线](https://docs.trae.cn/ide_trae-solo-is-now-available)
 
 [重磅更新：以积分为核心的计费模式正式上线](https://docs.trae.cn/ide_coming-soon)
 
@@ -123,7 +121,7 @@ TRAE 提供多档付费会员套餐。各档套餐的价格和权益如下，你
 | 每月登录赠送 | 500 积分。 | 当前自然月 |
 | 新用户注册福利 | 一次性赠送 4000 积分。 | 31 个自然日 |
 | 老用户升级福利 | 升级到新计费模式后，一次性赠送 4000 积分。 | 31 个自然日 |
-| 每日签到 | 每天 150 积分。 | 31 个自然日 |
+| 每日签到 | 每天 100 积分。 | 31 个自然日 |
 | 邀请新用户 | 每成功邀请一人，邀请人和被邀请人各获得 500 积分。 | 31 个自然日 | 
 *   **会员用户**  
  会员用户可以通过以下途径获得积分。此外，会员用户在调用 TRAE 内置模型 GLM-5.2、Seed-2.1-Turbo 和 Seed-Code 时将享有专属补贴。 

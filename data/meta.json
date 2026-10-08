@@ -1,6 +1,20 @@
 {
   "history": [
     {
+      "at": "2026-10-08T21:15:43.189Z",
+      "atBeijing": "2026-10-09 05:15:43",
+      "status": "ok",
+      "ok": 6,
+      "noNumber": 7,
+      "failed": 0,
+      "changes": [
+        {
+          "kind": "snippet",
+          "message": "Trae：官方页面额度说明有变化"
+        }
+      ]
+    },
+    {
       "at": "2026-10-07T21:14:12.640Z",
       "atBeijing": "2026-10-08 05:14:12",
       "status": "ok",
@@ -539,9 +553,9 @@
       "changes": []
     }
   ],
-  "lastSyncAt": "2026-10-07T21:14:12.640Z",
-  "lastSyncAtBeijing": "2026-10-08 05:16:50",
-  "lastSuccessAt": "2026-10-07T21:14:12.640Z",
+  "lastSyncAt": "2026-10-08T21:15:43.189Z",
+  "lastSyncAtBeijing": "2026-10-09 05:18:22",
+  "lastSuccessAt": "2026-10-08T21:15:43.189Z",
   "status": "ok",
   "counts": {
     "ok": 6,

@@ -1,4 +1,4 @@
-<!-- https://agent.minimaxi.com/docs/code/account/usage fetched 2026-10-07T21:15:29.261Z -->
+<!-- https://agent.minimaxi.com/docs/code/account/usage fetched 2026-10-08T21:16:40.177Z -->
 Title: M Plan 与积分 - MiniMax Agent 文档
 
 URL Source: https://agent.minimaxi.com/docs/code/account/usage
@@ -63,8 +63,10 @@ M Plan 与积分
 *   [Agent Team](https://agent.minimaxi.com/docs/code/agents/team)
 *   [自定义 Agent](https://agent.minimaxi.com/docs/code/agents/custom-agents)
 *   [自定义 Mini App](https://agent.minimaxi.com/docs/code/agents/mini-apps)
+*   [MiniApp 介绍](https://agent.minimaxi.com/docs/code/agents/miniapp-overview)
 *   [H3 Max 视频生成](https://agent.minimaxi.com/docs/code/agents/h3-max)
 *   [插件市场](https://agent.minimaxi.com/docs/code/agents/plugins)
+*   [插件上架](https://agent.minimaxi.com/docs/code/agents/plugin-submission)
 *   [MCP 服务](https://agent.minimaxi.com/docs/code/agents/mcp)
 *   [记忆机制](https://agent.minimaxi.com/docs/code/agents/memory)
 
