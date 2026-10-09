@@ -1,4 +1,4 @@
-<!-- https://www.ant-ling.com/zh/ fetched 2026-10-08T21:18:13.122Z -->
+<!-- https://www.ant-ling.com/zh/ fetched 2026-10-09T20:51:21.463Z -->
 Title: 蚂蚁百灵大模型
 
 URL Source: https://www.ant-ling.com/zh/
@@ -16,29 +16,21 @@ English[体验百灵](https://chat.ant-ling.com/chat)
 
 English[体验百灵](https://chat.ant-ling.com/chat)
 
-Ling-3.0-flash 全新发布 · 开启 Agent 工作流的效率时代
+为真实任务而生，让高频智能触手可及
 
 # 探索 Ling 的极限
 
-Ling-3.0-flash Open API 限时折扣中，为应用提供更具性价比的智能基座
+为应用提供更具性价比的智能基座
 
 [立即体验](https://chat.ant-ling.com/chat)[查看文档](https://developer.ant-ling.com/zh-CN/docs)
 
-为真实人物而生，让高频智能触手可及
+Ling-3.1-flash 全新发布 · 开启 Agent 工作流的效率时代
 
-# Ling-3.0-flash 正式开源
+# Ling-3.1-flash 正式上线
 
-让更快、更省的智能，向每一位开发者开放
+Ling-3.1-flash Open API 限时优惠中，快来体验吧
 
-[立即体验](https://chat.ant-ling.com/chat)[获取模型](https://huggingface.co/inclusionAI/Ling-3.0-flash)
-
-以 100 亿 Token，让开放智能进入真实业务
-
-# 真实世界智能共创计划
-
-百灵创作者征集中，立即报名即可获得 1 亿 免费 token 包
-
-[立即参与](https://ant-ling.app.weavefox.cn/)
+[立即体验](https://chat.ant-ling.com/chat)[查看文档](https://developer.ant-ling.com/zh-CN/docs)
 
 ## 模型家族
 
@@ -49,9 +41,9 @@ Ling-3.0-flash Open API 限时折扣中，为应用提供更具性价比的智�
 [![Image 4: Ling](https://mdn.alipayobjects.com/huamei_yj1ans/afts/img/lJEzRYW-12UAAAAAS_AAAAgADqLdAQFr/original) ### Ling 语言](https://developer.ant-ling.com/zh-CN/docs/models/ling/)
 通用型大语言模型产品线，MoE 架构，在保持旗舰级智能的同时显著提升推理效率与性价比
 
-Ling-3.0-flash 快速版
+Ling-3.1-flash 旗舰版
 
-Ling-2.6-1T 旗舰版
+Ling-3.0-flash 快速版
 
 [模型详情![Image 5](https://mdn.alipayobjects.com/huamei_yj1ans/afts/img/Hh0ESbYMc-oAAAAAJWAAAAgADqLdAQFr/original)](https://developer.ant-ling.com/zh-CN/docs/models/ling/)
 
@@ -105,9 +97,9 @@ Ming-flash-omni-2.0 全模态旗舰版
 
 [全部动态![Image 15](https://mdn.alipayobjects.com/huamei_yj1ans/afts/img/Hh0ESbYMc-oAAAAAJWAAAAgADqLdAQFr/original)](https://developer.ant-ling.com/zh-CN/blogs)
 
-[![Image 16](https://mdn.alipayobjects.com/huamei_yj1ans/afts/img/g9KjSboDH9cAAAAAReAAAAgADqLdAQFr/original)![Image 17](https://mdn.alipayobjects.com/huamei_yj1ans/afts/img/EX_ERZzK-UQAAAAAQDAAAAgADqLdAQFr/original) Ling-3.0-flash：智以密胜 百灵大模型 2026-07-24](https://mp.weixin.qq.com/s/5ic54FCsy334JJsQcyBr1g)[![Image 18](https://mdn.alipayobjects.com/huamei_yj1ans/afts/img/LWR_Qa3alugAAAAAQ8AAAAgADqLdAQFr/original)![Image 19](https://mdn.alipayobjects.com/huamei_yj1ans/afts/img/V5uzToIlYJ0AAAAAQCAAAAgADqLdAQFr/original) Ring-2.6-1T 正式开源：为真实复杂任务打造的万亿级思考模型 百灵大模型 2026-05-15](https://mp.weixin.qq.com/s/Wky-yGYiU61FYMjg9DAU3Q)
+[![Image 16](https://mdn.alipayobjects.com/huamei_yj1ans/afts/img/g9KjSboDH9cAAAAAReAAAAgADqLdAQFr/original)![Image 17](https://mdn.alipayobjects.com/huamei_yj1ans/afts/img/EX_ERZzK-UQAAAAAQDAAAAgADqLdAQFr/original) Ling-3.1-flash：面向真实世界任务的模型升级 百灵大模型 2026-09-30](https://mp.weixin.qq.com/s/-eHoHAYQXgPP-EUpkgoCcA)[![Image 18](https://mdn.alipayobjects.com/huamei_yj1ans/afts/img/LWR_Qa3alugAAAAAQ8AAAAgADqLdAQFr/original)![Image 19](https://mdn.alipayobjects.com/huamei_yj1ans/afts/img/V5uzToIlYJ0AAAAAQCAAAAgADqLdAQFr/original) Ming-Image-0.1-Design 系列开源，走进真实设计工作流 百灵大模型 2026-09-23](https://mp.weixin.qq.com/s/VGdtxfM8kbHIQJw50VD_Sw)
 
-[![Image 20](https://mdn.alipayobjects.com/huamei_yj1ans/afts/img/InPUQ6CD0NkAAAAASBAAAAgADqLdAQFr/original)![Image 21](https://mdn.alipayobjects.com/huamei_yj1ans/afts/img/aGh1SIGFi4oAAAAAQCAAAAgADqLdAQFr/original) Ring-2.6-1T 正式发布 百灵大模型 2026-05-09](https://mp.weixin.qq.com/s/eg4m5lngCeRjiEzKnE-7ZA)[![Image 22](https://mdn.alipayobjects.com/huamei_yj1ans/afts/img/X52mS4J56JMAAAAARoAAAAgADqLdAQFr/original) Ling-2.6-1T 正式开源：面向复杂任务的万亿级综合旗舰模型 百灵大模型 2026-04-30](https://mp.weixin.qq.com/s/gnQm00GP9E8r9WocTP7rJg)
+[![Image 20](https://mdn.alipayobjects.com/huamei_yj1ans/afts/img/InPUQ6CD0NkAAAAASBAAAAgADqLdAQFr/original)![Image 21](https://mdn.alipayobjects.com/huamei_yj1ans/afts/img/aGh1SIGFi4oAAAAAQCAAAAgADqLdAQFr/original) Ling-3.0-flash-VL 开源发布：让视觉能力服务真实任务 百灵大模型 2026-09-09](https://mp.weixin.qq.com/s/1MwD3tusIJiUNlR8awJOkw)[![Image 22](https://mdn.alipayobjects.com/huamei_yj1ans/afts/img/X52mS4J56JMAAAAARoAAAAgADqLdAQFr/original) Ling-3.0-flash 开源：为真实世界而生的开放智能 百灵大模型 2026-08-07](https://mp.weixin.qq.com/s/-eHoHAYQXgPP-EUpkgoCcA)
 
 [全部动态![Image 23](https://mdn.alipayobjects.com/huamei_yj1ans/afts/img/Hh0ESbYMc-oAAAAAJWAAAAgADqLdAQFr/original)](https://developer.ant-ling.com/zh-CN/blogs)
 

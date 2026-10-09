@@ -1,6 +1,24 @@
 {
   "history": [
     {
+      "at": "2026-10-09T20:48:46.231Z",
+      "atBeijing": "2026-10-10 04:48:46",
+      "status": "ok",
+      "ok": 5,
+      "noNumber": 7,
+      "failed": 1,
+      "changes": [
+        {
+          "kind": "failed",
+          "message": "WorkBuddy：官方页面抓取失败（reader: HTTP 503 / direct: page too short / direct-browser-ua: page too short / archive: page too short）"
+        },
+        {
+          "kind": "snippet",
+          "message": "蚂蚁百灵 Ling：官方页面额度说明有变化"
+        }
+      ]
+    },
+    {
       "at": "2026-10-08T21:15:43.189Z",
       "atBeijing": "2026-10-09 05:15:43",
       "status": "ok",
@@ -553,14 +571,14 @@
       "changes": []
     }
   ],
-  "lastSyncAt": "2026-10-08T21:15:43.189Z",
-  "lastSyncAtBeijing": "2026-10-09 05:18:22",
-  "lastSuccessAt": "2026-10-08T21:15:43.189Z",
+  "lastSyncAt": "2026-10-09T20:48:46.231Z",
+  "lastSyncAtBeijing": "2026-10-10 04:51:30",
+  "lastSuccessAt": "2026-10-09T20:48:46.231Z",
   "status": "ok",
   "counts": {
-    "ok": 6,
+    "ok": 5,
     "noNumber": 7,
-    "failed": 0
+    "failed": 1
   },
   "platformCount": 13,
   "error": null

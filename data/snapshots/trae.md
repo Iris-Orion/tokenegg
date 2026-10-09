@@ -1,4 +1,4 @@
-<!-- https://docs.trae.cn/ide_plans-and-billing fetched 2026-10-08T21:16:02.815Z -->
+<!-- https://docs.trae.cn/ide_plans-and-billing fetched 2026-10-09T20:49:00.668Z -->
 Title: 套餐与计费
 
 URL Source: https://docs.trae.cn/ide_plans-and-billing
@@ -6,7 +6,7 @@ URL Source: https://docs.trae.cn/ide_plans-and-billing
 Markdown Content:
 [![Image 1: TRAE](https://p9-arcosite.byteimg.com/tos-cn-i-goo7wpa0wc/f5cd1485db3b4f328599afe28a1b54d9~tplv-goo7wpa0wc-topic.png) TRAE](https://www.trae.cn/)
 
-[TraeCode](https://docs.trae.cn/ide_trae-overview)[TraeWork](https://docs.trae.cn/work_what-is-trae-work)[TraeCode Plugin](https://docs.trae.cn/plugin_what-is-trae-plugin)[TraeCode CLI](https://docs.trae.cn/ide_plans-and-billing)[企业版](https://docs.trae.cn/ide_plans-and-billing)
+[TRAE](https://docs.trae.cn/ide_trae-overview)[TraeWork](https://docs.trae.cn/work_traework-to-traecode-data-migration)[TRAE Plugin](https://docs.trae.cn/plugin_what-is-trae-plugin)[TRAE CLI](https://docs.trae.cn/ide_plans-and-billing)[企业版](https://docs.trae.cn/ide_plans-and-billing)
 
 AI 助手
 
@@ -28,13 +28,15 @@ TRAE IDE 里最热门的 Skill 是哪些？
 
 [TRAE 概览](https://docs.trae.cn/ide_trae-overview)
 
-[重磅更新：以积分为核心的计费模式正式上线](https://docs.trae.cn/ide_coming-soon)
+[重磅更新：TraeCode 与 TraeWork 已融合为全新的 TRAE](https://docs.trae.cn/ide_traework-to-traecode-data-migration)
 
 入门
 
 教程 & 最佳实践
 
 AI 编程核心
+
+Agent 窗口
 
 SOLO 模式
 
@@ -60,7 +62,7 @@ SOLO 模式
 
 相关协议
 
-TraeCode/会员套餐/套餐与计费
+TRAE/会员套餐/套餐与计费
 
 # 套餐与计费
 
@@ -111,7 +113,7 @@ TRAE 提供多档付费会员套餐。各档套餐的价格和权益如下，你
 
 ### 可用模型
 
-在 TraeCode 中，不同档位的会员可用的内置模型不同，详情参考模型列表：[TraeCode 内置模型](https://docs.trae.cn/ide_models#e3a60878)
+在 TRAE 中，不同档位的会员可用的内置模型不同，详情参考模型列表：[TRAE 内置模型](https://docs.trae.cn/ide_models#e3a60878)
 
 ### 积分获取
 
@@ -185,9 +187,9 @@ TRAE 提供多档付费会员套餐。各档套餐的价格和权益如下，你
 
 ### 如何签到领积分？
 
-在 TraeCode，点击你的头像，然后点击菜单中的 **签到** 按钮，即可完成签到，获得积分。
+在 TRAE，点击你的头像，然后点击菜单中的 **签到** 按钮，即可完成签到，获得积分。
 
-![Image 2: Image](https://p9-arcosite.byteimg.com/tos-cn-i-goo7wpa0wc/e108ab2b8a2043a9b372a2e7b8484bc9~tplv-goo7wpa0wc-topic.webp)
+![Image 2: Image](https://p9-arcosite.byteimg.com/tos-cn-i-goo7wpa0wc/d56edf4c693743f481fc8174a4841f83~tplv-goo7wpa0wc-topic.webp)
 
 文档对您有帮助吗?
 
