@@ -1,4 +1,4 @@
-<!-- https://docs.trae.cn/ide_plans-and-billing fetched 2026-10-09T20:49:00.668Z -->
+<!-- https://docs.trae.cn/ide_plans-and-billing fetched 2026-10-10T20:01:16.826Z -->
 Title: 套餐与计费
 
 URL Source: https://docs.trae.cn/ide_plans-and-billing
@@ -126,7 +126,7 @@ TRAE 提供多档付费会员套餐。各档套餐的价格和权益如下，你
 | 每日签到 | 每天 100 积分。 | 31 个自然日 |
 | 邀请新用户 | 每成功邀请一人，邀请人和被邀请人各获得 500 积分。 | 31 个自然日 | 
 *   **会员用户**  
- 会员用户可以通过以下途径获得积分。此外，会员用户在调用 TRAE 内置模型 GLM-5.2、Seed-2.1-Turbo 和 Seed-Code 时将享有专属补贴。 
+ 会员用户可以通过以下途径获得积分。此外，会员用户在调用 TRAE 内置模型 GLM-5.2、GLM-5.3、Seed-2.1-Turbo 和 Seed-Code 时将享有专属补贴。 
 
 | **途径** | **积分数量** | **有效期** |
 | --- | --- | --- |
@@ -170,6 +170,10 @@ TRAE 提供多档付费会员套餐。各档套餐的价格和权益如下，你
 *   **同档位单月购买转连续包月：余额退还**  
  支付成功后，系统会从原订单实付金额中扣除已使用会员积分对应的金额，并将剩余金额原路退还。  
  需注意的是，进行该操作前，需确保原订单未开具发票，否则将无法转为连续包月。
+
+### 自动续费
+
+若已开通自动续费，系统将每 31 天续费一次，并在当前权益周期到期前 12 小时自动扣款。你可以随时取消自动续费。
 
 ### 套餐降级
 
@@ -217,6 +221,8 @@ TRAE 提供多档付费会员套餐。各档套餐的价格和权益如下，你
 
 [套餐升级与订阅方式变更](https://docs.trae.cn/ide_plans-and-billing#hSpSIFhvj "套餐升级与订阅方式变更")
 
+[自动续费](https://docs.trae.cn/ide_plans-and-billing#hkA6zCsEo "自动续费")
+
 [套餐降级](https://docs.trae.cn/ide_plans-and-billing#hTWU9OXGI "套餐降级")
 
 [订阅链接](https://docs.trae.cn/ide_plans-and-billing#hnTYRd5rS "订阅链接")
@@ -226,10 +232,4 @@ TRAE 提供多档付费会员套餐。各档套餐的价格和权益如下，你
 [原 “优速通 Express” 用户如何处理？](https://docs.trae.cn/ide_plans-and-billing#hV6chwSJ5 "原 “优速通 Express” 用户如何处理？")
 
 [如何签到领积分？](https://docs.trae.cn/ide_plans-and-billing#hxcRQybwg "如何签到领积分？")
-
-X
-
-100%
-
-![Image 3](https://docs.trae.cn/ide_plans-and-billing)
 

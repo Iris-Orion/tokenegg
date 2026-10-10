@@ -1,9 +1,7 @@
-<!-- https://help.aliyun.com/zh/qwenwork/qw-personal-benefits fetched 2026-10-09T20:48:58.684Z -->
+<!-- https://help.aliyun.com/zh/qwenwork/qw-personal-benefits fetched 2026-10-10T20:01:14.366Z -->
 Title: 个人版权益
 
 URL Source: https://help.aliyun.com/zh/qwenwork/qw-personal-benefits
-
-Published Time: Fri, 09 Oct 2026 20:47:16 GMT
 
 Markdown Content:
 [](https://www.aliyun.com/)
@@ -41,7 +39,7 @@ Markdown Content:
 
 视觉智能
 *   [文字识别](https://help.aliyun.com/zh/ocr/)
-*   [视觉智能开放平台](https://help.aliyun.com/zh/viapi/)
+*   [视觉智能开放平台（文档停止维护）](https://help.aliyun.com/zh/viapi/)
 *   [图像搜索](https://help.aliyun.com/zh/image-search/)
 *   [智能视觉生产（文档停止维护）](https://help.aliyun.com/zh/product/133692.html)
 
@@ -535,4 +533,6 @@ Serverless
 
 [阿里云电子政务云](https://help.aliyun.com/zh/govcloud/)
 
-[MindSphere on Alibaba Cloud](https://help
+[MindSphere on Alibaba Cloud](https://help.aliyun.com/zh/mdsp/)
+
+[SAP 解决方案](https
