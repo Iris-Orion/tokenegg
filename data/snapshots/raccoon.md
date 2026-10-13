@@ -1,4 +1,4 @@
-<!-- https://office.xiaohuanxiong.com/pricing fetched 2026-10-12T22:55:06.505Z -->
+<!-- https://office.xiaohuanxiong.com/pricing fetched 2026-10-13T21:11:37.636Z -->
 Title: 商汤小浣熊 RaccoonWork - 能搞定工作的AI助手
 
 URL Source: https://office.xiaohuanxiong.com/pricing
@@ -191,5 +191,5 @@ iPhone 销量分析
 
 统计每个员工在每个自然周的工时，一个自然周为一列，一个员工为一行，在最后加一列这个员工的工时总数，最后导出这个表格
 
-![Image 3](https://bat.bing.com/action/0?ti=343238775&Ver=2&mid=ad55720d-b670-41c0-971d-d422e0915591&bo=3&sid=f47772f0c68f11f1a07f13687eab5739&vid=f4778670c68f11f1824763c41b5c153c&vids=0&msclkid=N&pi=918639831&lg=en-US&sw=1280&sh=1280&sc=24&tl=%E5%95%86%E6%B1%A4%E5%B0%8F%E6%B5%A3%E7%86%8A%20RaccoonWork%20-%20%E8%83%BD%E6%90%9E%E5%AE%9A%E5%B7%A5%E4%BD%9C%E7%9A%84AI%E5%8A%A9%E6%89%8B&p=https%3A%2F%2Foffice.xiaohuanxiong.com%2Fpricing&r=&lt=2091&evt=pageLoad&sv=2&asc=G&cdb=AQAQ&rn=215181)
+![Image 3](https://bat.bing.com/action/0?ti=343238775&Ver=2&mid=f7e9d72b-ffee-493c-936d-49fb36829605&bo=3&sid=aad00450c74a11f1bb5845f5ff28eefb&vid=aad00810c74a11f199c371eb31bf6a59&vids=0&msclkid=N&pi=918639831&lg=en-US&sw=1280&sh=1280&sc=24&tl=%E5%95%86%E6%B1%A4%E5%B0%8F%E6%B5%A3%E7%86%8A%20RaccoonWork%20-%20%E8%83%BD%E6%90%9E%E5%AE%9A%E5%B7%A5%E4%BD%9C%E7%9A%84AI%E5%8A%A9%E6%89%8B&p=https%3A%2F%2Foffice.xiaohuanxiong.com%2Fpricing&r=&lt=1536&evt=pageLoad&sv=2&asc=G&cdb=AQAQ&rn=554323)
 
