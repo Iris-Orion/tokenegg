@@ -1,4 +1,4 @@
-<!-- https://docs.trae.cn/ide_plans-and-billing fetched 2026-10-13T21:11:25.569Z -->
+<!-- https://docs.trae.cn/ide_plans-and-billing fetched 2026-10-14T20:10:00.410Z -->
 Title: 套餐与计费
 
 URL Source: https://docs.trae.cn/ide_plans-and-billing
@@ -126,7 +126,7 @@ TRAE 提供多档付费会员套餐。各档套餐的价格和权益如下，你
 | 每日签到 | 每天 100 积分。 | 31 个自然日 |
 | 邀请新用户 | 每成功邀请一人，邀请人和被邀请人各获得 500 积分。 | 31 个自然日 | 
 *   **会员用户**  
- 会员用户可以通过以下途径获得积分。此外，会员用户在调用 TRAE 内置模型 GLM-5.2、GLM-5.3、Seed-2.1-Turbo 和 Seed-Code 时将享有专属补贴。 
+ 会员用户可以通过以下途径获得积分。此外，会员用户在调用 TRAE 内置模型 GLM-5.3、Seed-2.1-Turbo、Seed-Code 和 DeepSeek 时将享有专属补贴。 
 
 | **途径** | **积分数量** | **有效期** |
 | --- | --- | --- |
@@ -232,10 +232,4 @@ TRAE 提供多档付费会员套餐。各档套餐的价格和权益如下，你
 [原 “优速通 Express” 用户如何处理？](https://docs.trae.cn/ide_plans-and-billing#hV6chwSJ5 "原 “优速通 Express” 用户如何处理？")
 
 [如何签到领积分？](https://docs.trae.cn/ide_plans-and-billing#hxcRQybwg "如何签到领积分？")
-
-X
-
-100%
-
-![Image 3](https://docs.trae.cn/ide_plans-and-billing)
 
