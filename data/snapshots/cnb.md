@@ -1,4 +1,4 @@
-<!-- https://docs.cnb.cool/zh/pricing.html fetched 2026-10-14T20:11:41.295Z -->
+<!-- https://docs.cnb.cool/zh/pricing.html fetched 2026-10-15T19:52:59.376Z -->
 Title: 定价 | CNB 文档
 
 URL Source: https://docs.cnb.cool/zh/pricing.html
@@ -126,7 +126,7 @@ Main Navigation
 
 免费额度 + 超额按量计费。免费额度用尽后，相关能力将受限。例如 AI Credits 用尽后，NPC 等 AI 能力将不可用。
 
-前往 `组织-设置-用量管理`，绑定 [腾讯云-云原生构建预算](https://console.cloud.tencent.com/cnb)，可提升用量上限。
+前往 `组织` → `设置` → `用量管理`，绑定 [腾讯云-云原生构建预算](https://console.cloud.tencent.com/cnb)，可提升用量上限。
 
 ### [计费规则](https://docs.cnb.cool/zh/pricing.html#ji-fei-gui-ze)
 
@@ -239,9 +239,9 @@ Main Navigation
 
 | 路径 | 说明 |
 | --- | --- |
-| `组织 → 设置 → 用量管理` | 组织级别整体用量 |
-| `仓库 → 设置 → 用量统计` | 仓库级别用量详情 |
-| `制品库 → 设置 → 用量统计` | 制品库级别用量详情 |
+| `组织` → `设置` → `用量管理` | 组织级别整体用量 |
+| `仓库` → `设置` → `用量统计` | 仓库级别用量详情 |
+| `制品库` → `设置` → `用量统计` | 制品库级别用量详情 |
 
 ## [非营利组织特权](https://docs.cnb.cool/zh/pricing.html#fei-ying-li-zu-zhi-te-quan)
 

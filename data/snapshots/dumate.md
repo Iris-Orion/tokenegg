@@ -1,4 +1,4 @@
-<!-- https://cloud.baidu.com/doc/Dumate/s/nmnevrk0l fetched 2026-10-14T20:10:55.870Z -->
+<!-- https://cloud.baidu.com/doc/Dumate/s/nmnevrk0l fetched 2026-10-15T19:52:10.551Z -->
 Title: 计费说明 - DuMate
 
 URL Source: https://cloud.baidu.com/doc/Dumate/s/nmnevrk0l
@@ -65,13 +65,13 @@ Markdown Content:
 
 ## 热门精选
 
-### 大模型
-
-*   #### [百度千帆 以Agent为核心的一站式企业级大模型服务平台](https://cloud.baidu.com/product-s/qianfan_home)
-
 ### 智能体
 
 *   #### [百度搭子DuMate 你的超级AI助手 真干活 用搭子](https://cloud.baidu.com/product/dumate.html)
+
+### 大模型
+
+*   #### [词元所 让好模型，创造更多价值](https://cloud.baidu.com/product-s/token_exchange.html)
 
 ### AI能力
 
@@ -109,61 +109,33 @@ Markdown Content:
 
 ## 百度千帆大模型平台
 
-### MCP及Agent开发
-
-*   #### [MCP组件 聚合优质工具与MCP服务](https://console.bce.baidu.com/qianfan/tools/toolsCenter)
-*   #### [百度搜索 25年搜索沉淀，权威高质多模态信源](https://console.bce.baidu.com/qianfan/tools/toolsCenter/web_search/detail)
-*   #### [百度百科 超3000万全行业词条，800万用户共吸纳](https://console.bce.baidu.com/qianfan/tools/toolsCenter/baidu_baike/detail)
-*   #### [智能生成PPT 智能大纲汇总，文库资源沉淀](https://console.bce.baidu.com/qianfan/tools/toolsCenter/ai_command_ppt/detail)
-
-### MCP及Agent开发
-
-*   #### [精选Agent 官方能力直达，快速体验AI方案](https://console.bce.baidu.com/qianfan/studio/officialAppCenter)
-*   #### [全能AI助手 内置多种AI助手常见能力，深入理解用户意图，智能调度多种MCP工具](https://console.bce.baidu.com/qianfan/studio/officialApp/aiAssistant/b8c8404c-0be4-4613-83d6-d729a0bf6a42)
-*   #### [深度研究Agent 实时整合文本、图像、PDF等多模态数据，生成高质量结构化报告](https://console.bce.baidu.com/qianfan/studio/officialApp/deepResearch/69a72b3f-a18c-2f02-9ba0-007beb95b315)
-*   #### [百度AI搜索 可结合全网实时信息进行智能问答，能力丰富强大](https://console.bce.baidu.com/qianfan/studio/officialApp/aiSearch/3f2d0606-e777-4453-978e-f77a9180fb21)
-
-### MCP及Agent开发
-
-*   #### [Agent开发工具链 丰富的Agent开发工具、一站式创建](https://console.bce.baidu.com/qianfan/studio/officialAppCenter)
-*   #### [自主规划Agent 自主思考并规划任务，适用于基础或日常的业务流程](https://console.bce.baidu.com/qianfan/studio/officialAppCenter)
-*   #### [工作流Agent 严格按照人工编排工作流对话，适用于严谨的业务流程](https://console.bce.baidu.com/qianfan/studio/officialAppCenter)
-*   #### [多智能体协作 支持自定义导入并官方预置多个子Agent,协同完成复杂 场景任务](https://console.bce.baidu.com/qianfan/studio/officialAppCenter)
-
 ### 模型开发
 
 *   #### [百度千帆·大模型服务及Agent开发平台 以Agent为核心的一站式企业级大模型服务平台](https://cloud.baidu.com/product-s/qianfan_home)
-*   #### [百度胜算·数据智能平台 基于业务本体驱动的企业数据智能平台](https://cloud.baidu.com/product/databuilder)
-*   #### [零门槛AI开发平台EasyDL 零算法基础定制高精度AI模型](https://cloud.baidu.com/product/easydl)
-*   #### [全功能AI开发平台BML 提供一站式AI开发、训练及推理环境，](https://cloud.baidu.com/product/bml)
-
-## AI应用与AI硬件
-
-### AI原生应用
-
-*   #### [伐谋 全球领先的可商用自我演化超级智能体](https://cloud.baidu.com/product/famou.html)
-*   #### [秒哒 无代码应用搭建平台](https://www.miaoda.cn/)
-*   #### [百度智能云数字员工 内容运营等8款数字员工焕新上线！免费体验！](https://cloud.baidu.com/product-s/keyue_home/digital-employees?track=cloud3)
-*   #### [百度一见 云边协同、自主进化的视觉智能体平台](https://cloud.baidu.com/product-s/yijian_home)
-
-### AI原生应用
-
-*   #### [百度智能云客悦 大模型驱动的服务营销一体化AI应用](https://cloud.baidu.com/product-s/keyue_home)
-*   #### [九州·政务大模型原生产品 构建“1+1+5+∞”政务大模型原生产品体系](https://cloud.baidu.com/solution/gllm.html)
-*   #### [百度智能云灵医 医疗AI大模型，构建覆盖全场景的医疗AI生态](https://cloud.baidu.com/product/ly-open-platform.html)
-*   #### [百战·数智营销 赋能合作伙伴打造客户全生命周期营销闭环](https://cloud.baidu.com/product/baizhan.html)
-
-### AI云原生与一体机
-
+*   #### [词元所 让好模型，创造更多价值](https://cloud.baidu.com/product-s/token_exchange.html)
 *   #### [百度百舸·AI计算平台 大模型训推一体化基础设施，十万卡大规模集群](https://cloud.baidu.com/product/aihc.html)
 *   #### [百度百舸一体机 搭载百舸异构计算平台，提供高效的异构资源管理](https://cloud.baidu.com/product/aihc-private.html)
+
+### 模型开发
+
+*   #### [Token Plan 面向个人开发者与AI重度用户推出的大模型订阅服务](https://cloud.baidu.com/product/qianfan_home/token_plan_personal.html)
 *   #### [千帆一体机 搭载千帆大模型工具链平台，内置文心与精选开源大模型](https://cloud.baidu.com/product/ape.html)
 *   #### [向量数据库 VectorDB 纯自研高性能、高性价比、生态丰富且即开即用](https://cloud.baidu.com/product/vdb.html)
-
-### AI云原生与一体机
-
 *   #### [AI安全护栏 多模态大模型的安全围栏，助力企业内容合规](https://cloud.baidu.com/product/AIGCSEC/platform.html)
-*   #### [MapReduce计算集群服务 供全托管的Hadoop/Spark计算集群服务，安全可靠](https://cloud.baidu.com/product/bmr.html)
+
+### 智能体
+
+*   #### [百度搭子·企业版 增强团队战力，沉淀组织资产，越用越强的企业 AI 团队](https://cloud.baidu.com/product/dumate.html)
+*   #### [Hogee数字员工 一键启用全链路营销Agent，助力高价值决策与业务创新](https://cloud.baidu.com/product/hogee.html)
+*   #### [秒哒 无代码应用搭建平台](https://www.miaoda.cn/)
+*   #### [百度一见 云边协同、自主进化的视觉智能体平台](https://cloud.baidu.com/product-s/yijian_home)
+
+### 智能体
+
+*   #### [伐谋 全球领先的可商用自我演化超级智能体](https://cloud.baidu.com/product/famou.html)
+*   #### [百度胜算·数据智能平台 基于业务本体驱动的数据智能平台，让Agent真正懂业务并落地企业核心场景](https://cloud.baidu.com/product/databuilder)
+*   #### [百度智能云灵医 医疗AI大模型，构建覆盖全场景的医疗AI生态](https://cloud.baidu.com/product/ly-open-platform.html)
+*   #### [百战·数智营销 赋能合作伙伴打造客户全生命周期营销闭环](https://cloud.baidu.com/product/baizhan.html)
 
 [百度智能云全部产品](https://cloud.baidu.com/products/index.html)
 
@@ -413,4 +385,54 @@ Markdown Content:
 
 ### [市场活动](https://cloud.baidu.com/news/list.html?type=campaign)
 
-*   ##
+*   #### [2026智能经济论坛 向上｜向善｜向未来](https://cloud.baidu.com/summit/intelligent_economy_2026/index.html)
+*   #### [超级智能体大会 Agent向前 产业向新](https://cloud.baidu.com/summit/super-agent-summit)
+
+### 最佳实践
+
+*   #### [智能中国 | 数字化转型进行时 联合央视聚焦企业数字化转型](https://cloud.baidu.com/summit/intelligence_china_2022/index.html?from=0820)
+*   #### [智能中国 | 标杆案例 云智一体赋能千行百业](https://cloud.baidu.com/case/index.html)
+
+### 行业解读
+
+*   #### [行业白皮书 权威、全面的行业报告解读](https://cloud.baidu.com/handbook/whitebook.html)
+*   #### [分析师报告 权威机构云市场趋势解读](https://cloud.baidu.com/solution/analyst-reports.html)
+
+### 新闻动态
+
+*   #### [最新资讯 百度智能云业内最新动态](https://cloud.baidu.com/news/news)
+*   #### [公告通知 最新公告通知及时了解](https://cloud.baidu.com/news/notice)
+
+#### [热门AI能力 提供一站式、开箱即用的AI服务 查看详情](https://cloud.baidu.com/experience/experience-square)
+
+[文档中心](https://cloud.baidu.com/doc/index.html)
+
+[百度千帆Token Plan个人版正式上线，首购5折秒杀](https://cloud.baidu.com/product/qianfan_home/token-plan-activity.html)
+
+搜索本产品文档关键词
+
+[立即试用](https://cloud.baidu.com/)
+
+计费说明
+
+## 百度搭子
+
+*   了解百度搭子
+    *   [什么是百度搭子个人版](https://cloud.baidu.com/doc/Dumate/s/xmmu7qrvo)
+    *   [什么是百度搭子企业版](https://cloud.baidu.com/doc/Dumate/s/1mqhh87s3)
+    *   [个人版vs企业版](https://cloud.baidu.com/doc/Dumate/s/smqi07a9i)
+    *   [什么是百度搭子生态开放平台](https://cloud.baidu.com/doc/Dumate/s/fmtv6kp0x)
+
+*   更新动态
+    *   [个人版更新动态](https://cloud.baidu.com/doc/Dumate/s/cmmu7shvw)
+    *   [企业版更新动态](https://cloud.baidu.com/doc/Dumate/s/amqz7imhf)
+
+*   快速开始
+    *   个人版
+        *   [快速开始](https://cloud.baidu.com/doc/Dumate/s/xmmyddwfy)
+
+    *   企业版
+        *   [首次购买](https://cloud.baidu.com/doc/Dumate/s/7mqoo1w4c)
+        *   [快速开始](https://cloud.baidu.com/doc/Dumate/s/hmqj7xxje)
+
+*   个人版使用指

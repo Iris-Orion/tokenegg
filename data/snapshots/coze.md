@@ -1,4 +1,4 @@
-<!-- https://docs.coze.cn/coze_pro_credits fetched 2026-10-14T20:10:17.916Z -->
+<!-- https://docs.coze.cn/coze_pro_credits fetched 2026-10-15T19:51:24.545Z -->
 Title: 积分
 
 URL Source: https://docs.coze.cn/coze_pro_credits
@@ -37,6 +37,8 @@ Feedback
 计费项
 
 [开具发票](https://docs.coze.cn/coze_pro_Issue_invoice)
+
+[申请退款](https://docs.coze.cn/coze_pro_refund)
 
 [账单与用量](https://docs.coze.cn/coze_pro_bills_and_usage)
 
@@ -102,7 +104,7 @@ Copy Page
 说明
 
 *   支持叠加购买，单独计算有效期。
-*   个人版、团队版的增购积分不支持退款。
+*   个人版、团队版符合退款条件的增购积分订单支持按剩余价值退款。退款后，该订单对应的剩余积分会被回收。具体操作请参考[申请退款](https://docs.coze.cn/coze_pro_refund)。
 *   企业版的增购积分符合退订规则时，支持退订、退款。更多信息，请参考[退订规则](https://docs.coze.cn/coze_pro/enterprise_plan#hEdE8M8xT)。
 
 除个人进阶版以外的付费套餐可以通过购买方式获取积分。
@@ -116,6 +118,14 @@ Copy Page
 1.   在扣子 App 的右下角，单击**更多**。
 2.   在**账户信息**页，单击**积分**。
 3.   选择积分规格，并完成支付。
+
+## 增购积分退款
+
+如果不再需要已购买的增购积分，你可以找到对应购买订单，查看可退金额并申请退款。仅退还未过期且未使用积分对应的剩余价值，已使用或已过期的积分不在可退范围内。订单没有可退剩余价值时，不能退款；退款成功后，该订单对应的剩余积分会被回收。
+
+增购积分退款针对购买订单办理，不是将账号内所有积分兑换为现金。注册赠送、活动领取或补偿获得的积分，不作为增购积分订单办理退款。
+
+退款金额 = 该订单剩余积分 ÷ 该订单总积分 × 订单金额。退款金额保留到分，分以下直接截断，不四舍五入。例如，89.99999 元按 89.99 元退款。
 
 ## 积分预警
 
@@ -256,6 +266,8 @@ Helpful Not helpful
 [抵扣顺序](https://docs.coze.cn/coze_pro_credits#e808404a "抵扣顺序")
 
 [购买积分](https://docs.coze.cn/coze_pro_credits#0a917c32 "购买积分")
+
+[增购积分退款](https://docs.coze.cn/coze_pro_credits#refund "增购积分退款")
 
 [积分预警](https://docs.coze.cn/coze_pro_credits#47f0f711 "积分预警")
 

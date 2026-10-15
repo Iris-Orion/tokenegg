@@ -1,9 +1,7 @@
-<!-- https://help.aliyun.com/zh/qwenwork/qw-personal-benefits fetched 2026-10-14T20:09:51.199Z -->
+<!-- https://help.aliyun.com/zh/qwenwork/qw-personal-benefits fetched 2026-10-15T19:50:59.535Z -->
 Title: 个人版权益
 
 URL Source: https://help.aliyun.com/zh/qwenwork/qw-personal-benefits
-
-Published Time: Wed, 14 Oct 2026 20:07:17 GMT
 
 Markdown Content:
 [](https://www.aliyun.com/)
@@ -444,7 +442,6 @@ JVS智能体套件
 *   [物联网边缘计算（文档停止维护）](https://help.aliyun.com/zh/iot-edge/)
 
 行业物联网
-*   [云投屏（文档停止维护）](https://help.aliyun.com/zh/cloud-display/)
 *   [生活物联网平台（飞燕平台）](https://help.aliyun.com/zh/product/123207.html)
 *   [云价签 （文档停止维护）](https://help.aliyun.com/zh/cloudesl/)
 *   [工业互联网平台（文档停止维护）](https://help.aliyun.com/zh/iiot/)
@@ -535,4 +532,8 @@ Serverless
 
 [阿里云电子政务云](https://help.aliyun.com/zh/govcloud/)
 
-[MindSphere on Alibaba Cloud](http
+[MindSphere on Alibaba Cloud](https://help.aliyun.com/zh/mdsp/)
+
+[SAP 解决方案](https://help.aliyun.com/zh/sap-solution/)
+
+[金融云](https://help.aliy
