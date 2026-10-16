@@ -1,4 +1,4 @@
-<!-- https://cloud.baidu.com/doc/Dumate/s/nmnevrk0l fetched 2026-10-15T19:52:10.551Z -->
+<!-- https://cloud.baidu.com/doc/Dumate/s/nmnevrk0l fetched 2026-10-16T19:32:54.324Z -->
 Title: 计费说明 - DuMate
 
 URL Source: https://cloud.baidu.com/doc/Dumate/s/nmnevrk0l
@@ -179,7 +179,6 @@ Markdown Content:
 *   #### [云服务器 BCC 安全稳定，提供高弹性的云计算服务](https://cloud.baidu.com/product/bcc.html)
 *   #### [百度网盘企业版 数亿用户验证的企业数字资产管理平台，集智能管理、多人协作、大文件极速传输于一体](https://cloud.baidu.com/product/bnd-e.html)
 *   #### [GPU云服务器 配备GPU的云端服务器，计算密集型应用专享](https://cloud.baidu.com/product/gpu.html)
-*   #### [DuClaw 一键部署DuClaw，零门槛部署7x24小时个人超级助手](https://cloud.baidu.com/product/du.html)
 *   #### [轻量应用服务器 提供官网搭建、web应用搭建、云上学习和测试等场景的服务](https://cloud.baidu.com/product/lightserver.html)
 *   #### [对象存储BOS 稳定、安全、高效、高可拓展的云存储服务](https://cloud.baidu.com/product/bos.html)
 *   #### [弹性公网IP 为用户访问公网提供IP地址和公网带宽，增加用户使用弹性](https://cloud.baidu.com/product/eip.html)
@@ -194,7 +193,6 @@ Markdown Content:
 *   #### [智能文档分析平台 文心大模型驱动，一站式文档处理](https://cloud.baidu.com/product/textmind.html)
 *   #### [文字识别 覆盖多种场景、多种语言的高精度整图文字检测和识别服务](https://cloud.baidu.com/product/ocr.html)
 *   #### [图像增强 去雾增强放大，重建高清无损图像](https://cloud.baidu.com/product/image-enhancement.html)
-*   #### [大模型声音复刻 基于大模型zero-shot技术，随时随地录制数秒音频](https://cloud.baidu.com/product/speech/voicecloning)
 
 ### 模型与应用 一站式企业级大模型服务
 
@@ -205,7 +203,6 @@ Markdown Content:
 *   #### [Hogee数字员工平台 企业一站式AI营销应用](https://cloud.baidu.com/product/hogee.html)
 *   #### [百度一见视觉智能体平台 云边协同、自主进化的视觉智能体平台](https://cloud.baidu.com/product-s/yijian_home)
 *   #### [秒哒公有云 无代码应用搭建平台](https://www.miaoda.cn/)
-*   #### [RedClaw 万能AI助手，让想法直接发生](https://operator.gc.com.cn/)
 
 [全部解决方案](https://cloud.baidu.com/solution/solution_home/overview)
 
@@ -435,4 +432,9 @@ Markdown Content:
         *   [首次购买](https://cloud.baidu.com/doc/Dumate/s/7mqoo1w4c)
         *   [快速开始](https://cloud.baidu.com/doc/Dumate/s/hmqj7xxje)
 
-*   个人版使用指
+*   个人版使用指南
+    *   [新建任务](https://cloud.baidu.com/doc/Dumate/s/nmmydeqff)
+    *   [技能管理](https://cloud.baidu.com/doc/Dumate/s/5mmydgic3)
+    *   [定时任务](https://cloud.baidu.com/doc/Dumate/s/Tmmydfqsp)
+    *   渠道接入
+        *   [DuMate接入飞书指南](https://cloud.baidu.
