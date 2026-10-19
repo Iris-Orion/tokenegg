@@ -1,4 +1,4 @@
-<!-- https://agent.minimaxi.com/docs/code/account/usage fetched 2026-10-18T18:35:52.848Z -->
+<!-- https://agent.minimaxi.com/docs/code/account/usage fetched 2026-10-19T21:01:06.968Z -->
 Title: M Plan 与积分 - MiniMax Agent 文档
 
 URL Source: https://agent.minimaxi.com/docs/code/account/usage
@@ -30,7 +30,7 @@ Ctrl K
 
 M Plan 与积分
 
-[MiniMax Code](https://agent.minimaxi.com/docs/code/welcome)[CLI](https://agent.minimaxi.com/docs/cli/quick-start)[更新日志](https://agent.minimaxi.com/docs/changelog)[技术博客](https://agent.minimaxi.com/docs/techblog)
+[MiniMax Code](https://agent.minimaxi.com/docs/code/welcome)[CLI](https://agent.minimaxi.com/docs/cli/quick-start)[Mini App 开发](https://agent.minimaxi.com/docs/miniapp/overview)[更新日志](https://agent.minimaxi.com/docs/changelog)[技术博客](https://agent.minimaxi.com/docs/techblog)
 
 ### 开始使用
 
@@ -62,8 +62,7 @@ M Plan 与积分
 
 *   [Agent Team](https://agent.minimaxi.com/docs/code/agents/team)
 *   [自定义 Agent](https://agent.minimaxi.com/docs/code/agents/custom-agents)
-*   [自定义 Mini App](https://agent.minimaxi.com/docs/code/agents/mini-apps)
-*   [MiniApp 介绍](https://agent.minimaxi.com/docs/code/agents/miniapp-overview)
+*   [Mini App](https://agent.minimaxi.com/docs/code/agents/mini-apps)
 *   [H3 Max 视频生成](https://agent.minimaxi.com/docs/code/agents/h3-max)
 *   [插件市场](https://agent.minimaxi.com/docs/code/agents/plugins)
 *   [插件上架](https://agent.minimaxi.com/docs/code/agents/plugin-submission)

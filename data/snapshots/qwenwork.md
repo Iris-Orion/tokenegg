@@ -1,4 +1,4 @@
-<!-- https://help.aliyun.com/zh/qwenwork/qw-personal-benefits fetched 2026-10-18T18:35:04.364Z -->
+<!-- https://help.aliyun.com/zh/qwenwork/qw-personal-benefits fetched 2026-10-19T21:00:16.485Z -->
 Title: 个人版权益
 
 URL Source: https://help.aliyun.com/zh/qwenwork/qw-personal-benefits
@@ -212,7 +212,7 @@ CDN
 
 AI 安全
 *   [智能体安全中心](https://help.aliyun.com/zh/asc/)
-*   [AI 数智鉴密](https://help.aliyun.com/zh/ai-deepsign/)
+*   [AI 数据标识](https://help.aliyun.com/zh/ai-deepsign/)
 
 身份与数据安全
 *   [应用身份服务 (IDaaS)](https://help.aliyun.com/zh/idaas/)

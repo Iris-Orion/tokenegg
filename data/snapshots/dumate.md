@@ -1,10 +1,10 @@
-<!-- https://cloud.baidu.com/doc/Dumate/s/nmnevrk0l fetched 2026-10-18T18:36:19.020Z -->
+<!-- https://cloud.baidu.com/doc/Dumate/s/nmnevrk0l fetched 2026-10-19T21:01:33.682Z -->
 Title: 计费说明 - DuMate
 
 URL Source: https://cloud.baidu.com/doc/Dumate/s/nmnevrk0l
 
 Markdown Content:
-[](https://console.bce.baidu.com/qianfan/resource/token-plan?from=top-banner)
+[](https://cloud.baidu.com/campaign/event/bigevent/index.html?track=f9c8bf124e57f10958a3d43b1d20c69edd4b207bd151da30)
 
 [](https://cloud.baidu.com/)
 
@@ -47,11 +47,11 @@ Markdown Content:
 
 [查看全部活动](https://cloud.baidu.com/campaign/PromotionActivity/index.html?track=navigationB)
 
-### [企业实名认证专属权益 云服务器59元/年起，领万元券包 查看详情](https://cloud.baidu.com/campaign/event/enterprise/index.html?track=9579c39d8dccc16cd913551579854f61cc67163293a4953c)
+### [智聚11.11 年终钜惠狂欢 充值最高送23588代金券 查看详情](https://cloud.baidu.com/campaign/event/bigevent/index.html?track=f9c8bf124e57f10958a3d43b1d20c69edd4b207bd151da30)
 
 ### 精选活动
 
-#### [云服务器品类特惠 云服务器2核2G低至59元/年](https://cloud.baidu.com/campaign/renew/index.html?track=9f64acdb7da402559de4fc57c5621b88bd70f64f1ac6f9a8)#### [免费试用体验馆 注册并完成实名认证，立即体验热门产品](https://cloud.baidu.com/campaign/event/free/index.html?track=e84ebfbb98903592f04636037b86f1f81cf768003ccd85cb)#### [人工智能热销榜 新购1元，AI能力引擎量包低至75折](https://cloud.baidu.com/campaign/event/ai/index.html?track=f9c8bf124e57f10958a3d43b1d20c69e74cf51f159ab649a)#### [大模型增值服务上新 工信部教考中心大模型证书6折](https://cloud.baidu.com/campaign/event/qianfan/index.html?track=f9c8bf124e57f10958a3d43b1d20c69ec0996058a5194b52)
+#### [云服务器品类特惠 云服务器2核4G低至39元/年](https://cloud.baidu.com/campaign/renew/index.html?track=9f64acdb7da402559de4fc57c5621b88bd70f64f1ac6f9a8)#### [免费试用体验馆 注册并完成实名认证，立即体验热门产品](https://cloud.baidu.com/campaign/event/free/index.html?track=e84ebfbb98903592f04636037b86f1f81cf768003ccd85cb)#### [人工智能热销榜 新购1元，AI能力引擎量包低至75折](https://cloud.baidu.com/campaign/event/ai/index.html?track=f9c8bf124e57f10958a3d43b1d20c69e74cf51f159ab649a)#### [大模型增值服务上新 工信部教考中心大模型证书6折](https://cloud.baidu.com/campaign/event/qianfan/index.html?track=f9c8bf124e57f10958a3d43b1d20c69ec0996058a5194b52)
 
 ### 新手专享
 
@@ -59,7 +59,7 @@ Markdown Content:
 
 ### 企服推荐
 
-#### [域名注册服务 .COM域名注册29元起](https://cloud.baidu.com/campaign/event/company/index.html?track=f9c8bf124e57f10958a3d43b1d20c69e2b8e4a455f9f28ea)#### [智能商标注册 首购275元，多买多省](https://cloud.baidu.com/campaign/event/company/index.html?track=f9c8bf124e57f10958a3d43b1d20c69e0ebd5d06e60cd765)#### [建站特惠 企业首购SSL证书5折](https://cloud.baidu.com/campaign/experience/index.html?track=650dc16a4d036e7558ae0fe24397b88c44eebf5582e905fd#company-app)#### [国内短信套餐包 企业首购限时0.99元起](https://cloud.baidu.com/campaign/experience/index.html?track=c887be73fdf2088df01cc2b98fe327849fa10a516e16c18b#company-app)
+#### [域名注册服务 .com域名注册26元起](https://cloud.baidu.com/campaign/event/company/index.html?track=f9c8bf124e57f10958a3d43b1d20c69e2b8e4a455f9f28ea)#### [智能商标注册 首购275元，多买多省](https://cloud.baidu.com/campaign/event/company/index.html?track=f9c8bf124e57f10958a3d43b1d20c69e0ebd5d06e60cd765)#### [建站特惠 企业首购SSL证书5折](https://cloud.baidu.com/campaign/experience/index.html?track=650dc16a4d036e7558ae0fe24397b88c44eebf5582e905fd#company-app)#### [国内短信套餐包 企业首购限时0.99元起](https://cloud.baidu.com/campaign/experience/index.html?track=c887be73fdf2088df01cc2b98fe327849fa10a516e16c18b#company-app)
 
 [进入千帆大模型平台](https://qianfan.cloud.baidu.com/)
 
@@ -437,4 +437,4 @@ Markdown Content:
     *   [技能管理](https://cloud.baidu.com/doc/Dumate/s/5mmydgic3)
     *   [定时任务](https://cloud.baidu.com/doc/Dumate/s/Tmmydfqsp)
     *   渠道接入
-        *   [DuMate接入飞书指南](https://cloud.baidu.
+        
