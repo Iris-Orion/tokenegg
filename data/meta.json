@@ -1,6 +1,20 @@
 {
   "history": [
     {
+      "at": "2026-10-20T19:58:03.434Z",
+      "atBeijing": "2026-10-21 03:58:03",
+      "status": "ok",
+      "ok": 6,
+      "noNumber": 7,
+      "failed": 0,
+      "changes": [
+        {
+          "kind": "snippet",
+          "message": "JoyCode：官方页面额度说明有变化"
+        }
+      ]
+    },
+    {
       "at": "2026-10-19T21:00:02.455Z",
       "atBeijing": "2026-10-20 05:00:02",
       "status": "ok",
@@ -680,9 +694,9 @@
       "changes": []
     }
   ],
-  "lastSyncAt": "2026-10-19T21:00:02.455Z",
-  "lastSyncAtBeijing": "2026-10-20 05:02:09",
-  "lastSuccessAt": "2026-10-19T21:00:02.455Z",
+  "lastSyncAt": "2026-10-20T19:58:03.434Z",
+  "lastSyncAtBeijing": "2026-10-21 04:00:17",
+  "lastSuccessAt": "2026-10-20T19:58:03.434Z",
   "status": "ok",
   "counts": {
     "ok": 6,

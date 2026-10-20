@@ -1,4 +1,4 @@
-<!-- https://cloud.baidu.com/doc/Dumate/s/nmnevrk0l fetched 2026-10-19T21:01:33.682Z -->
+<!-- https://cloud.baidu.com/doc/Dumate/s/nmnevrk0l fetched 2026-10-20T19:59:28.042Z -->
 Title: 计费说明 - DuMate
 
 URL Source: https://cloud.baidu.com/doc/Dumate/s/nmnevrk0l
@@ -27,9 +27,9 @@ Markdown Content:
 
 ### 热门产品
 
+*   [智聚11.11](https://cloud.baidu.com/campaign/event/bigevent/index.html?track=f9c8bf124e57f10958a3d43b1d20c69edd4b207bd151da30)
 *   [Dumate](https://cloud.baidu.com/product/dumate.html)
 *   [云服务器BCC](https://cloud.baidu.com/product/bcc.html)
-*   [Duclaw](https://cloud.baidu.com/product/du.html)
 *   [千帆大模型平台](https://cloud.baidu.com/product-s/qianfan_home)
 
 ### 解决方案
@@ -435,6 +435,4 @@ Markdown Content:
 *   个人版使用指南
     *   [新建任务](https://cloud.baidu.com/doc/Dumate/s/nmmydeqff)
     *   [技能管理](https://cloud.baidu.com/doc/Dumate/s/5mmydgic3)
-    *   [定时任务](https://cloud.baidu.com/doc/Dumate/s/Tmmydfqsp)
-    *   渠道接入
-        
+    *   [
