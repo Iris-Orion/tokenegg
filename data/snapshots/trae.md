@@ -1,4 +1,4 @@
-<!-- https://docs.trae.cn/ide_plans-and-billing fetched 2026-10-20T19:58:18.041Z -->
+<!-- https://docs.trae.cn/ide_plans-and-billing fetched 2026-10-21T20:04:59.178Z -->
 Title: 套餐与计费
 
 URL Source: https://docs.trae.cn/ide_plans-and-billing
@@ -29,6 +29,8 @@ TRAE IDE 里最热门的 Skill 是哪些？
 [TRAE 概览](https://docs.trae.cn/ide_trae-overview)
 
 [重磅更新：TraeCode 与 TraeWork 已融合为全新的 TRAE](https://docs.trae.cn/ide_traework-to-traecode-data-migration)
+
+[1024 大赏：TRAE 开发者最爱用的 10 个 MCP Server](https://docs.trae.cn/ide_top-10-mcp-servers-frequently-used-by-developers)
 
 入门
 
@@ -232,4 +234,10 @@ TRAE 提供多档付费会员套餐。各档套餐的价格和权益如下，你
 [原 “优速通 Express” 用户如何处理？](https://docs.trae.cn/ide_plans-and-billing#hV6chwSJ5 "原 “优速通 Express” 用户如何处理？")
 
 [如何签到领积分？](https://docs.trae.cn/ide_plans-and-billing#hxcRQybwg "如何签到领积分？")
+
+X
+
+100%
+
+![Image 3](https://docs.trae.cn/ide_plans-and-billing)
 
