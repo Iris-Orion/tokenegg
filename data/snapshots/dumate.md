@@ -1,4 +1,4 @@
-<!-- https://cloud.baidu.com/doc/Dumate/s/nmnevrk0l fetched 2026-10-21T20:06:32.023Z -->
+<!-- https://cloud.baidu.com/doc/Dumate/s/nmnevrk0l fetched 2026-10-22T20:01:45.508Z -->
 Title: 计费说明 - DuMate
 
 URL Source: https://cloud.baidu.com/doc/Dumate/s/nmnevrk0l
@@ -102,7 +102,7 @@ Markdown Content:
 
 ### 其他大模型
 
-*   #### [Deepseek-V4-Pro 文本生成模型，百万字超长上下文，擅长 Agent 与代码推理](https://console.bce.baidu.com/qianfan/modelcenter/model/buildIn/detail/am-ef6aeca66ed0#DeepSeek-V4-Pro)
+*   #### [DeepSeek-V4.1-Flash 文本生成模型，能力上限更高、推理速度更快、吞吐更大、可扩展到更大参数模型](https://console.bce.baidu.com/qianfan/modelcenter/model/buildIn/detail/am-434c0b2d30e2)
 *   #### [GLM-5.3 文本生成模型，以极致后训练 Scaling 实现能力跃迁：编程体验较前代提升 50%，网络安全能力持平 Mythos 5](https://console.bce.baidu.com/qianfan/modelcenter/model/buildIn/detail/am-7adf73564090)
 *   #### [kimi-k2.6 文本生成模型，同时支持文本、图片与视频输入，思考与非思考模式，对话与 Agent 任务](https://console.bce.baidu.com/qianfan/modelcenter/model/buildIn/detail/am-6393ee6bc231)
 *   #### [Qwen3.5-397B-A17B 原生视觉语言模型，具备强大的代码生成与智能体能力，对于各类智能体场景具有良好的泛化性](https://console.bce.baidu.com/qianfan/modelcenter/model/buildIn/detail/am-bd7dce4f3901)
@@ -435,4 +435,4 @@ Markdown Content:
 *   个人版使用指南
     *   [新建任务](https://cloud.baidu.com/doc/Dumate/s/nmmydeqff)
     *   [技能管理](https://cloud.baidu.com/doc/Dumate/s/5mmydgic3)
-    *   [
+    *   [定时任务](

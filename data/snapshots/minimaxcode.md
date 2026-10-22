@@ -1,4 +1,4 @@
-<!-- https://agent.minimaxi.com/docs/code/account/usage fetched 2026-10-21T20:06:06.871Z -->
+<!-- https://agent.minimaxi.com/docs/code/account/usage fetched 2026-10-22T20:00:47.795Z -->
 Title: M Plan 与积分 - MiniMax Agent 文档
 
 URL Source: https://agent.minimaxi.com/docs/code/account/usage
@@ -30,7 +30,7 @@ Ctrl K
 
 M Plan 与积分
 
-[MiniMax Code](https://agent.minimaxi.com/docs/code/welcome)[CLI](https://agent.minimaxi.com/docs/cli/quick-start)[Mini App 开发](https://agent.minimaxi.com/docs/miniapp/overview)[更新日志](https://agent.minimaxi.com/docs/changelog)[技术博客](https://agent.minimaxi.com/docs/techblog)
+[MiniMax Code](https://agent.minimaxi.com/docs/code/welcome)[CLI](https://agent.minimaxi.com/docs/cli/quick-start)[Mini App 开发](https://agent.minimaxi.com/docs/miniapp/overview)[更新日志](https://agent.minimaxi.com/docs/changelog)[研究](https://agent.minimaxi.com/docs/techblog)
 
 ### 开始使用
 
