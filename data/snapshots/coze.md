@@ -1,4 +1,4 @@
-<!-- https://docs.coze.cn/coze_pro_credits fetched 2026-10-22T20:00:31.242Z -->
+<!-- https://docs.coze.cn/coze_pro_credits fetched 2026-10-23T19:56:17.530Z -->
 Title: 积分
 
 URL Source: https://docs.coze.cn/coze_pro_credits

@@ -1,4 +1,4 @@
-<!-- https://cloud.baidu.com/doc/Dumate/s/nmnevrk0l fetched 2026-10-22T20:01:45.508Z -->
+<!-- https://cloud.baidu.com/doc/Dumate/s/nmnevrk0l fetched 2026-10-23T19:57:08.507Z -->
 Title: 计费说明 - DuMate
 
 URL Source: https://cloud.baidu.com/doc/Dumate/s/nmnevrk0l
@@ -404,7 +404,7 @@ Markdown Content:
 
 [文档中心](https://cloud.baidu.com/doc/index.html)
 
-[百度千帆Token Plan个人版正式上线，首购5折秒杀](https://cloud.baidu.com/product/qianfan_home/token-plan-activity.html)
+[Token Plan个人版邀新有礼，首购5折秒杀](https://cloud.baidu.com/product-s/qianfan_home/qianfan_invite)
 
 搜索本产品文档关键词
 
@@ -435,4 +435,4 @@ Markdown Content:
 *   个人版使用指南
     *   [新建任务](https://cloud.baidu.com/doc/Dumate/s/nmmydeqff)
     *   [技能管理](https://cloud.baidu.com/doc/Dumate/s/5mmydgic3)
-    *   [定时任务](
+    *   [定时任务](https://clou
