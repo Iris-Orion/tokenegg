@@ -1,4 +1,4 @@
-<!-- https://agent.minimaxi.com/docs/code/account/usage fetched 2026-10-24T18:45:36.145Z -->
+<!-- https://agent.minimaxi.com/docs/code/account/usage fetched 2026-10-25T18:57:38.909Z -->
 Title: M Plan 与积分 - MiniMax Agent 文档
 
 URL Source: https://agent.minimaxi.com/docs/code/account/usage
@@ -89,6 +89,7 @@ M Plan 与积分
 
 ## 在此页面
 
+Back to top
 *   [订阅套餐](https://agent.minimaxi.com/docs/code/account/usage#%E8%AE%A2%E9%98%85%E5%A5%97%E9%A4%90)
 *   [每日签到](https://agent.minimaxi.com/docs/code/account/usage#%E6%AF%8F%E6%97%A5%E7%AD%BE%E5%88%B0)
 *   [可以查看什么](https://agent.minimaxi.com/docs/code/account/usage#%E5%8F%AF%E4%BB%A5%E6%9F%A5%E7%9C%8B%E4%BB%80%E4%B9%88)

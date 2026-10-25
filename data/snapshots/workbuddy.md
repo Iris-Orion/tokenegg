@@ -1,9 +1,9 @@
-<!-- https://www.workbuddy.cn/pricing/ fetched 2026-10-24T18:45:47.351Z -->
+<!-- https://www.workbuddy.cn/pricing/ fetched 2026-10-25T18:57:50.853Z -->
 Title: WorkBuddy 定价 - AI Agent 办公新范式
 
 URL Source: https://www.workbuddy.cn/pricing/
 
-Published Time: Thu, 22 Oct 2026 04:10:12 GMT
+Published Time: Thu, 22 Oct 2026 04:14:04 GMT
 
 Markdown Content:
 [![Image 1: WorkBuddy](https://assets.workbuddy.cn/web/workbuddy/a5b2fb510f0e7b156f19d072fae0cd12ae1f2f19/assets/workbuddy-logo-WhgOvEF7.png)](https://www.workbuddy.cn/)
