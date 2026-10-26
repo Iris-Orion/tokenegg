@@ -1,9 +1,7 @@
-<!-- https://help.aliyun.com/zh/qwenwork/qw-personal-benefits fetched 2026-10-25T18:56:56.521Z -->
+<!-- https://help.aliyun.com/zh/qwenwork/qw-personal-benefits fetched 2026-10-26T20:59:16.218Z -->
 Title: 个人版权益
 
 URL Source: https://help.aliyun.com/zh/qwenwork/qw-personal-benefits
-
-Published Time: Sun, 25 Oct 2026 18:55:35 GMT
 
 Markdown Content:
 [](https://www.aliyun.com/)
@@ -59,7 +57,7 @@ Markdown Content:
 
 AI应用
 *   [数知地球 AI Earth](https://help.aliyun.com/zh/product/127787.html)
-*   [虚拟数字人](https://help.aliyun.com/zh/avatar/)
+*   [虚拟数字人（文档停止维护）](https://help.aliyun.com/zh/avatar/)
 *   [工作学习 AI 助手通义听悟](https://help.aliyun.com/zh/tingwu/)
 *   [角色对话智能体通义星尘](https://help.aliyun.com/zh/product/2861601.html)
 *   [企业 Agent 应用平台](https://help.aliyun.com/zh/product/2987146.html)
@@ -122,7 +120,6 @@ AI 计算
 
 高性能计算
 *   [弹性高性能计算](https://help.aliyun.com/zh/e-hpc/)
-*   [批量计算（文档停止维护）](https://help.aliyun.com/zh/batchcompute/)
 
 Serverless 计算
 *   [函数计算](https://help.aliyun.com/zh/functioncompute/)
@@ -457,7 +454,6 @@ API 与工具
 *   [阿里云CLI](https://help.aliyun.com/zh/cli/)
 *   [资源编排](https://help.aliyun.com/zh/ros/)
 *   [云控制API](https://help.aliyun.com/zh/cloud-control-api/)
-*   [Node.js 性能平台](https://help.aliyun.com/zh/nodejs/)
 *   [Terraform](https://help.aliyun.com/zh/terraform/)
 *   [Pulumi](https://help.aliyun.com/zh/pulumi/)
 *   [Ansible](https://help.aliyun.com/zh/ansible/)
@@ -536,4 +532,10 @@ Serverless
 
 [MindSphere on Alibaba Cloud](https://help.aliyun.com/zh/mdsp/)
 
-[SAP 解决方案](https://help.aliyun
+[SAP 解决方案](https://help.aliyun.com/zh/sap-solution/)
+
+[金融云](https://help.aliyun.com/zh/product/29849.html)
+
+[阿里云集成转售解决方案](https://help.aliyun.com/zh/product/90850.html)
+
+[数据湖 OpenLake](

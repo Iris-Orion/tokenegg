@@ -1,5 +1,5 @@
-<!-- https://agent.minimaxi.com/docs/code/account/usage fetched 2026-10-25T18:57:38.909Z -->
-Title: M Plan 与积分 - MiniMax Agent 文档
+<!-- https://agent.minimaxi.com/docs/code/account/usage fetched 2026-10-26T20:59:57.106Z -->
+Title: M Plan 与积分 - MiniMax Code 文档
 
 URL Source: https://agent.minimaxi.com/docs/code/account/usage
 
@@ -14,7 +14,7 @@ Markdown Content:
 
 [跳转到主要内容](https://agent.minimaxi.com/docs/code/account/usage#content-area)
 
-[MiniMax Agent 文档 home page![Image 1: light logo](https://mintcdn.com/agent-cn/HmIRif1h5-2beWGj/logo/light.svg?fit=max&auto=format&n=HmIRif1h5-2beWGj&q=85&s=a9bc9e5772d3e59e044fc76d9de082ae)![Image 2: dark logo](https://mintcdn.com/agent-cn/HmIRif1h5-2beWGj/logo/dark.svg?fit=max&auto=format&n=HmIRif1h5-2beWGj&q=85&s=e7ef2b339d0b0768b5a8fa82de7b7bf5)](https://agent.minimaxi.com/)
+[MiniMax Code 文档 home page![Image 1: light logo](https://mintcdn.com/agent-cn/HmIRif1h5-2beWGj/logo/light.svg?fit=max&auto=format&n=HmIRif1h5-2beWGj&q=85&s=a9bc9e5772d3e59e044fc76d9de082ae)![Image 2: dark logo](https://mintcdn.com/agent-cn/HmIRif1h5-2beWGj/logo/dark.svg?fit=max&auto=format&n=HmIRif1h5-2beWGj&q=85&s=e7ef2b339d0b0768b5a8fa82de7b7bf5)](https://agent.minimaxi.com/)
 
 搜索...
 

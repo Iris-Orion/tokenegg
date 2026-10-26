@@ -1,6 +1,15 @@
 {
   "history": [
     {
+      "at": "2026-10-26T20:59:06.931Z",
+      "atBeijing": "2026-10-27 04:59:06",
+      "status": "ok",
+      "ok": 6,
+      "noNumber": 7,
+      "failed": 0,
+      "changes": []
+    },
+    {
       "at": "2026-10-25T18:56:47.390Z",
       "atBeijing": "2026-10-26 02:56:47",
       "status": "ok",
@@ -728,20 +737,11 @@
           "message": "AutoClaw（澳龙）：官方页面抓取失败（HTTP 422）"
         }
       ]
-    },
-    {
-      "at": "2026-09-07T15:48:15.072Z",
-      "atBeijing": "2026-09-07 23:48:15",
-      "status": "ok",
-      "ok": 8,
-      "noNumber": 5,
-      "failed": 0,
-      "changes": []
     }
   ],
-  "lastSyncAt": "2026-10-25T18:56:47.390Z",
-  "lastSyncAtBeijing": "2026-10-26 02:58:52",
-  "lastSuccessAt": "2026-10-25T18:56:47.390Z",
+  "lastSyncAt": "2026-10-26T20:59:06.931Z",
+  "lastSyncAtBeijing": "2026-10-27 05:01:53",
+  "lastSuccessAt": "2026-10-26T20:59:06.931Z",
   "status": "ok",
   "counts": {
     "ok": 6,
