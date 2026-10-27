@@ -1,4 +1,4 @@
-<!-- https://cloud.baidu.com/doc/Dumate/s/nmnevrk0l fetched 2026-10-26T21:00:22.834Z -->
+<!-- https://cloud.baidu.com/doc/Dumate/s/nmnevrk0l fetched 2026-10-27T20:39:03.221Z -->
 Title: 计费说明 - DuMate
 
 URL Source: https://cloud.baidu.com/doc/Dumate/s/nmnevrk0l
@@ -254,10 +254,10 @@ Markdown Content:
 ### [文档](https://cloud.baidu.com/doc/index.html)
 
 *   #### [百度千帆·大模型服务及Agent开发平台](https://cloud.baidu.com/doc/qianfan/s/rmh8khvwu)
+*   #### [百度搭子DuMate·企业版](https://cloud.baidu.com/doc/Dumate/s/6mr4dii1s)
 *   #### [百度伐谋](https://cloud.baidu.com/doc/FAMOU/index.html)
 *   #### [客悦](https://cloud.baidu.com/doc/ky/index.html)
 *   #### [数字员工-营销内容创作](https://cloud.baidu.com/doc/AI_DH_CLOUD/index.html)
-*   #### [数字员工-组件开放平台](https://cloud.baidu.com/doc/AI_DH/index.html)
 *   #### [云服务器BCC](https://cloud.baidu.com/doc/BCC/index.html)
 *   #### [语音识别](https://cloud.baidu.com/doc/SPEECH/index.html)
 *   #### [人脸识别](https://cloud.baidu.com/doc/FACE/index.html)
@@ -435,4 +435,4 @@ Markdown Content:
 *   个人版使用指南
     *   [新建任务](https://cloud.baidu.com/doc/Dumate/s/nmmydeqff)
     *   [技能管理](https://cloud.baidu.com/doc/Dumate/s/5mmydgic3)
-    *   [定时任务](https://clou
+    *   [定时任务](https:/

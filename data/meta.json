@@ -1,6 +1,15 @@
 {
   "history": [
     {
+      "at": "2026-10-27T20:37:41.837Z",
+      "atBeijing": "2026-10-28 04:37:41",
+      "status": "ok",
+      "ok": 6,
+      "noNumber": 7,
+      "failed": 0,
+      "changes": []
+    },
+    {
       "at": "2026-10-26T20:59:06.931Z",
       "atBeijing": "2026-10-27 04:59:06",
       "status": "ok",
@@ -723,25 +732,11 @@
           "message": "AutoClaw（澳龙）：官方页面恢复可访问"
         }
       ]
-    },
-    {
-      "at": "2026-09-07T15:52:13.524Z",
-      "atBeijing": "2026-09-07 23:52:13",
-      "status": "ok",
-      "ok": 8,
-      "noNumber": 4,
-      "failed": 1,
-      "changes": [
-        {
-          "kind": "failed",
-          "message": "AutoClaw（澳龙）：官方页面抓取失败（HTTP 422）"
-        }
-      ]
     }
   ],
-  "lastSyncAt": "2026-10-26T20:59:06.931Z",
-  "lastSyncAtBeijing": "2026-10-27 05:01:53",
-  "lastSuccessAt": "2026-10-26T20:59:06.931Z",
+  "lastSyncAt": "2026-10-27T20:37:41.837Z",
+  "lastSyncAtBeijing": "2026-10-28 04:39:44",
+  "lastSuccessAt": "2026-10-27T20:37:41.837Z",
   "status": "ok",
   "counts": {
     "ok": 6,
