@@ -1,10 +1,10 @@
-<!-- https://docs.trae.cn/ide_plans-and-billing fetched 2026-10-27T20:38:06.366Z -->
+<!-- https://docs.trae.cn/ide_plans-and-billing fetched 2026-10-28T20:59:10.470Z -->
 Title: 套餐与计费
 
 URL Source: https://docs.trae.cn/ide_plans-and-billing
 
 Markdown Content:
-[![Image 1: TRAE](https://p9-arcosite.byteimg.com/tos-cn-i-goo7wpa0wc/f5cd1485db3b4f328599afe28a1b54d9~tplv-goo7wpa0wc-topic.png) TRAE](https://www.trae.cn/)
+[![Image 1: TRAE](https://p9-arcosite.byteimg.com/tos-cn-i-goo7wpa0wc/f5cd1485db3b4f328599afe28a1b54d9~tplv-goo7wpa0wc-topic.png) TRAE](https://www.trae.cn/?homepage_navigate_web=false)
 
 [TRAE](https://docs.trae.cn/ide_trae-overview)[TraeWork](https://docs.trae.cn/work_traework-to-traecode-data-migration)[TRAE Plugin](https://docs.trae.cn/plugin_what-is-trae-plugin)[TRAE CLI](https://docs.trae.cn/ide_plans-and-billing)[企业版](https://docs.trae.cn/ide_plans-and-billing)
 

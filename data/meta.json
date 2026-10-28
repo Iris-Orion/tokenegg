@@ -1,6 +1,20 @@
 {
   "history": [
     {
+      "at": "2026-10-28T20:58:46.087Z",
+      "atBeijing": "2026-10-29 04:58:46",
+      "status": "ok",
+      "ok": 6,
+      "noNumber": 7,
+      "failed": 0,
+      "changes": [
+        {
+          "kind": "snippet",
+          "message": "WorkBuddy：官方页面额度说明有变化"
+        }
+      ]
+    },
+    {
       "at": "2026-10-27T20:37:41.837Z",
       "atBeijing": "2026-10-28 04:37:41",
       "status": "ok",
@@ -718,25 +732,11 @@
           "message": "AutoClaw（澳龙）：官方页面抓取失败（direct: fetch failed / direct-browser-ua: fetch failed / reader: HTTP 422）"
         }
       ]
-    },
-    {
-      "at": "2026-09-07T15:54:05.932Z",
-      "atBeijing": "2026-09-07 23:54:05",
-      "status": "ok",
-      "ok": 0,
-      "noNumber": 1,
-      "failed": 0,
-      "changes": [
-        {
-          "kind": "recovered",
-          "message": "AutoClaw（澳龙）：官方页面恢复可访问"
-        }
-      ]
     }
   ],
-  "lastSyncAt": "2026-10-27T20:37:41.837Z",
-  "lastSyncAtBeijing": "2026-10-28 04:39:44",
-  "lastSuccessAt": "2026-10-27T20:37:41.837Z",
+  "lastSyncAt": "2026-10-28T20:58:46.087Z",
+  "lastSyncAtBeijing": "2026-10-29 05:01:25",
+  "lastSuccessAt": "2026-10-28T20:58:46.087Z",
   "status": "ok",
   "counts": {
     "ok": 6,
