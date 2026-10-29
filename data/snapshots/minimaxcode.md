@@ -1,4 +1,4 @@
-<!-- https://agent.minimaxi.com/docs/code/account/usage fetched 2026-10-28T20:59:45.713Z -->
+<!-- https://agent.minimaxi.com/docs/code/account/usage fetched 2026-10-29T21:02:54.743Z -->
 Title: M Plan 与积分 - MiniMax Code 文档
 
 URL Source: https://agent.minimaxi.com/docs/code/account/usage

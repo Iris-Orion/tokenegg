@@ -1,4 +1,4 @@
-<!-- https://cloud.baidu.com/doc/Dumate/s/nmnevrk0l fetched 2026-10-28T21:00:04.058Z -->
+<!-- https://cloud.baidu.com/doc/Dumate/s/nmnevrk0l fetched 2026-10-29T21:03:19.957Z -->
 Title: 计费说明 - DuMate
 
 URL Source: https://cloud.baidu.com/doc/Dumate/s/nmnevrk0l
@@ -189,7 +189,7 @@ Markdown Content:
 *   #### [端到端语音语言大模型 基于跨模态大模型，体验超拟人对话](https://cloud.baidu.com/product/SPEECH/chatbot.html)
 *   #### [大模型语音合成 大模型升级语音合成，音色更自然](https://cloud.baidu.com/product/SPEECH/tts.html)
 *   #### [大模型文档解析 18 种格式解析，结构化输出文档关键信息](https://cloud.baidu.com/product/OCR/doc_parser.html)
-*   #### [看图识万物 视觉+多模态大模型，万物精准识别](https://cloud.baidu.com/product/imagerecognition/object_recognition)
+*   #### [看图识万物（联网图像问答） 视觉+多模态大模型，万物精准识别](https://cloud.baidu.com/product/imagerecognition/object_recognition)
 *   #### [智能文档分析平台 文心大模型驱动，一站式文档处理](https://cloud.baidu.com/product/textmind.html)
 *   #### [文字识别 覆盖多种场景、多种语言的高精度整图文字检测和识别服务](https://cloud.baidu.com/product/ocr.html)
 *   #### [图像增强 去雾增强放大，重建高清无损图像](https://cloud.baidu.com/product/image-enhancement.html)
@@ -435,4 +435,4 @@ Markdown Content:
 *   个人版使用指南
     *   [新建任务](https://cloud.baidu.com/doc/Dumate/s/nmmydeqff)
     *   [技能管理](https://cloud.baidu.com/doc/Dumate/s/5mmydgic3)
-    *   [定时任务](https:/
+    *   [定时任务]
