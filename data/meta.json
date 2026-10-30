@@ -1,6 +1,15 @@
 {
   "history": [
     {
+      "at": "2026-10-30T20:42:19.614Z",
+      "atBeijing": "2026-10-31 04:42:19",
+      "status": "ok",
+      "ok": 6,
+      "noNumber": 7,
+      "failed": 0,
+      "changes": []
+    },
+    {
       "at": "2026-10-29T21:01:50.196Z",
       "atBeijing": "2026-10-30 05:01:50",
       "status": "ok",
@@ -713,25 +722,11 @@
       "noNumber": 5,
       "failed": 0,
       "changes": []
-    },
-    {
-      "at": "2026-09-07T15:58:18.789Z",
-      "atBeijing": "2026-09-07 23:58:18",
-      "status": "ok",
-      "ok": 0,
-      "noNumber": 1,
-      "failed": 0,
-      "changes": [
-        {
-          "kind": "recovered",
-          "message": "AutoClaw（澳龙）：官方页面恢复可访问"
-        }
-      ]
     }
   ],
-  "lastSyncAt": "2026-10-29T21:01:50.196Z",
-  "lastSyncAtBeijing": "2026-10-30 05:04:57",
-  "lastSuccessAt": "2026-10-29T21:01:50.196Z",
+  "lastSyncAt": "2026-10-30T20:42:19.614Z",
+  "lastSyncAtBeijing": "2026-10-31 04:44:16",
+  "lastSuccessAt": "2026-10-30T20:42:19.614Z",
   "status": "ok",
   "counts": {
     "ok": 6,

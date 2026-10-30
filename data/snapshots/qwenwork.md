@@ -1,7 +1,9 @@
-<!-- https://help.aliyun.com/zh/qwenwork/qw-personal-benefits fetched 2026-10-29T21:02:00.304Z -->
+<!-- https://help.aliyun.com/zh/qwenwork/qw-personal-benefits fetched 2026-10-30T20:42:31.942Z -->
 Title: 个人版权益
 
 URL Source: https://help.aliyun.com/zh/qwenwork/qw-personal-benefits
+
+Final URL: https://help.aliyun.com/zh/qwenwork/personal-benefits
 
 Markdown Content:
 [](https://www.aliyun.com/)
@@ -12,7 +14,7 @@ Markdown Content:
 
 [](https://www.aliyun.com/search?from=h5-global-nav-search)
 
-[![Image 1](https://img.alicdn.com/imgextra/i2/O1CN01bYc1m81RrcSAyOjMu_!!6000000002165-54-tps-60-60.apng) AI 助理](https://www.aliyun.com/ai-assistant?displayMode=side)[文档](https://help.aliyun.com/)[备案](https://beian.aliyun.com/)[控制台](https://home.console.aliyun.com/home/dashboard/ProductAndService)[注册](https://account.aliyun.com/register/qr_register.htm?oauth_callback=https%3A%2F%2Fhelp.aliyun.com%2Fzh%2Fqwenwork%2Fqw-personal-benefits)[登录](https://account.aliyun.com/login/login.htm?oauth_callback=https%3A%2F%2Fhelp.aliyun.com%2Fzh%2Fqwenwork%2Fqw-personal-benefits)
+[![Image 1](https://img.alicdn.com/imgextra/i2/O1CN01bYc1m81RrcSAyOjMu_!!6000000002165-54-tps-60-60.apng) AI 助理](https://www.aliyun.com/ai-assistant?displayMode=side)[文档](https://help.aliyun.com/)[备案](https://beian.aliyun.com/)[控制台](https://home.console.aliyun.com/home/dashboard/ProductAndService)[注册](https://account.aliyun.com/register/qr_register.htm?oauth_callback=https%3A%2F%2Fhelp.aliyun.com%2Fzh%2Fqwenwork%2Fpersonal-benefits)[登录](https://account.aliyun.com/login/login.htm?oauth_callback=https%3A%2F%2Fhelp.aliyun.com%2Fzh%2Fqwenwork%2Fpersonal-benefits)
 
 [官方文档](https://help.aliyun.com/zh)
 
@@ -536,6 +538,4 @@ Serverless
 
 [金融云](https://help.aliyun.com/zh/product/29849.html)
 
-[阿里云集成转售解决方案](https://help.aliyun.com/zh/product/90850.html)
-
-[数据湖 OpenLake](https:
+[阿里云集成转售解决方案](https://h

@@ -1,10 +1,12 @@
-<!-- https://office.xiaohuanxiong.com/pricing fetched 2026-10-29T21:02:24.863Z -->
+<!-- https://office.xiaohuanxiong.com/pricing fetched 2026-10-30T20:42:45.343Z -->
 Title: Sign in | Raccoon Work
 
 URL Source: https://office.xiaohuanxiong.com/pricing
 
+Final URL: https://xiaohuanxiong.com/login?product_code=work&redirect_url=%2Fwork%2Fpricing
+
 Markdown Content:
-[Skip to content](https://office.xiaohuanxiong.com/pricing#main)[![Image 1: 商汤小浣熊 Raccoon Work](https://sta-volc.xiaohuanxiong.com/raccoon-website/prod/mime-v1/brand/logo-lockup-zh.svg)](https://office.xiaohuanxiong.com/en)English
+[Skip to content](https://xiaohuanxiong.com/login?product_code=work&redirect_url=%2Fwork%2Fpricing#main)[![Image 1: 商汤小浣熊 Raccoon Work](https://sta-volc.xiaohuanxiong.com/raccoon-website/prod/mime-v1/brand/logo-lockup-zh.svg)](https://xiaohuanxiong.com/en)English
 Welcome to Raccoon Work!
 
 ![Image 2](https://sta-volc.xiaohuanxiong.com/raccoon-website/prod/mime-v1/identity/brand-orbit.svg)![Image 3](https://sta-volc.xiaohuanxiong.com/raccoon-website/prod/mime-v1/identity/brand-excel-card.webp)![Image 4](https://sta-volc.xiaohuanxiong.com/raccoon-website/prod/mime-v1/identity/brand-raccoon.webp)![Image 5](https://sta-volc.xiaohuanxiong.com/raccoon-website/prod/mime-v1/identity/brand-folder-card.webp)
@@ -28,7 +30,7 @@ Send code
 
 Sign in Use a password →
 
-A new phone number creates an account. By checking this box, you confirm you have read and accept the [Terms of Service](https://doc.xiaohuanxiong.com/zh-hans/info/legal/terms.html)and[Privacy Policy](https://doc.xiaohuanxiong.com/zh-hans/info/legal/privacy.html)[SenseTime RaccoonWork Additional Terms of Service](https://office.xiaohuanxiong.com/agreement/view?product_code=work&lang=en)
+A new phone number creates an account. By checking this box, you confirm you have read and accept the [Terms of Service](https://doc.xiaohuanxiong.com/zh-hans/info/legal/terms.html)and[Privacy Policy](https://doc.xiaohuanxiong.com/zh-hans/info/legal/privacy.html)[SenseTime RaccoonWork Additional Terms of Service](https://xiaohuanxiong.com/agreement/view?product_code=work&lang=en)
 
 [Shanghai ICP 2022034816-23](https://beian.miit.gov.cn/)|Public security registration 31010402334447|© 2014-2026 SenseTime. All Rights Reserved.[Terms of service](https://doc.xiaohuanxiong.com/zh-hans/info/legal/terms.html)|[Privacy policy](https://doc.xiaohuanxiong.com/zh-hans/info/legal/privacy.html)
 

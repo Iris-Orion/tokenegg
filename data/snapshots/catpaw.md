@@ -1,7 +1,9 @@
-<!-- https://catpaw.meituan.com/docs fetched 2026-10-29T21:03:44.013Z -->
+<!-- https://catpaw.meituan.com/docs fetched 2026-10-30T20:43:52.255Z -->
 Title: 妙手文档 - 全场景 AI Agent 平台
 
 URL Source: https://catpaw.meituan.com/docs
+
+Final URL: https://catpaw.meituan.com/docs#/desktop/intro
 
 Markdown Content:
 文档导航
