@@ -1,6 +1,15 @@
 {
   "history": [
     {
+      "at": "2026-10-31T19:54:21.103Z",
+      "atBeijing": "2026-11-01 03:54:21",
+      "status": "ok",
+      "ok": 6,
+      "noNumber": 7,
+      "failed": 0,
+      "changes": []
+    },
+    {
       "at": "2026-10-30T20:42:19.614Z",
       "atBeijing": "2026-10-31 04:42:19",
       "status": "ok",
@@ -713,20 +722,11 @@
           "message": "AutoClaw（澳龙）：官方页面抓取失败（direct: fetch failed / direct-browser-ua: fetch failed / reader: HTTP 422）"
         }
       ]
-    },
-    {
-      "at": "2026-09-07T16:00:09.878Z",
-      "atBeijing": "2026-09-08 00:00:09",
-      "status": "ok",
-      "ok": 8,
-      "noNumber": 5,
-      "failed": 0,
-      "changes": []
     }
   ],
-  "lastSyncAt": "2026-10-30T20:42:19.614Z",
-  "lastSyncAtBeijing": "2026-10-31 04:44:16",
-  "lastSuccessAt": "2026-10-30T20:42:19.614Z",
+  "lastSyncAt": "2026-10-31T19:54:21.103Z",
+  "lastSyncAtBeijing": "2026-11-01 03:56:49",
+  "lastSuccessAt": "2026-10-31T19:54:21.103Z",
   "status": "ok",
   "counts": {
     "ok": 6,
