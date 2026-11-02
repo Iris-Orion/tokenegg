@@ -1,4 +1,4 @@
-<!-- https://docs.trae.cn/ide_plans-and-billing fetched 2026-11-01T20:27:19.396Z -->
+<!-- https://docs.trae.cn/ide_plans-and-billing fetched 2026-11-02T23:26:57.521Z -->
 Title: 套餐与计费
 
 URL Source: https://docs.trae.cn/ide_plans-and-billing
@@ -29,8 +29,6 @@ TRAE IDE 里最热门的 Skill 是哪些？
 [TRAE 概览](https://docs.trae.cn/ide_trae-overview)
 
 [重磅更新：TraeCode 与 TraeWork 已融合为全新的 TRAE](https://docs.trae.cn/ide_traework-to-traecode-data-migration)
-
-[TRAE 10 月插件热榜](https://docs.trae.cn/ide_top-10-plugins-frequently-used-by-trae-users)
 
 入门
 

@@ -1,6 +1,24 @@
 {
   "history": [
     {
+      "at": "2026-11-02T23:26:33.436Z",
+      "atBeijing": "2026-11-03 07:26:33",
+      "status": "ok",
+      "ok": 5,
+      "noNumber": 8,
+      "failed": 0,
+      "changes": [
+        {
+          "kind": "snippet",
+          "message": "千问办公：官方页面额度说明有变化"
+        },
+        {
+          "kind": "quota",
+          "message": "千问办公：官方页面不再写明数字，沿用上次的 100 积分 / 天"
+        }
+      ]
+    },
+    {
       "at": "2026-11-01T20:27:01.496Z",
       "atBeijing": "2026-11-02 04:27:01",
       "status": "ok",
@@ -708,24 +726,15 @@
           "message": "AutoClaw（澳龙）：官方页面恢复可访问"
         }
       ]
-    },
-    {
-      "at": "2026-09-07T16:01:51.371Z",
-      "atBeijing": "2026-09-08 00:01:51",
-      "status": "ok",
-      "ok": 8,
-      "noNumber": 4,
-      "failed": 1,
-      "changes": []
     }
   ],
-  "lastSyncAt": "2026-11-01T20:27:01.496Z",
-  "lastSyncAtBeijing": "2026-11-02 04:29:17",
-  "lastSuccessAt": "2026-11-01T20:27:01.496Z",
+  "lastSyncAt": "2026-11-02T23:26:33.436Z",
+  "lastSyncAtBeijing": "2026-11-03 07:29:49",
+  "lastSuccessAt": "2026-11-02T23:26:33.436Z",
   "status": "ok",
   "counts": {
-    "ok": 6,
-    "noNumber": 7,
+    "ok": 5,
+    "noNumber": 8,
     "failed": 0
   },
   "platformCount": 13,
