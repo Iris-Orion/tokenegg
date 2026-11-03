@@ -1,11 +1,9 @@
-<!-- https://help.aliyun.com/zh/qwenwork/qw-personal-benefits fetched 2026-11-02T23:26:47.347Z -->
+<!-- https://help.aliyun.com/zh/qwenwork/qw-personal-benefits fetched 2026-11-03T21:41:58.245Z -->
 Title: 个人版订阅
 
 URL Source: https://help.aliyun.com/zh/qwenwork/qw-personal-benefits
 
 Final URL: https://help.aliyun.com/zh/qwenwork/personal-benefits
-
-Published Time: Mon, 02 Nov 2026 23:22:30 GMT
 
 Markdown Content:
 [](https://www.aliyun.com/)
@@ -441,9 +439,6 @@ JVS智能体套件
 *   [物联网络管理平台](https://help.aliyun.com/zh/link-wan/)
 *   [物联网应用开发](https://help.aliyun.com/zh/iot-studio/)
 
-设备端服务
-*   [物联网边缘计算（文档停止维护）](https://help.aliyun.com/zh/iot-edge/)
-
 行业物联网
 *   [生活物联网平台（飞燕平台）](https://help.aliyun.com/zh/product/123207.html)
 *   [云价签 （文档停止维护）](https://help.aliyun.com/zh/cloudesl/)
@@ -538,4 +533,8 @@ Serverless
 
 [SAP 解决方案](https://help.aliyun.com/zh/sap-solution/)
 
-[金融云](https://help.aliyun.com/
+[金融云](https://help.aliyun.com/zh/product/29849.html)
+
+[阿里云集成转售解决方案](https://help.aliyun.com/zh/product/90850.html)
+
+[数据湖 OpenLake](https://help.

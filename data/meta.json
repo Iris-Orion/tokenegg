@@ -1,6 +1,15 @@
 {
   "history": [
     {
+      "at": "2026-11-03T21:41:47.828Z",
+      "atBeijing": "2026-11-04 05:41:47",
+      "status": "ok",
+      "ok": 5,
+      "noNumber": 8,
+      "failed": 0,
+      "changes": []
+    },
+    {
       "at": "2026-11-02T23:26:33.436Z",
       "atBeijing": "2026-11-03 07:26:33",
       "status": "ok",
@@ -704,33 +713,11 @@
           "message": "AutoClaw（澳龙）：官方页面额度说明有变化"
         }
       ]
-    },
-    {
-      "at": "2026-09-07T16:04:52.657Z",
-      "atBeijing": "2026-09-08 00:04:52",
-      "status": "ok",
-      "ok": 0,
-      "noNumber": 1,
-      "failed": 0,
-      "changes": [
-        {
-          "kind": "archive",
-          "message": "AutoClaw（澳龙）：官方页面无法直接访问，改用 2026-06-08 的网页存档"
-        },
-        {
-          "kind": "snippet",
-          "message": "AutoClaw（澳龙）：官方页面额度说明有变化"
-        },
-        {
-          "kind": "recovered",
-          "message": "AutoClaw（澳龙）：官方页面恢复可访问"
-        }
-      ]
     }
   ],
-  "lastSyncAt": "2026-11-02T23:26:33.436Z",
-  "lastSyncAtBeijing": "2026-11-03 07:29:49",
-  "lastSuccessAt": "2026-11-02T23:26:33.436Z",
+  "lastSyncAt": "2026-11-03T21:41:47.828Z",
+  "lastSyncAtBeijing": "2026-11-04 05:43:56",
+  "lastSuccessAt": "2026-11-03T21:41:47.828Z",
   "status": "ok",
   "counts": {
     "ok": 5,

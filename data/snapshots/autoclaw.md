@@ -1,10 +1,10 @@
-<!-- https://autoclaw.zhipuai.cn/ fetched 2026-11-02T23:27:35.770Z -->
+<!-- https://autoclaw.zhipuai.cn/ fetched 2026-11-03T21:42:40.690Z -->
 智谱AutoClaw官网-智谱autoclaw（澳龙）安装下载-GLM-5.3-Flash已上线
 跳到主要内容 AutoClaw 简体中文 简体中文
 English
 首页 博客 更新日志 社群 飞书
 企业微信
-团购方案 文档中心 模型介绍 下载
+团队版 文档中心 模型介绍 下载
 × 扫码下载移动端
 iOS 版本
 Android 版本
@@ -141,7 +141,7 @@ Blog
 模型支持
 文档中心
 下载体验
-团购方案
+团队版
 关注我们
 小红书
 即刻

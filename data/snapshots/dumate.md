@@ -1,4 +1,4 @@
-<!-- https://cloud.baidu.com/doc/Dumate/s/nmnevrk0l fetched 2026-11-02T23:27:57.115Z -->
+<!-- https://cloud.baidu.com/doc/Dumate/s/nmnevrk0l fetched 2026-11-03T21:43:04.872Z -->
 Title: 计费说明 - DuMate
 
 URL Source: https://cloud.baidu.com/doc/Dumate/s/nmnevrk0l
@@ -83,29 +83,29 @@ Markdown Content:
 
 *   #### [ERNIE 5.1 搜索能力登顶国内，预训练成本仅为业界6%](https://console.bce.baidu.com/qianfan/modelcenter/model/buildIn/detail/am-d94f2a76cccd)
 *   #### [DeepSeek-V4 结构创新和超高上下文效率、Agent 能力得到专项优化](https://console.bce.baidu.com/qianfan/modelcenter/model/buildIn/detail/am-ef6aeca66ed0)
-*   #### [ERNIE 5.0-正式版 原生全模态大模型，基础能力全面升级](https://console.bce.baidu.com/qianfan/modelcenter/model/buildIn/detail/am-3c0d4ca1f067)
-*   #### [ERNIE 4.5 Turbo VL 全新多模理解模型，图片理解、创作、翻译、代码等能力显著](https://console.bce.baidu.com/qianfan/modelcenter/model/buildIn/detail/am-04vq365sduvu)
+*   #### [Qianfan-OCR-Parser-Standard 面向企业办公与知识库场景的结构化文档解析服务：支持 PDF、Word、Excel、图片等 18 种主流格式](https://console.bce.baidu.com/qianfan/modelcenter/model/buildIn/detail/am-c70711ff91f2)
+*   #### [Qianfan-Parser-PaddleOCR-VL 基于 PaddleOCR-VL 1.6 多模态大模型的企业级文档解析服务：端到端识别印刷/手写文本、复杂表格、公式、统计图表与印章等全要素](https://console.bce.baidu.com/qianfan/modelcenter/model/buildIn/detail/am-452cbca4c8bb)
 
 ### 文心大模型
 
-*   #### [ERNIE 4.5 Turbo 多模态基础大模型，去幻觉、逻辑推理和代码能力明显增强](https://console.bce.baidu.com/qianfan/modelcenter/model/buildIn/detail/am-xpgukxjf6s0r)
-*   #### [ERNIE X1 Turbo 具备更长的思维链，更强的深度思考能力](https://console.bce.baidu.com/qianfan/modelcenter/model/buildIn/detail/am-an73qfuiy92d)
-*   #### [ERNIE X1.1 在事实性、指令遵循、智能体等能力上均有显著提升](https://console.bce.baidu.com/qianfan/ais/console/onlineTest/chat/ERNIE-X1.1-Preview)
 *   #### [PaddleOCR-VL 先进、高效的文档解析模型，专为文档元素识别设计](https://console.bce.baidu.com/qianfan/modelcenter/model/buildIn/detail/am-011b24c8feea)
-
-### 文心大模型
-
 *   #### [PP-StructureV3 高效文档解析模型，复杂结构和多栏布局文档处理优势显著](https://console.bce.baidu.com/qianfan/modelcenter/model/buildIn/detail/am-d63da0202bf5)
 *   #### [端到端语音语言大模型 基于Cross-Attention跨模态语音大模型，体验超拟人对话](https://console.bce.baidu.com/qianfan/modelcenter/model/buildIn/detail/am-4itwenva8pww)
 *   #### [大模型语音合成 音色具备更高的自然度、丰富的情感表达等特点](https://console.bce.baidu.com/qianfan/modelcenter/model/buildIn/detail/am-1zmikx0rwt9f)
+
+### 文心大模型
+
 *   #### [大模型声音复刻 录制5秒音频，即可极速复刻音色](https://console.bce.baidu.com/qianfan/modelcenter/model/buildIn/detail/am-tcskiiqncm41)
+*   #### [智能语音质检 可将坐席人员的通话内容转写为文字，并进行AI自动化质检](https://console.bce.baidu.com/qianfan/modelcenter/model/buildIn/detail/am-1a4b4be07f3a)
+*   #### [实时语音识别 将中英文、方言的音频流实时识别为文字，并返回每句话的开始和结束时间](https://console.bce.baidu.com/qianfan/modelcenter/model/buildIn/detail/am-ac1e5f44a086)
+*   #### [蒸汽机Air-Image 能够基于用户输入的提示词快速生成清晰、动作连贯的图片，让用户描述轻松转化为图像](https://console.bce.baidu.com/qianfan/modelcenter/model/buildIn/detail/am-193a3aaf6179)
 
 ### 其他大模型
 
 *   #### [DeepSeek-V4.1-Flash 文本生成模型，能力上限更高、推理速度更快、吞吐更大、可扩展到更大参数模型](https://console.bce.baidu.com/qianfan/modelcenter/model/buildIn/detail/am-434c0b2d30e2)
 *   #### [GLM-5.3 文本生成模型，以极致后训练 Scaling 实现能力跃迁：编程体验较前代提升 50%，网络安全能力持平 Mythos 5](https://console.bce.baidu.com/qianfan/modelcenter/model/buildIn/detail/am-7adf73564090)
-*   #### [kimi-k2.6 文本生成模型，同时支持文本、图片与视频输入，思考与非思考模式，对话与 Agent 任务](https://console.bce.baidu.com/qianfan/modelcenter/model/buildIn/detail/am-6393ee6bc231)
 *   #### [Qwen3.5-397B-A17B 原生视觉语言模型，具备强大的代码生成与智能体能力，对于各类智能体场景具有良好的泛化性](https://console.bce.baidu.com/qianfan/modelcenter/model/buildIn/detail/am-bd7dce4f3901)
+*   #### [Qwen-Image 图像生成基础模型，在 复杂文本渲染 和 精确图像编辑 方面取得了显著进展](https://console.bce.baidu.com/qianfan/modelcenter/model/buildIn/detail/am-dsaqxfcmuhfu)
 
 ## 百度千帆大模型平台
 
@@ -433,6 +433,4 @@ Markdown Content:
         *   [快速开始](https://cloud.baidu.com/doc/Dumate/s/hmqj7xxje)
 
 *   个人版使用指南
-    *   [新建任务](https://cloud.baidu.com/doc/Dumate/s/nmmydeqff)
-    *   [技能管理](https://cloud.baidu.com/doc/Dumate/s/5mmydgic3)
-    *   [定时任务]
+    *   [新建任务](https://clo
