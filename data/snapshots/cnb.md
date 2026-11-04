@@ -1,4 +1,4 @@
-<!-- https://docs.cnb.cool/zh/pricing.html fetched 2026-11-03T21:43:54.551Z -->
+<!-- https://docs.cnb.cool/zh/pricing.html fetched 2026-11-04T21:52:00.796Z -->
 Title: 定价 | CNB 文档
 
 URL Source: https://docs.cnb.cool/zh/pricing.html
@@ -41,6 +41,8 @@ Main Navigation
 [安全扫描](https://docs.cnb.cool/zh/security/intro.html)
 
 [任务集](https://docs.cnb.cool/zh/missions/intro.html)
+
+定价
 
 [定价](https://docs.cnb.cool/zh/pricing.html)
 
@@ -95,6 +97,8 @@ Main Navigation
 此页内容
 
 *   [概述](https://docs.cnb.cool/zh/pricing.html#gai-shu)
+    *   [社区版还是企业版？](https://docs.cnb.cool/zh/pricing.html#she-qu-ban-hai-shi-qi-ye-ban)
+
 *   [计费模式](https://docs.cnb.cool/zh/pricing.html#ji-fei-mo-shi)
     *   [计费规则](https://docs.cnb.cool/zh/pricing.html#ji-fei-gui-ze)
     *   [存储资源用量统计](https://docs.cnb.cool/zh/pricing.html#cun-chu-zi-yuan-yong-liang-tong-ji)
@@ -114,13 +118,24 @@ Main Navigation
 *   [复制页面 将页面以 Markdown 格式复制供 LLMs 使用](javascript:void(0))
 *   [以 Markdown 格式查看 以纯文本查看此页面](https://docs.cnb.cool/zh/pricing.md)
 
-1257 字 约 4 分钟
+1488 字 约 5 分钟
 
 ## [概述](https://docs.cnb.cool/zh/pricing.html#gai-shu)
 
 当前版本是 **云原生构建社区版**，每个顶级组织独立结算，**按量计费**，月初扣除上月费用。
 
-企业客户如有网络隔离、数据安全等合规要求，请选择 [企业版](https://docs.cnb.cool/zh/enterprise.html)。
+### [社区版还是企业版？](https://docs.cnb.cool/zh/pricing.html#she-qu-ban-hai-shi-qi-ye-ban)
+
+社区版数据托管于 CNB 公有云，开箱即用；企业版部署在企业自有腾讯云 VPC 内，与企业内网双向互通。
+
+社区版可覆盖绝大多数团队的日常研发场景；出现以下诉求时，建议改为 [企业版](https://docs.cnb.cool/zh/enterprise.html)：
+
+*   **数据不能出内网**：代码、制品、构建日志等数据仅在企业自有网络内流转，不落到公有云。
+*   **内网系统要打通**：构建任务、OAuth 认证需与企业 OA 等内网系统双向互通。
+*   **自主管控资源**：服务部署在企业自有腾讯云账号下，支持配置安全组管控服务访问策略，企业自主管理资源。
+*   **统一身份认证**：通过 OAuth 2.0 对接企业现有账号体系，无需员工额外注册 CNB 账号。
+
+企业版需订阅 License 获取使用授权：¥1,024/授权用户/年（或 ¥100/授权用户/月），100 个授权用户起售。
 
 ## [计费模式](https://docs.cnb.cool/zh/pricing.html#ji-fei-mo-shi)
 

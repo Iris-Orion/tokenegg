@@ -1,9 +1,11 @@
-<!-- https://help.aliyun.com/zh/qwenwork/qw-personal-benefits fetched 2026-11-03T21:41:58.245Z -->
+<!-- https://help.aliyun.com/zh/qwenwork/qw-personal-benefits fetched 2026-11-04T21:49:57.449Z -->
 Title: 个人版订阅
 
 URL Source: https://help.aliyun.com/zh/qwenwork/qw-personal-benefits
 
 Final URL: https://help.aliyun.com/zh/qwenwork/personal-benefits
+
+Published Time: Wed, 04 Nov 2026 21:48:22 GMT
 
 Markdown Content:
 [](https://www.aliyun.com/)
@@ -214,6 +216,7 @@ CDN
 AI 安全
 *   [智能体安全中心](https://help.aliyun.com/zh/asc/)
 *   [AI 数据标识](https://help.aliyun.com/zh/ai-deepsign/)
+*   [AI 安全护栏](https://help.aliyun.com/zh/product/28415.html)
 
 身份与数据安全
 *   [应用身份服务 (IDaaS)](https://help.aliyun.com/zh/idaas/)
@@ -229,7 +232,6 @@ AI 安全
 *   [风险识别](https://help.aliyun.com/zh/fraud-detection/)
 *   [验证码](https://help.aliyun.com/zh/captcha/)
 *   [安全管家](https://help.aliyun.com/zh/mss/)
-*   [AI 安全护栏](https://help.aliyun.com/zh/product/28415.html)
 *   [跨链数据连接服务](https://help.aliyun.com/zh/product/169830.html)
 *   [区块链服务](https://help.aliyun.com/zh/product/84950.html)
 *   [分布式数字身份](https://help.aliyun.com/zh/product/165833.html)
@@ -535,6 +537,4 @@ Serverless
 
 [金融云](https://help.aliyun.com/zh/product/29849.html)
 
-[阿里云集成转售解决方案](https://help.aliyun.com/zh/product/90850.html)
-
-[数据湖 OpenLake](https://help.
+[阿里云集成转售解决方案](https://help.aliyun.com/zh/pr
