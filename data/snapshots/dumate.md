@@ -1,4 +1,4 @@
-<!-- https://cloud.baidu.com/doc/Dumate/s/nmnevrk0l fetched 2026-11-04T21:51:13.506Z -->
+<!-- https://cloud.baidu.com/doc/Dumate/s/nmnevrk0l fetched 2026-11-05T21:57:33.542Z -->
 Title: 计费说明 - DuMate
 
 URL Source: https://cloud.baidu.com/doc/Dumate/s/nmnevrk0l
@@ -51,7 +51,7 @@ Markdown Content:
 
 ### 精选活动
 
-#### [云服务器品类特惠 云服务器2核4G低至39元/年](https://cloud.baidu.com/campaign/renew/index.html?track=9f64acdb7da402559de4fc57c5621b88bd70f64f1ac6f9a8)#### [免费试用体验馆 注册并完成实名认证，立即体验热门产品](https://cloud.baidu.com/campaign/event/free/index.html?track=e84ebfbb98903592f04636037b86f1f81cf768003ccd85cb)#### [人工智能热销榜 新购1元，AI能力引擎量包低至75折](https://cloud.baidu.com/campaign/event/ai/index.html?track=f9c8bf124e57f10958a3d43b1d20c69e74cf51f159ab649a)#### [大模型增值服务上新 工信部教考中心大模型证书6折](https://cloud.baidu.com/campaign/event/qianfan/index.html?track=f9c8bf124e57f10958a3d43b1d20c69ec0996058a5194b52)
+#### [云服务器品类特惠 云服务器2核4G低至39元/年](https://cloud.baidu.com/campaign/renew/index.html?track=9f64acdb7da402559de4fc57c5621b88bd70f64f1ac6f9a8)#### [AI大模型普惠权益 Token Plan 首购五折 4.9 元起](https://cloud.baidu.com/product/ai_benefit.html)#### [免费试用体验馆 注册并完成实名认证，立即体验热门产品](https://cloud.baidu.com/campaign/event/free/index.html?track=e84ebfbb98903592f04636037b86f1f81cf768003ccd85cb)#### [人工智能热销榜 新购1元，AI能力引擎量包低至75折](https://cloud.baidu.com/campaign/event/ai/index.html?track=f9c8bf124e57f10958a3d43b1d20c69e74cf51f159ab649a)#### [大模型增值服务上新 工信部教考中心大模型证书6折](https://cloud.baidu.com/campaign/event/qianfan/index.html?track=f9c8bf124e57f10958a3d43b1d20c69ec0996058a5194b52)
 
 ### 新手专享
 
@@ -430,7 +430,4 @@ Markdown Content:
 
     *   企业版
         *   [首次购买](https://cloud.baidu.com/doc/Dumate/s/7mqoo1w4c)
-        *   [快速开始](https://cloud.baidu.com/doc/Dumate/s/hmqj7xxje)
-
-*   个人版使用指南
-    *   [新建任务](https://clo
+        *   [快速开始]

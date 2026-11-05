@@ -1,4 +1,4 @@
-<!-- https://docs.coze.cn/coze_pro_credits fetched 2026-11-04T21:50:21.885Z -->
+<!-- https://docs.coze.cn/coze_pro_credits fetched 2026-11-05T21:56:52.674Z -->
 Title: 积分
 
 URL Source: https://docs.coze.cn/coze_pro_credits
@@ -156,9 +156,9 @@ Copy Page
 
 2.   设置余量预警。 
     1.   在[火山引擎扣子控制台](https://console.volcengine.com/coze-pro)**概览**页面，单击右上角的**余量预警**。
-    2.   在**设置余额预警**面板中，为目标积分开启预警。  
+    2.   在**设置余量预警**面板中，为目标积分开启预警。  
  你可以为每个积分商品分别设置不同的余量阈值比例，也可以通过批量功能，统一设置余量阈值比例。
-    3.   单击**确定**。
+    3.   单击**保存**。
 
 ## 失败任务补偿积分
 

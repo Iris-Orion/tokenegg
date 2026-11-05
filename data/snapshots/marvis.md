@@ -1,10 +1,14 @@
-<!-- https://marvis.qq.com/docs fetched 2026-11-04T21:51:22.388Z -->
+<!-- https://marvis.qq.com/docs fetched 2026-11-05T21:57:49.595Z -->
 Title: Marvis-产品认知与定位-腾讯马维斯官网
 
 URL Source: https://marvis.qq.com/docs
 
 Markdown Content:
 [](https://marvis.qq.com/)
+
+[案例](https://marvis.qq.com/cases)[资讯](https://marvis.qq.com/news)[文档](https://marvis.qq.com/docs)
+
+[案例](https://marvis.qq.com/cases)[资讯](https://marvis.qq.com/news)[文档](https://marvis.qq.com/docs)
 
 [下载](https://marvis.qq.com/download/exe)
 
