@@ -1,4 +1,4 @@
-<!-- https://cloud.baidu.com/doc/Dumate/s/nmnevrk0l fetched 2026-11-05T21:57:33.542Z -->
+<!-- https://cloud.baidu.com/doc/Dumate/s/nmnevrk0l fetched 2026-11-06T21:28:02.856Z -->
 Title: 计费说明 - DuMate
 
 URL Source: https://cloud.baidu.com/doc/Dumate/s/nmnevrk0l
@@ -358,14 +358,21 @@ Markdown Content:
 
 ### [增值服务-百度智能云知一](https://cloud.baidu.com/edu/edu_home/zhiyi)
 
-*   #### [大模型专家服务 提供常见使用问题快速解决通道](https://cloud.baidu.com/product/llmservice.html)
-*   #### [云专家服务 一对一定制化支持服务](https://cloud.baidu.com/product/ACA/expert.html)
+*   #### [知一学堂 智能学习与人才发展平台](https://cloud.baidu.com/product/llm_vas.html)
+*   #### [AgentBridge AI 原生操作系统级方案](https://cloud.baidu.com/product/ai_agent_dev.html)
+*   #### [大模型专家服务 提供大模型建设全周期服务](https://cloud.baidu.com/product/llmservice.html)
 *   #### [企业支持计划 复杂业务专属支持](https://cloud.baidu.com/support/plan.html)
+*   #### [云专家服务 一对一定制化支持服务](https://cloud.baidu.com/product/ACA/expert.html)
 
 ### [学习认证](https://cloud.baidu.com/edu/edu_home/home)
 
 *   #### [培训认证 学练考认一站式平台](https://cloud.baidu.com/edu/edu_home/certification)
 *   #### [课程学习 全场景课程体系](https://cloud.baidu.com/product/edu.html)
+*   #### [AI智训营 企业数智转型课程](https://cloud.baidu.com/product/edu.html)
+
+### 解决方案
+
+*   #### [政企服务 企业级 AI 原生转型方案](https://cloud.baidu.com/solution/zhiyi.html)
 
 ### 联系我们
 
@@ -421,13 +428,4 @@ Markdown Content:
     *   [什么是百度搭子生态开放平台](https://cloud.baidu.com/doc/Dumate/s/fmtv6kp0x)
 
 *   更新动态
-    *   [个人版更新动态](https://cloud.baidu.com/doc/Dumate/s/cmmu7shvw)
-    *   [企业版更新动态](https://cloud.baidu.com/doc/Dumate/s/amqz7imhf)
-
-*   快速开始
-    *   个人版
-        *   [快速开始](https://cloud.baidu.com/doc/Dumate/s/xmmyddwfy)
-
-    *   企业版
-        *   [首次购买](https://cloud.baidu.com/doc/Dumate/s/7mqoo1w4c)
-        *   [快速开始]
+    * 
