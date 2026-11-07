@@ -1,6 +1,15 @@
 {
   "history": [
     {
+      "at": "2026-11-07T20:09:45.361Z",
+      "atBeijing": "2026-11-08 04:09:45",
+      "status": "ok",
+      "ok": 5,
+      "noNumber": 8,
+      "failed": 0,
+      "changes": []
+    },
+    {
       "at": "2026-11-06T21:26:55.627Z",
       "atBeijing": "2026-11-07 05:26:55",
       "status": "ok",
@@ -690,29 +699,11 @@
       "noNumber": 6,
       "failed": 0,
       "changes": []
-    },
-    {
-      "at": "2026-09-08T19:24:30.906Z",
-      "atBeijing": "2026-09-09 03:24:30",
-      "status": "ok",
-      "ok": 7,
-      "noNumber": 6,
-      "failed": 0,
-      "changes": [
-        {
-          "kind": "snippet",
-          "message": "扣子 Coze：官方页面额度说明有变化"
-        },
-        {
-          "kind": "quota",
-          "message": "扣子 Coze：官方页面不再写明数字，沿用上次的 1500 积分 / 天"
-        }
-      ]
     }
   ],
-  "lastSyncAt": "2026-11-06T21:26:55.627Z",
-  "lastSyncAtBeijing": "2026-11-07 05:28:48",
-  "lastSuccessAt": "2026-11-06T21:26:55.627Z",
+  "lastSyncAt": "2026-11-07T20:09:45.361Z",
+  "lastSyncAtBeijing": "2026-11-08 04:11:50",
+  "lastSuccessAt": "2026-11-07T20:09:45.361Z",
   "status": "ok",
   "counts": {
     "ok": 5,
