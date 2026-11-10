@@ -1,12 +1,12 @@
-<!-- https://www.workbuddy.cn/pricing/ fetched 2026-11-08T20:25:26.658Z -->
+<!-- https://www.workbuddy.cn/pricing/ fetched 2026-11-10T00:11:49.163Z -->
 Title: WorkBuddy 定价 - AI Agent 办公新范式
 
 URL Source: https://www.workbuddy.cn/pricing/
 
-Published Time: Tue, 03 Nov 2026 13:05:06 GMT
+Published Time: Mon, 09 Nov 2026 12:53:54 GMT
 
 Markdown Content:
-[![Image 1: WorkBuddy](https://assets.workbuddy.cn/web/workbuddy/2d555459d623c206fdb8c6a492111abb97151910/assets/workbuddy-logo-WhgOvEF7.png)](https://www.workbuddy.cn/)
+[![Image 1: WorkBuddy](https://assets.workbuddy.cn/web/workbuddy/2adbe1ba8e33cfc5b0cb8a8a361ab6152c56acea/assets/workbuddy-logo-WhgOvEF7.png)](https://www.workbuddy.cn/)
 *   [首 页](https://www.workbuddy.cn/)
 *   [B u d d y O n e](https://www.workbuddy.cn/buddyone/)
 *   [定 价](https://www.workbuddy.cn/pricing/)
@@ -23,7 +23,7 @@ Markdown Content:
 
 登录
 
-![Image 2: WorkBuddy](https://assets.workbuddy.cn/web/workbuddy/2d555459d623c206fdb8c6a492111abb97151910/assets/workbuddy-logo-WhgOvEF7.png)
+![Image 2: WorkBuddy](https://assets.workbuddy.cn/web/workbuddy/2adbe1ba8e33cfc5b0cb8a8a361ab6152c56acea/assets/workbuddy-logo-WhgOvEF7.png)
 
 ×
 
@@ -53,7 +53,9 @@ Markdown Content:
 
 根据您的实际使用场景及用量，选择最合适的方案
 
-![Image 3](https://assets.workbuddy.cn/web/workbuddy/2d555459d623c206fdb8c6a492111abb97151910/assets/discount-B16rN_8C.png)**积分包购买全面开放！**200积分起，多档位按需选择，会员更享专属折扣。[限时加购](https://www.workbuddy.cn/pricing/#)
+![Image 3](https://openplatform-cdn.codebuddy.cn/operation-platform/assets/_general/8e049da638257f9b65a802069d863bbe80a3e1ae.png)**双11 限时特惠**
+
+开通会员最高加送 1,111 积分 + 100%抽好礼[前往参加](https://www.workbuddy.cn/events/double11/)
 
 个人 企业
 
@@ -69,16 +71,22 @@ Markdown Content:
 
 00/月
 
-免费试用
+免
 
-*   ![Image 4](https://assets.workbuddy.cn/web/workbuddy/2d555459d623c206fdb8c6a492111abb97151910/assets/workbuddy-pricing-feature-usage-Dl3A6XXA.svg)每月 500 积分
-*   ![Image 5](https://assets.workbuddy.cn/web/workbuddy/2d555459d623c206fdb8c6a492111abb97151910/assets/workbuddy-pricing-feature-model-Ce1HZNzA.svg)Auto模型调度（限免全模型）
-*   ![Image 6](https://assets.workbuddy.cn/web/workbuddy/2d555459d623c206fdb8c6a492111abb97151910/assets/workbuddy-pricing-feature-completion-dhdnPiHG.svg)5000次代码实时补全（限免无限次）
-*   ![Image 7](https://assets.workbuddy.cn/web/workbuddy/2d555459d623c206fdb8c6a492111abb97151910/assets/workbuddy-pricing-feature-task-BL3GoIBU.svg)3个自动任务（限免99个）
-*   ![Image 8](https://assets.workbuddy.cn/web/workbuddy/2d555459d623c206fdb8c6a492111abb97151910/assets/workbuddy-pricing-feature-project-D9_bKXDF.svg)创建5个项目
-*   ![Image 9](https://assets.workbuddy.cn/web/workbuddy/2d555459d623c206fdb8c6a492111abb97151910/assets/workbuddy-pricing-feature-collab-B7LKvhXL.svg)每项目3人协作（限免5人）
-*   ![Image 10](https://assets.workbuddy.cn/web/workbuddy/2d555459d623c206fdb8c6a492111abb97151910/assets/workbuddy-pricing-feature-usage-Dl3A6XXA.svg)5GB资料库容量
-*   ![Image 11](https://assets.workbuddy.cn/web/workbuddy/2d555459d623c206fdb8c6a492111abb97151910/assets/workbuddy-pricing-feature-usage-Dl3A6XXA.svg)可开启10个云服务应用
+费
+
+试
+
+用
+
+*   ![Image 4](https://assets.workbuddy.cn/web/workbuddy/2adbe1ba8e33cfc5b0cb8a8a361ab6152c56acea/assets/workbuddy-pricing-feature-usage-Dl3A6XXA.svg)每月 500 积分
+*   ![Image 5](https://assets.workbuddy.cn/web/workbuddy/2adbe1ba8e33cfc5b0cb8a8a361ab6152c56acea/assets/workbuddy-pricing-feature-model-Ce1HZNzA.svg)Auto模型调度（限免全模型）
+*   ![Image 6](https://assets.workbuddy.cn/web/workbuddy/2adbe1ba8e33cfc5b0cb8a8a361ab6152c56acea/assets/workbuddy-pricing-feature-completion-dhdnPiHG.svg)5000次代码实时补全（限免无限次）
+*   ![Image 7](https://assets.workbuddy.cn/web/workbuddy/2adbe1ba8e33cfc5b0cb8a8a361ab6152c56acea/assets/workbuddy-pricing-feature-task-BL3GoIBU.svg)3个自动任务（限免99个）
+*   ![Image 8](https://assets.workbuddy.cn/web/workbuddy/2adbe1ba8e33cfc5b0cb8a8a361ab6152c56acea/assets/workbuddy-pricing-feature-project-D9_bKXDF.svg)创建5个项目
+*   ![Image 9](https://assets.workbuddy.cn/web/workbuddy/2adbe1ba8e33cfc5b0cb8a8a361ab6152c56acea/assets/workbuddy-pricing-feature-collab-B7LKvhXL.svg)每项目3人协作（限免5人）
+*   ![Image 10](https://assets.workbuddy.cn/web/workbuddy/2adbe1ba8e33cfc5b0cb8a8a361ab6152c56acea/assets/workbuddy-pricing-feature-usage-Dl3A6XXA.svg)5GB资料库容量
+*   ![Image 11](https://assets.workbuddy.cn/web/workbuddy/2adbe1ba8e33cfc5b0cb8a8a361ab6152c56acea/assets/workbuddy-pricing-feature-usage-Dl3A6XXA.svg)可开启10个云服务应用
 
 部分功能限免生效中
 
@@ -90,17 +98,23 @@ Markdown Content:
 
 99/月
 
-立即购买
+立
 
-*   ![Image 12](https://assets.workbuddy.cn/web/workbuddy/2d555459d623c206fdb8c6a492111abb97151910/assets/workbuddy-pricing-feature-usage-Dl3A6XXA.svg)每月基础2,000积分
-*   ![Image 13](https://assets.workbuddy.cn/web/workbuddy/2d555459d623c206fdb8c6a492111abb97151910/assets/workbuddy-pricing-feature-gift-DQ5qhd1p.svg)每月赠送2,000积分
-*   ![Image 14](https://assets.workbuddy.cn/web/workbuddy/2d555459d623c206fdb8c6a492111abb97151910/assets/workbuddy-pricing-feature-model-Ce1HZNzA.svg)全部模型可选
-*   ![Image 15](https://assets.workbuddy.cn/web/workbuddy/2d555459d623c206fdb8c6a492111abb97151910/assets/workbuddy-pricing-feature-completion-dhdnPiHG.svg)无限次代码实时补全
-*   ![Image 16](https://assets.workbuddy.cn/web/workbuddy/2d555459d623c206fdb8c6a492111abb97151910/assets/workbuddy-pricing-feature-task-BL3GoIBU.svg)15个自动任务（限免99个）
-*   ![Image 17](https://assets.workbuddy.cn/web/workbuddy/2d555459d623c206fdb8c6a492111abb97151910/assets/workbuddy-pricing-feature-project-D9_bKXDF.svg)创建10个项目
-*   ![Image 18](https://assets.workbuddy.cn/web/workbuddy/2d555459d623c206fdb8c6a492111abb97151910/assets/workbuddy-pricing-feature-collab-B7LKvhXL.svg)每项目5人协作
-*   ![Image 19](https://assets.workbuddy.cn/web/workbuddy/2d555459d623c206fdb8c6a492111abb97151910/assets/workbuddy-pricing-feature-usage-Dl3A6XXA.svg)10GB资料库容量
-*   ![Image 20](https://assets.workbuddy.cn/web/workbuddy/2d555459d623c206fdb8c6a492111abb97151910/assets/workbuddy-pricing-feature-usage-Dl3A6XXA.svg)可开启30个云服务应用
+即
+
+购
+
+买
+
+*   ![Image 12](https://assets.workbuddy.cn/web/workbuddy/2adbe1ba8e33cfc5b0cb8a8a361ab6152c56acea/assets/workbuddy-pricing-feature-usage-Dl3A6XXA.svg)每月基础2,000积分
+*   ![Image 13](https://assets.workbuddy.cn/web/workbuddy/2adbe1ba8e33cfc5b0cb8a8a361ab6152c56acea/assets/workbuddy-pricing-feature-gift-DQ5qhd1p.svg)每月赠送2,000积分
+*   ![Image 14](https://assets.workbuddy.cn/web/workbuddy/2adbe1ba8e33cfc5b0cb8a8a361ab6152c56acea/assets/workbuddy-pricing-feature-model-Ce1HZNzA.svg)全部模型可选
+*   ![Image 15](https://assets.workbuddy.cn/web/workbuddy/2adbe1ba8e33cfc5b0cb8a8a361ab6152c56acea/assets/workbuddy-pricing-feature-completion-dhdnPiHG.svg)无限次代码实时补全
+*   ![Image 16](https://assets.workbuddy.cn/web/workbuddy/2adbe1ba8e33cfc5b0cb8a8a361ab6152c56acea/assets/workbuddy-pricing-feature-task-BL3GoIBU.svg)15个自动任务（限免99个）
+*   ![Image 17](https://assets.workbuddy.cn/web/workbuddy/2adbe1ba8e33cfc5b0cb8a8a361ab6152c56acea/assets/workbuddy-pricing-feature-project-D9_bKXDF.svg)创建10个项目
+*   ![Image 18](https://assets.workbuddy.cn/web/workbuddy/2adbe1ba8e33cfc5b0cb8a8a361ab6152c56acea/assets/workbuddy-pricing-feature-collab-B7LKvhXL.svg)每项目5人协作
+*   ![Image 19](https://assets.workbuddy.cn/web/workbuddy/2adbe1ba8e33cfc5b0cb8a8a361ab6152c56acea/assets/workbuddy-pricing-feature-usage-Dl3A6XXA.svg)10GB资料库容量
+*   ![Image 20](https://assets.workbuddy.cn/web/workbuddy/2adbe1ba8e33cfc5b0cb8a8a361ab6152c56acea/assets/workbuddy-pricing-feature-usage-Dl3A6XXA.svg)可开启30个云服务应用
 
 部分功能限免生效中
 
@@ -112,17 +126,23 @@ Markdown Content:
 
 199/月
 
-立即购买
+立
 
-*   ![Image 21](https://assets.workbuddy.cn/web/workbuddy/2d555459d623c206fdb8c6a492111abb97151910/assets/workbuddy-pricing-feature-usage-Dl3A6XXA.svg)每月基础4,000积分
-*   ![Image 22](https://assets.workbuddy.cn/web/workbuddy/2d555459d623c206fdb8c6a492111abb97151910/assets/workbuddy-pricing-feature-gift-DQ5qhd1p.svg)每月赠送5,000积分
-*   ![Image 23](https://assets.workbuddy.cn/web/workbuddy/2d555459d623c206fdb8c6a492111abb97151910/assets/workbuddy-pricing-feature-model-Ce1HZNzA.svg)全部模型可选
-*   ![Image 24](https://assets.workbuddy.cn/web/workbuddy/2d555459d623c206fdb8c6a492111abb97151910/assets/workbuddy-pricing-feature-completion-dhdnPiHG.svg)无限次代码实时补全
-*   ![Image 25](https://assets.workbuddy.cn/web/workbuddy/2d555459d623c206fdb8c6a492111abb97151910/assets/workbuddy-pricing-feature-task-BL3GoIBU.svg)30个自动任务（限免99个）
-*   ![Image 26](https://assets.workbuddy.cn/web/workbuddy/2d555459d623c206fdb8c6a492111abb97151910/assets/workbuddy-pricing-feature-project-D9_bKXDF.svg)创建15个项目
-*   ![Image 27](https://assets.workbuddy.cn/web/workbuddy/2d555459d623c206fdb8c6a492111abb97151910/assets/workbuddy-pricing-feature-collab-B7LKvhXL.svg)每项目8人协作
-*   ![Image 28](https://assets.workbuddy.cn/web/workbuddy/2d555459d623c206fdb8c6a492111abb97151910/assets/workbuddy-pricing-feature-usage-Dl3A6XXA.svg)20GB资料库容量
-*   ![Image 29](https://assets.workbuddy.cn/web/workbuddy/2d555459d623c206fdb8c6a492111abb97151910/assets/workbuddy-pricing-feature-usage-Dl3A6XXA.svg)可开启50个云服务应用
+即
+
+购
+
+买
+
+*   ![Image 21](https://assets.workbuddy.cn/web/workbuddy/2adbe1ba8e33cfc5b0cb8a8a361ab6152c56acea/assets/workbuddy-pricing-feature-usage-Dl3A6XXA.svg)每月基础4,000积分
+*   ![Image 22](https://assets.workbuddy.cn/web/workbuddy/2adbe1ba8e33cfc5b0cb8a8a361ab6152c56acea/assets/workbuddy-pricing-feature-gift-DQ5qhd1p.svg)每月赠送5,000积分
+*   ![Image 23](https://assets.workbuddy.cn/web/workbuddy/2adbe1ba8e33cfc5b0cb8a8a361ab6152c56acea/assets/workbuddy-pricing-feature-model-Ce1HZNzA.svg)全部模型可选
+*   ![Image 24](https://assets.workbuddy.cn/web/workbuddy/2adbe1ba8e33cfc5b0cb8a8a361ab6152c56acea/assets/workbuddy-pricing-feature-completion-dhdnPiHG.svg)无限次代码实时补全
+*   ![Image 25](https://assets.workbuddy.cn/web/workbuddy/2adbe1ba8e33cfc5b0cb8a8a361ab6152c56acea/assets/workbuddy-pricing-feature-task-BL3GoIBU.svg)30个自动任务（限免99个）
+*   ![Image 26](https://assets.workbuddy.cn/web/workbuddy/2adbe1ba8e33cfc5b0cb8a8a361ab6152c56acea/assets/workbuddy-pricing-feature-project-D9_bKXDF.svg)创建15个项目
+*   ![Image 27](https://assets.workbuddy.cn/web/workbuddy/2adbe1ba8e33cfc5b0cb8a8a361ab6152c56acea/assets/workbuddy-pricing-feature-collab-B7LKvhXL.svg)每项目8人协作
+*   ![Image 28](https://assets.workbuddy.cn/web/workbuddy/2adbe1ba8e33cfc5b0cb8a8a361ab6152c56acea/assets/workbuddy-pricing-feature-usage-Dl3A6XXA.svg)20GB资料库容量
+*   ![Image 29](https://assets.workbuddy.cn/web/workbuddy/2adbe1ba8e33cfc5b0cb8a8a361ab6152c56acea/assets/workbuddy-pricing-feature-usage-Dl3A6XXA.svg)可开启50个云服务应用
 
 部分功能限免生效中
 
@@ -134,9 +154,15 @@ Buddy One VIP
 
 ￥ 700/月~~1399/月~~
 
-立即购买
+立
 
-*   ![Image 30](https://assets.workbuddy.cn/web/workbuddy/2d555459d623c206fdb8c6a492111abb97151910/assets/workbuddy-6cfREMoc.png)WorkBuddy 旗舰版
+即
+
+购
+
+买
+
+*   ![Image 30](https://assets.workbuddy.cn/web/workbuddy/2adbe1ba8e33cfc5b0cb8a8a361ab6152c56acea/assets/workbuddy-6cfREMoc.png)WorkBuddy 旗舰版
     *   每月基础 **20,000** 积分
     *   每月赠送 **30,000** 积分
     *   全部模型支持
@@ -147,11 +173,11 @@ Buddy One VIP
     *   可开启 99 个云服务应用
     *   单应用可用 150000 云服务资源点
 
-*   ![Image 31](https://assets.workbuddy.cn/web/workbuddy/2d555459d623c206fdb8c6a492111abb97151910/assets/storage-D0wEGKx1.png)1TB 存储容量
-*   ![Image 32](https://assets.workbuddy.cn/web/workbuddy/2d555459d623c206fdb8c6a492111abb97151910/assets/meeting-DwMBBD1U.png)腾讯会议专业版
-*   ![Image 33](https://assets.workbuddy.cn/web/workbuddy/2d555459d623c206fdb8c6a492111abb97151910/assets/docs-BYpdq73s.png)腾讯文档超级会员Plus
-*   ![Image 34](https://assets.workbuddy.cn/web/workbuddy/2d555459d623c206fdb8c6a492111abb97151910/assets/ima-llsHTodL.png)ima：共享积分和存储容量
-*   ![Image 35](https://assets.workbuddy.cn/web/workbuddy/2d555459d623c206fdb8c6a492111abb97151910/assets/drive-DvRU6NMS.png)腾讯网盘：共享积分和存储容量
+*   ![Image 31](https://assets.workbuddy.cn/web/workbuddy/2adbe1ba8e33cfc5b0cb8a8a361ab6152c56acea/assets/storage-D0wEGKx1.png)1TB 存储容量
+*   ![Image 32](https://assets.workbuddy.cn/web/workbuddy/2adbe1ba8e33cfc5b0cb8a8a361ab6152c56acea/assets/meeting-DwMBBD1U.png)腾讯会议专业版
+*   ![Image 33](https://assets.workbuddy.cn/web/workbuddy/2adbe1ba8e33cfc5b0cb8a8a361ab6152c56acea/assets/docs-BYpdq73s.png)腾讯文档超级会员Plus
+*   ![Image 34](https://assets.workbuddy.cn/web/workbuddy/2adbe1ba8e33cfc5b0cb8a8a361ab6152c56acea/assets/ima-llsHTodL.png)ima：共享积分和存储容量
+*   ![Image 35](https://assets.workbuddy.cn/web/workbuddy/2adbe1ba8e33cfc5b0cb8a8a361ab6152c56acea/assets/drive-DvRU6NMS.png)腾讯网盘：共享积分和存储容量
 
 [了解更多](https://www.workbuddy.cn/buddyone/)
 
@@ -219,7 +245,7 @@ WorkBuddy 个人版套餐支持哪些购买方式？
 
 可向 [workbuddy@tencent.com](mailto:workbuddy@tencent.com) 发送邮件咨询，我们将在 1-2 个工作日内回复。紧急问题可在对应产品内「帮助与反馈」提交，会优先处理。更多联系方式可前往 [联系我们](https://www.workbuddy.cn/docs/workbuddy/Contact) 查看。
 
-![Image 36: WorkBuddy](https://assets.workbuddy.cn/web/workbuddy/2d555459d623c206fdb8c6a492111abb97151910/assets/footer-logo-D5N2VTHa.svg)
+![Image 36: WorkBuddy](https://assets.workbuddy.cn/web/workbuddy/2adbe1ba8e33cfc5b0cb8a8a361ab6152c56acea/assets/footer-logo-D5N2VTHa.svg)
 WorkBuddy 是全能 AI 工作台，一人指挥，全行业专家执行，从需求到交付一站搞定。
 
 ### 服务条款
@@ -244,5 +270,5 @@ WorkBuddy 是全能 AI 工作台，一人指挥，全行业专家执行，从需
 
 版权 © 2026 腾讯云计算（北京）有限责任公司 | 腾讯科技（深圳）有限公司 版权所有[粤公网安备44030002013835号](https://beian.mps.gov.cn/#/query/webSearch?code=44030002013835) | [粤B2-20090059](https://beian.miit.gov.cn/) | 联系电话：4009 100 100 深圳市南山区粤海街道麻岭社区科技中一路腾讯大厦35层
 
-![Image 37](https://assets.workbuddy.cn/web/workbuddy/2d555459d623c206fdb8c6a492111abb97151910/assets/footer-wordmark-DVnlPuEc.svg)![Image 38](https://assets.workbuddy.cn/web/workbuddy/2d555459d623c206fdb8c6a492111abb97151910/assets/footer-wordmark-DVnlPuEc.svg)![Image 39](https://assets.workbuddy.cn/web/workbuddy/2d555459d623c206fdb8c6a492111abb97151910/assets/footer-wordmark-DVnlPuEc.svg)![Image 40](https://assets.workbuddy.cn/web/workbuddy/2d555459d623c206fdb8c6a492111abb97151910/assets/footer-wordmark-DVnlPuEc.svg)![Image 41](https://assets.workbuddy.cn/web/workbuddy/2d555459d623c206fdb8c6a492111abb97151910/assets/footer-wordmark-DVnlPuEc.svg)![Image 42](https://assets.workbuddy.cn/web/workbuddy/2d555459d623c206fdb8c6a492111abb97151910/assets/footer-wordmark-DVnlPuEc.svg)![Image 43](https://assets.workbuddy.cn/web/workbuddy/2d555459d623c206fdb8c6a492111abb97151910/assets/footer-wordmark-DVnlPuEc.svg)![Image 44](https://assets.workbuddy.cn/web/workbuddy/2d555459d623c206fdb8c6a492111abb97151910/assets/footer-wordmark-DVnlPuEc.svg)![Image 45](https://assets.workbuddy.cn/web/workbuddy/2d555459d623c206fdb8c6a492111abb97151910/assets/footer-wordmark-DVnlPuEc.svg)![Image 46](https://assets.workbuddy.cn/web/workbuddy/2d555459d623c206fdb8c6a492111abb97151910/assets/footer-wordmark-DVnlPuEc.svg)
+![Image 37](https://assets.workbuddy.cn/web/workbuddy/2adbe1ba8e33cfc5b0cb8a8a361ab6152c56acea/assets/footer-wordmark-DVnlPuEc.svg)![Image 38](https://assets.workbuddy.cn/web/workbuddy/2adbe1ba8e33cfc5b0cb8a8a361ab6152c56acea/assets/footer-wordmark-DVnlPuEc.svg)![Image 39](https://assets.workbuddy.cn/web/workbuddy/2adbe1ba8e33cfc5b0cb8a8a361ab6152c56acea/assets/footer-wordmark-DVnlPuEc.svg)![Image 40](https://assets.workbuddy.cn/web/workbuddy/2adbe1ba8e33cfc5b0cb8a8a361ab6152c56acea/assets/footer-wordmark-DVnlPuEc.svg)![Image 41](https://assets.workbuddy.cn/web/workbuddy/2adbe1ba8e33cfc5b0cb8a8a361ab6152c56acea/assets/footer-wordmark-DVnlPuEc.svg)![Image 42](https://assets.workbuddy.cn/web/workbuddy/2adbe1ba8e33cfc5b0cb8a8a361ab6152c56acea/assets/footer-wordmark-DVnlPuEc.svg)![Image 43](https://assets.workbuddy.cn/web/workbuddy/2adbe1ba8e33cfc5b0cb8a8a361ab6152c56acea/assets/footer-wordmark-DVnlPuEc.svg)![Image 44](https://assets.workbuddy.cn/web/workbuddy/2adbe1ba8e33cfc5b0cb8a8a361ab6152c56acea/assets/footer-wordmark-DVnlPuEc.svg)![Image 45](https://assets.workbuddy.cn/web/workbuddy/2adbe1ba8e33cfc5b0cb8a8a361ab6152c56acea/assets/footer-wordmark-DVnlPuEc.svg)![Image 46](https://assets.workbuddy.cn/web/workbuddy/2adbe1ba8e33cfc5b0cb8a8a361ab6152c56acea/assets/footer-wordmark-DVnlPuEc.svg)
 

@@ -1,4 +1,4 @@
-<!-- https://docs.trae.cn/ide_plans-and-billing fetched 2026-11-08T20:24:42.375Z -->
+<!-- https://docs.trae.cn/ide_plans-and-billing fetched 2026-11-10T00:11:00.768Z -->
 Title: 套餐与计费
 
 URL Source: https://docs.trae.cn/ide_plans-and-billing
@@ -27,6 +27,10 @@ TRAE IDE 里最热门的 Skill 是哪些？
 文档反馈
 
 [TRAE 概览](https://docs.trae.cn/ide_trae-overview)
+
+[全年最低价！会员年卡全部直接 7 折！](https://docs.trae.cn/ide_discount-on-trae-paid-subscription)
+
+[会员续享个人助理 TRAE 宝限免一周！](https://docs.trae.cn/ide_use-trae-bao-for-free-with-no-credits-required)
 
 [重要通知：TRAE 账号体系融合升级](https://docs.trae.cn/ide_important-notice-for-trae-account-upgrade-and-integration)
 

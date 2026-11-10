@@ -1,6 +1,15 @@
 {
   "history": [
     {
+      "at": "2026-11-10T00:10:49.534Z",
+      "atBeijing": "2026-11-10 08:10:49",
+      "status": "ok",
+      "ok": 5,
+      "noNumber": 8,
+      "failed": 0,
+      "changes": []
+    },
+    {
       "at": "2026-11-08T20:24:24.443Z",
       "atBeijing": "2026-11-09 04:24:24",
       "status": "ok",
@@ -685,25 +694,11 @@
           "message": "小浣熊：官方页面额度说明有变化"
         }
       ]
-    },
-    {
-      "at": "2026-09-10T19:05:56.480Z",
-      "atBeijing": "2026-09-11 03:05:56",
-      "status": "ok",
-      "ok": 7,
-      "noNumber": 5,
-      "failed": 1,
-      "changes": [
-        {
-          "kind": "failed",
-          "message": "AutoClaw（澳龙）：官方页面抓取失败（direct: fetch failed (ENOTFOUND) / direct-browser-ua: fetch failed (ENOTFOUND) / reader: HTTP 422 / archive: no archived copy）"
-        }
-      ]
     }
   ],
-  "lastSyncAt": "2026-11-08T20:24:24.443Z",
-  "lastSyncAtBeijing": "2026-11-09 04:26:55",
-  "lastSuccessAt": "2026-11-08T20:24:24.443Z",
+  "lastSyncAt": "2026-11-10T00:10:49.534Z",
+  "lastSyncAtBeijing": "2026-11-10 08:13:00",
+  "lastSuccessAt": "2026-11-10T00:10:49.534Z",
   "status": "ok",
   "counts": {
     "ok": 5,
