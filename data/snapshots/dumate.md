@@ -1,4 +1,4 @@
-<!-- https://cloud.baidu.com/doc/Dumate/s/nmnevrk0l fetched 2026-11-10T00:12:02.766Z -->
+<!-- https://cloud.baidu.com/doc/Dumate/s/nmnevrk0l fetched 2026-11-10T21:47:49.856Z -->
 Title: 计费说明 - DuMate
 
 URL Source: https://cloud.baidu.com/doc/Dumate/s/nmnevrk0l
@@ -55,7 +55,7 @@ Markdown Content:
 
 ### 新手专享
 
-#### [新客限时体验 企业数字员工9.9元](https://cloud.baidu.com/campaign/experience/index.html?track=7a93f4f0f151fa2b0bbb85efd79fbb73848656d239cc0bcd#company-xiling)#### [企业专享权益 权益礼包至高可减6000元](https://cloud.baidu.com/campaign/event/enterprise/index.html?track=9579c39d8dccc16cd913551579854f61cc67163293a4953c)#### [云推广大使限时招募中 推荐新客下单返利 最高8万元](https://cloud.baidu.com/campaign/ambassador/index.html?track=2d4d0884a3594cde1eeb16dab190ff9002836cde0c353504)#### [免费大模型课程 入门到进阶，大模型系列课程一站观看](https://cloud.baidu.com/partner/course-center/index.html?type=all&domain=%E7%99%BE%E5%BA%A6%E6%99%BA%E8%83%BD%E4%BA%91%E5%8D%83%E5%B8%86AI%E5%8A%A0%E9%80%9F%E5%99%A8&product=all)
+#### [新客限时体验 企业数字员工9.9元](https://cloud.baidu.com/campaign/experience/index.html?track=7a93f4f0f151fa2b0bbb85efd79fbb73848656d239cc0bcd#company-xiling)#### [企业专享权益 权益礼包至高可减6000元](https://cloud.baidu.com/campaign/event/enterprise/index.html?track=9579c39d8dccc16cd913551579854f61cc67163293a4953c)#### [云推广大使限时招募中 推荐新客下单返利 最高8万元](https://cloud.baidu.com/campaign/ambassador/index.html?track=2d4d0884a3594cde1eeb16dab190ff9002836cde0c353504)#### [免费大模型课程 入门到进阶，大模型系列课程一站观看](https://cloud.baidu.com/partner/course-center/index.html?type=all&domain=%E7%99%BE%E5%BA%A6%E6%99%BA%E8%83%BD%E4%BA%91%E5%8D%83%E5%B8%86AI%E5%8A%A0%E9%80%9F%E5%99%A8&product=all)#### [上云场景组合购 覆盖90%＋业务场景，组合购实惠](https://cloud.baidu.com/campaign/event/cross-shopping/index.html?track=9f64acdb7da402559de4fc57c5621b8837cb35d5cac66485)
 
 ### 企服推荐
 
@@ -424,8 +424,4 @@ Markdown Content:
 *   了解百度搭子
     *   [什么是百度搭子个人版](https://cloud.baidu.com/doc/Dumate/s/xmmu7qrvo)
     *   [什么是百度搭子企业版](https://cloud.baidu.com/doc/Dumate/s/1mqhh87s3)
-    *   [个人版vs企业版](https://cloud.baidu.com/doc/Dumate/s/smqi07a9i)
-    *   [什么是百度搭子生态开放平台](https://cloud.baidu.com/doc/Dumate/s/fmtv6kp0x)
-
-*   更新动态
-    * 
+   
