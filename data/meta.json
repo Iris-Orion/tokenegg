@@ -1,6 +1,15 @@
 {
   "history": [
     {
+      "at": "2026-11-11T22:38:04.791Z",
+      "atBeijing": "2026-11-12 06:38:04",
+      "status": "ok",
+      "ok": 5,
+      "noNumber": 8,
+      "failed": 0,
+      "changes": []
+    },
+    {
       "at": "2026-11-10T21:46:33.420Z",
       "atBeijing": "2026-11-11 05:46:33",
       "status": "ok",
@@ -675,25 +684,11 @@
       "noNumber": 6,
       "failed": 0,
       "changes": []
-    },
-    {
-      "at": "2026-09-12T18:18:54.683Z",
-      "atBeijing": "2026-09-13 02:18:54",
-      "status": "ok",
-      "ok": 7,
-      "noNumber": 6,
-      "failed": 0,
-      "changes": [
-        {
-          "kind": "snippet",
-          "message": "小浣熊：官方页面额度说明有变化"
-        }
-      ]
     }
   ],
-  "lastSyncAt": "2026-11-10T21:46:33.420Z",
-  "lastSyncAtBeijing": "2026-11-11 05:48:40",
-  "lastSuccessAt": "2026-11-10T21:46:33.420Z",
+  "lastSyncAt": "2026-11-11T22:38:04.791Z",
+  "lastSyncAtBeijing": "2026-11-12 06:39:48",
+  "lastSuccessAt": "2026-11-11T22:38:04.791Z",
   "status": "ok",
   "counts": {
     "ok": 5,

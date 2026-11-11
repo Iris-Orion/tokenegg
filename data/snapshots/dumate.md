@@ -1,4 +1,4 @@
-<!-- https://cloud.baidu.com/doc/Dumate/s/nmnevrk0l fetched 2026-11-10T21:47:49.856Z -->
+<!-- https://cloud.baidu.com/doc/Dumate/s/nmnevrk0l fetched 2026-11-11T22:39:01.357Z -->
 Title: 计费说明 - DuMate
 
 URL Source: https://cloud.baidu.com/doc/Dumate/s/nmnevrk0l
@@ -51,7 +51,7 @@ Markdown Content:
 
 ### 精选活动
 
-#### [云服务器品类特惠 云服务器2核4G低至39元/年](https://cloud.baidu.com/campaign/renew/index.html?track=9f64acdb7da402559de4fc57c5621b88bd70f64f1ac6f9a8)#### [AI大模型普惠权益 Token Plan 首购五折 4.9 元起](https://cloud.baidu.com/product/ai_benefit.html)#### [免费试用体验馆 注册并完成实名认证，立即体验热门产品](https://cloud.baidu.com/campaign/event/free/index.html?track=e84ebfbb98903592f04636037b86f1f81cf768003ccd85cb)#### [人工智能热销榜 新购1元，AI能力引擎量包低至75折](https://cloud.baidu.com/campaign/event/ai/index.html?track=f9c8bf124e57f10958a3d43b1d20c69e74cf51f159ab649a)#### [大模型增值服务上新 工信部教考中心大模型证书6折](https://cloud.baidu.com/campaign/event/qianfan/index.html?track=f9c8bf124e57f10958a3d43b1d20c69ec0996058a5194b52)
+#### [云服务器品类特惠 云服务器2核4G低至39元/年](https://cloud.baidu.com/campaign/renew/index.html?track=9f64acdb7da402559de4fc57c5621b88bd70f64f1ac6f9a8)#### [AI大模型普惠权益 Token Plan 首购五折 4.9 元起](https://cloud.baidu.com/product/ai_benefit.html)#### [AI开放能力专场 文字识别1元起，免费体验多种AI能力](https://cloud.baidu.com/product/ai_engine_benefit.html)#### [免费试用体验馆 注册并完成实名认证，立即体验热门产品](https://cloud.baidu.com/campaign/event/free/index.html?track=e84ebfbb98903592f04636037b86f1f81cf768003ccd85cb)#### [人工智能热销榜 新购1元，AI能力引擎量包低至75折](https://cloud.baidu.com/campaign/event/ai/index.html?track=f9c8bf124e57f10958a3d43b1d20c69e74cf51f159ab649a)#### [大模型增值服务上新 工信部教考中心大模型证书6折](https://cloud.baidu.com/campaign/event/qianfan/index.html?track=f9c8bf124e57f10958a3d43b1d20c69ec0996058a5194b52)
 
 ### 新手专享
 
@@ -75,13 +75,13 @@ Markdown Content:
 
 ### AI能力
 
-*   #### [AI体验中心 提供一站式、开箱即用的AI服务](https://cloud.baidu.com/experience/experience-square)
+*   #### [百度智能云 Skills 让你的 Agent 轻松连接百度智能云](https://cloud.baidu.com/skill/index.html)
 
 ## 大模型
 
 ### [文心大模型](https://cloud.baidu.com/product/model.html)
 
-*   #### [ERNIE 5.1 搜索能力登顶国内，预训练成本仅为业界6%](https://console.bce.baidu.com/qianfan/modelcenter/model/buildIn/detail/am-d94f2a76cccd)
+*   #### [ERNIE 5.5 全面优化了编程、智能体、知识工作、深度研究等方面能力](https://console.bce.baidu.com/qianfan/modelcenter/model/buildIn/detail/am-abe18d298d70)
 *   #### [DeepSeek-V4 结构创新和超高上下文效率、Agent 能力得到专项优化](https://console.bce.baidu.com/qianfan/modelcenter/model/buildIn/detail/am-ef6aeca66ed0)
 *   #### [Qianfan-OCR-Parser-Standard 面向企业办公与知识库场景的结构化文档解析服务：支持 PDF、Word、Excel、图片等 18 种主流格式](https://console.bce.baidu.com/qianfan/modelcenter/model/buildIn/detail/am-c70711ff91f2)
 *   #### [Qianfan-Parser-PaddleOCR-VL 基于 PaddleOCR-VL 1.6 多模态大模型的企业级文档解析服务：端到端识别印刷/手写文本、复杂表格、公式、统计图表与印章等全要素](https://console.bce.baidu.com/qianfan/modelcenter/model/buildIn/detail/am-452cbca4c8bb)
@@ -422,6 +422,4 @@ Markdown Content:
 ## 百度搭子
 
 *   了解百度搭子
-    *   [什么是百度搭子个人版](https://cloud.baidu.com/doc/Dumate/s/xmmu7qrvo)
-    *   [什么是百度搭子企业版](https://cloud.baidu.com/doc/Dumate/s/1mqhh87s3)
-   
+    *   [什么是百度搭子个人版](https://cloud.baidu.com/do
