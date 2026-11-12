@@ -1,4 +1,4 @@
-<!-- https://docs.trae.cn/ide_plans-and-billing fetched 2026-11-11T22:38:18.660Z -->
+<!-- https://docs.trae.cn/ide_plans-and-billing fetched 2026-11-12T22:12:24.928Z -->
 Title: 套餐与计费
 
 URL Source: https://docs.trae.cn/ide_plans-and-billing
@@ -193,11 +193,13 @@ TRAE 提供多档付费会员套餐。各档套餐的价格和权益如下，你
 
 ![Image 2: Image](https://p9-arcosite.byteimg.com/tos-cn-i-goo7wpa0wc/d56edf4c693743f481fc8174a4841f83~tplv-goo7wpa0wc-topic.webp)
 
+更新时间:2026-10-26 02:30
+
 文档对您有帮助吗?
 
 有帮助 无帮助
 
-[上一篇 自动运行 & 安全性](https://docs.trae.cn/ide_auto-run-and-security)[下一篇 订阅管理](https://docs.trae.cn/ide_subscription-management)
+[上一篇 目录信任 & 自动运行](https://docs.trae.cn/ide_auto-run-and-security)[下一篇 订阅管理](https://docs.trae.cn/ide_subscription-management)
 
 [积分类型](https://docs.trae.cn/ide_plans-and-billing#hVOIBMTsK "积分类型")
 
