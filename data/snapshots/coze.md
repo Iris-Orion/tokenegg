@@ -1,4 +1,4 @@
-<!-- https://docs.coze.cn/coze_pro_credits fetched 2026-11-12T22:12:39.948Z -->
+<!-- https://docs.coze.cn/coze_pro_credits fetched 2026-11-13T21:56:30.097Z -->
 Title: 积分
 
 URL Source: https://docs.coze.cn/coze_pro_credits
@@ -288,4 +288,10 @@ Helpful Not helpful
 [查看积分到期时间](https://docs.coze.cn/coze_pro_credits#d2fc049e "查看积分到期时间")
 
 [常见问题](https://docs.coze.cn/coze_pro_credits#73076628 "常见问题")
+
+X
+
+100%
+
+![Image 6](https://docs.coze.cn/coze_pro_credits)
 

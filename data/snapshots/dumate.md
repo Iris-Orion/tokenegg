@@ -1,4 +1,4 @@
-<!-- https://cloud.baidu.com/doc/Dumate/s/nmnevrk0l fetched 2026-11-12T22:13:19.639Z -->
+<!-- https://cloud.baidu.com/doc/Dumate/s/nmnevrk0l fetched 2026-11-13T21:57:10.371Z -->
 Title: 计费说明 - DuMate
 
 URL Source: https://cloud.baidu.com/doc/Dumate/s/nmnevrk0l
@@ -200,9 +200,9 @@ Markdown Content:
 *   #### [百度千帆·大模型服务及Agent开发平台 以Agent为核心的一站式企业级大模型服务平台](https://cloud.baidu.com/product-s/qianfan_home)
 *   #### [百度胜算·数据智能平台 基于业务本体驱动的企业数据智能平台](https://cloud.baidu.com/product/databuilder)
 *   #### [百度伐谋公有云 全球领先的可商用自我演化超级智能体](https://cloud.baidu.com/product/famou.html)
-*   #### [Hogee数字员工平台 企业一站式AI营销应用](https://cloud.baidu.com/product/hogee.html)
+*   #### [词元所 海量模型，可信供应](https://cloud.baidu.com/product-s/token_exchange.html)
 *   #### [百度一见视觉智能体平台 云边协同、自主进化的视觉智能体平台](https://cloud.baidu.com/product-s/yijian_home)
-*   #### [秒哒公有云 无代码应用搭建平台](https://www.miaoda.cn/)
+*   #### [GEO 检测 监测你的品牌是否被 AI 看见和推荐](https://cloud.baidu.com/experience/geo-check)
 
 [全部解决方案](https://cloud.baidu.com/solution/solution_home/overview)
 
@@ -415,10 +415,4 @@ Markdown Content:
 
 搜索本产品文档关键词
 
-[立即试用](https://cloud.baidu.com/)
-
-计费说明
-
-## 百度搭子
-
-
+[立即试用](https://c
