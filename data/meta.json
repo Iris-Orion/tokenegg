@@ -1,6 +1,15 @@
 {
   "history": [
     {
+      "at": "2026-11-14T20:39:06.298Z",
+      "atBeijing": "2026-11-15 04:39:06",
+      "status": "ok",
+      "ok": 4,
+      "noNumber": 9,
+      "failed": 0,
+      "changes": []
+    },
+    {
       "at": "2026-11-13T21:55:45.199Z",
       "atBeijing": "2026-11-14 05:55:45",
       "status": "ok",
@@ -688,20 +697,11 @@
           "message": "MiniMax Code：官方页面额度说明有变化"
         }
       ]
-    },
-    {
-      "at": "2026-09-15T19:40:12.709Z",
-      "atBeijing": "2026-09-16 03:40:12",
-      "status": "ok",
-      "ok": 7,
-      "noNumber": 6,
-      "failed": 0,
-      "changes": []
     }
   ],
-  "lastSyncAt": "2026-11-13T21:55:45.199Z",
-  "lastSyncAtBeijing": "2026-11-14 05:57:59",
-  "lastSuccessAt": "2026-11-13T21:55:45.199Z",
+  "lastSyncAt": "2026-11-14T20:39:06.298Z",
+  "lastSyncAtBeijing": "2026-11-15 04:41:07",
+  "lastSuccessAt": "2026-11-14T20:39:06.298Z",
   "status": "ok",
   "counts": {
     "ok": 4,
