@@ -1,6 +1,15 @@
 {
   "history": [
     {
+      "at": "2026-11-15T20:58:51.335Z",
+      "atBeijing": "2026-11-16 04:58:51",
+      "status": "ok",
+      "ok": 4,
+      "noNumber": 9,
+      "failed": 0,
+      "changes": []
+    },
+    {
       "at": "2026-11-14T20:39:06.298Z",
       "atBeijing": "2026-11-15 04:39:06",
       "status": "ok",
@@ -683,25 +692,11 @@
           "message": "CNB 云原生构建：官方页面不再写明数字，沿用上次的 500 credits / 月"
         }
       ]
-    },
-    {
-      "at": "2026-09-16T19:30:49.929Z",
-      "atBeijing": "2026-09-17 03:30:49",
-      "status": "ok",
-      "ok": 7,
-      "noNumber": 6,
-      "failed": 0,
-      "changes": [
-        {
-          "kind": "snippet",
-          "message": "MiniMax Code：官方页面额度说明有变化"
-        }
-      ]
     }
   ],
-  "lastSyncAt": "2026-11-14T20:39:06.298Z",
-  "lastSyncAtBeijing": "2026-11-15 04:41:07",
-  "lastSuccessAt": "2026-11-14T20:39:06.298Z",
+  "lastSyncAt": "2026-11-15T20:58:51.335Z",
+  "lastSyncAtBeijing": "2026-11-16 05:01:32",
+  "lastSuccessAt": "2026-11-15T20:58:51.335Z",
   "status": "ok",
   "counts": {
     "ok": 4,
