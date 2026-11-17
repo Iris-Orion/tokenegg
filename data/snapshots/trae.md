@@ -1,4 +1,4 @@
-<!-- https://docs.trae.cn/ide_plans-and-billing fetched 2026-11-15T20:59:04.509Z -->
+<!-- https://docs.trae.cn/ide_plans-and-billing fetched 2026-11-17T00:10:31.575Z -->
 Title: 套餐与计费
 
 URL Source: https://docs.trae.cn/ide_plans-and-billing
@@ -123,7 +123,7 @@ TRAE 提供多档付费会员套餐。各档套餐的价格和权益如下，你
  免费用户可以通过以下途径获得积分。 | **途径** | **积分数量** | **有效期** |
 | --- | --- | --- |
 | 每月登录赠送 | 500 积分。 | 当前自然月 |
-| 新用户注册福利 | 一次性赠送 2000 积分。 | 31 个自然日 |
+| 新用户注册福利 | 一次性赠送 1500 积分。 | 31 个自然日 |
 | 每日签到 | 每天 100 积分。 | 31 个自然日 |
 | 邀请新用户 | 每成功邀请一人，邀请人和被邀请人各获得 500 积分。 | 31 个自然日 | 
 *   **会员用户**  
@@ -183,17 +183,13 @@ TRAE 提供多档付费会员套餐。各档套餐的价格和权益如下，你
 
 ## 常见问题
 
-### **原 “优速通 Express” 用户如何处理？**
-
-如果原 “优速通 Express” 套餐仍在有效期内，系统会自动将其切换为新的 “会员 Express” 套餐。该套餐不再开放购买，并将在所有存量套餐到期后下架。
-
 ### 如何签到领积分？
 
 在 TRAE，点击你的头像，然后点击菜单中的 **签到** 按钮，即可完成签到，获得积分。
 
 ![Image 2: Image](https://p9-arcosite.byteimg.com/tos-cn-i-goo7wpa0wc/d56edf4c693743f481fc8174a4841f83~tplv-goo7wpa0wc-topic.webp)
 
-更新时间:2026-10-26 02:30
+更新时间:2026-11-16 13:01
 
 文档对您有帮助吗?
 
@@ -228,8 +224,6 @@ TRAE 提供多档付费会员套餐。各档套餐的价格和权益如下，你
 [订阅链接](https://docs.trae.cn/ide_plans-and-billing#hnTYRd5rS "订阅链接")
 
 [常见问题](https://docs.trae.cn/ide_plans-and-billing#hRhfOYQWS "常见问题")
-
-[原 “优速通 Express” 用户如何处理？](https://docs.trae.cn/ide_plans-and-billing#hV6chwSJ5 "原 “优速通 Express” 用户如何处理？")
 
 [如何签到领积分？](https://docs.trae.cn/ide_plans-and-billing#hxcRQybwg "如何签到领积分？")
 
