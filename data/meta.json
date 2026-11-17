@@ -1,6 +1,44 @@
 {
   "history": [
     {
+      "at": "2026-11-17T23:27:57.734Z",
+      "atBeijing": "2026-11-18 07:27:57",
+      "status": "ok",
+      "ok": 3,
+      "noNumber": 9,
+      "failed": 1,
+      "changes": [
+        {
+          "kind": "snippet",
+          "message": "Trae：官方页面额度说明有变化"
+        },
+        {
+          "kind": "snippet",
+          "message": "MiniMax Code：官方页面额度说明有变化"
+        },
+        {
+          "kind": "failed",
+          "message": "WorkBuddy：官方页面抓取失败（reader: HTTP 401 / direct: page too short / direct-browser-ua: page too short / archive: no archived copy）"
+        },
+        {
+          "kind": "snippet",
+          "message": "DuMate（搭子）：官方页面额度说明有变化"
+        },
+        {
+          "kind": "snippet",
+          "message": "JoyCode：官方页面额度说明有变化"
+        },
+        {
+          "kind": "snippet",
+          "message": "CNB 云原生构建：官方页面额度说明有变化"
+        },
+        {
+          "kind": "quota",
+          "message": "CNB 云原生构建：官方页面不再写明数字，沿用上次的 500 credits / 月"
+        }
+      ]
+    },
+    {
       "at": "2026-11-17T00:10:20.076Z",
       "atBeijing": "2026-11-17 08:10:20",
       "status": "ok",
@@ -613,58 +651,16 @@
       "noNumber": 6,
       "failed": 0,
       "changes": []
-    },
-    {
-      "at": "2026-09-18T18:59:57.542Z",
-      "atBeijing": "2026-09-19 02:59:57",
-      "status": "ok",
-      "ok": 7,
-      "noNumber": 6,
-      "failed": 0,
-      "changes": [
-        {
-          "kind": "snippet",
-          "message": "千问办公：官方页面额度说明有变化"
-        },
-        {
-          "kind": "snippet",
-          "message": "Trae：官方页面额度说明有变化"
-        },
-        {
-          "kind": "recovered",
-          "message": "小浣熊：官方页面恢复可访问"
-        },
-        {
-          "kind": "snippet",
-          "message": "MiniMax Code：官方页面额度说明有变化"
-        },
-        {
-          "kind": "recovered",
-          "message": "WorkBuddy：官方页面恢复可访问"
-        },
-        {
-          "kind": "snippet",
-          "message": "DuMate（搭子）：官方页面额度说明有变化"
-        },
-        {
-          "kind": "snippet",
-          "message": "JoyCode：官方页面额度说明有变化"
-        },
-        {
-          "kind": "snippet",
-          "message": "CNB 云原生构建：官方页面额度说明有变化"
-        }
-      ]
     }
   ],
-  "lastSyncAt": "2026-11-17T00:10:20.076Z",
-  "lastSyncAtBeijing": "2026-11-17 08:12:12",
-  "lastSuccessAt": "2026-11-17T00:10:20.076Z",
+  "lastSyncAt": "2026-11-17T23:27:57.734Z",
+  "lastSyncAtBeijing": "2026-11-18 07:28:57",
+  "lastSuccessAt": "2026-11-17T23:27:57.734Z",
   "status": "ok",
   "counts": {
-    "ok": 4,
+    "ok": 3,
     "noNumber": 9,
-    "failed": 0
+    "failed": 1
   },
   "platformCount": 13,
   "error": null
