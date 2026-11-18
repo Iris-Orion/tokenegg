@@ -1,6 +1,44 @@
 {
   "history": [
     {
+      "at": "2026-11-18T22:55:15.520Z",
+      "atBeijing": "2026-11-19 06:55:15",
+      "status": "ok",
+      "ok": 4,
+      "noNumber": 9,
+      "failed": 0,
+      "changes": [
+        {
+          "kind": "snippet",
+          "message": "Trae：官方页面额度说明有变化"
+        },
+        {
+          "kind": "snippet",
+          "message": "MiniMax Code：官方页面额度说明有变化"
+        },
+        {
+          "kind": "recovered",
+          "message": "WorkBuddy：官方页面恢复可访问"
+        },
+        {
+          "kind": "snippet",
+          "message": "DuMate（搭子）：官方页面额度说明有变化"
+        },
+        {
+          "kind": "snippet",
+          "message": "JoyCode：官方页面额度说明有变化"
+        },
+        {
+          "kind": "quota",
+          "message": "JoyCode：官方页面不再写明数字，沿用上次的 10000 积分 / 月"
+        },
+        {
+          "kind": "snippet",
+          "message": "CNB 云原生构建：官方页面额度说明有变化"
+        }
+      ]
+    },
+    {
       "at": "2026-11-17T23:27:57.734Z",
       "atBeijing": "2026-11-18 07:27:57",
       "status": "ok",
@@ -642,25 +680,16 @@
           "message": "AutoClaw（澳龙）：官方页面恢复可访问"
         }
       ]
-    },
-    {
-      "at": "2026-09-19T18:34:06.264Z",
-      "atBeijing": "2026-09-20 02:34:06",
-      "status": "ok",
-      "ok": 7,
-      "noNumber": 6,
-      "failed": 0,
-      "changes": []
     }
   ],
-  "lastSyncAt": "2026-11-17T23:27:57.734Z",
-  "lastSyncAtBeijing": "2026-11-18 07:28:57",
-  "lastSuccessAt": "2026-11-17T23:27:57.734Z",
+  "lastSyncAt": "2026-11-18T22:55:15.520Z",
+  "lastSyncAtBeijing": "2026-11-19 06:57:23",
+  "lastSuccessAt": "2026-11-18T22:55:15.520Z",
   "status": "ok",
   "counts": {
-    "ok": 3,
+    "ok": 4,
     "noNumber": 9,
-    "failed": 1
+    "failed": 0
   },
   "platformCount": 13,
   "error": null
