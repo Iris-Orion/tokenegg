@@ -1,6 +1,15 @@
 {
   "history": [
     {
+      "at": "2026-11-19T23:00:09.345Z",
+      "atBeijing": "2026-11-20 07:00:09",
+      "status": "ok",
+      "ok": 4,
+      "noNumber": 9,
+      "failed": 0,
+      "changes": []
+    },
+    {
       "at": "2026-11-18T22:55:15.520Z",
       "atBeijing": "2026-11-19 06:55:15",
       "status": "ok",
@@ -662,29 +671,11 @@
       "noNumber": 6,
       "failed": 0,
       "changes": []
-    },
-    {
-      "at": "2026-09-20T18:43:14.988Z",
-      "atBeijing": "2026-09-21 02:43:14",
-      "status": "ok",
-      "ok": 7,
-      "noNumber": 6,
-      "failed": 0,
-      "changes": [
-        {
-          "kind": "snippet",
-          "message": "AutoClaw（澳龙）：官方页面额度说明有变化"
-        },
-        {
-          "kind": "recovered",
-          "message": "AutoClaw（澳龙）：官方页面恢复可访问"
-        }
-      ]
     }
   ],
-  "lastSyncAt": "2026-11-18T22:55:15.520Z",
-  "lastSyncAtBeijing": "2026-11-19 06:57:23",
-  "lastSuccessAt": "2026-11-18T22:55:15.520Z",
+  "lastSyncAt": "2026-11-19T23:00:09.345Z",
+  "lastSyncAtBeijing": "2026-11-20 07:02:03",
+  "lastSuccessAt": "2026-11-19T23:00:09.345Z",
   "status": "ok",
   "counts": {
     "ok": 4,
