@@ -1,6 +1,15 @@
 {
   "history": [
     {
+      "at": "2026-11-21T21:36:20.561Z",
+      "atBeijing": "2026-11-22 05:36:20",
+      "status": "ok",
+      "ok": 4,
+      "noNumber": 9,
+      "failed": 0,
+      "changes": []
+    },
+    {
       "at": "2026-11-20T22:37:36.798Z",
       "atBeijing": "2026-11-21 06:37:36",
       "status": "ok",
@@ -667,20 +676,11 @@
           "message": "Trae：官方页面不再写明数字，沿用上次的 150 积分 / 天"
         }
       ]
-    },
-    {
-      "at": "2026-09-22T19:42:47.911Z",
-      "atBeijing": "2026-09-23 03:42:47",
-      "status": "ok",
-      "ok": 7,
-      "noNumber": 6,
-      "failed": 0,
-      "changes": []
     }
   ],
-  "lastSyncAt": "2026-11-20T22:37:36.798Z",
-  "lastSyncAtBeijing": "2026-11-21 06:39:29",
-  "lastSuccessAt": "2026-11-20T22:37:36.798Z",
+  "lastSyncAt": "2026-11-21T21:36:20.561Z",
+  "lastSyncAtBeijing": "2026-11-22 05:38:15",
+  "lastSuccessAt": "2026-11-21T21:36:20.561Z",
   "status": "ok",
   "counts": {
     "ok": 4,
