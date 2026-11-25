@@ -1,4 +1,4 @@
-<!-- https://help.aliyun.com/zh/qwenwork/qw-personal-benefits fetched 2026-11-24T02:52:04.781Z -->
+<!-- https://help.aliyun.com/zh/qwenwork/qw-personal-benefits fetched 2026-11-25T00:34:48.781Z -->
 Title: 个人版权益
 
 URL Source: https://help.aliyun.com/zh/qwenwork/qw-personal-benefits
@@ -409,7 +409,7 @@ AI 原生数据库
 *   [域名](https://help.aliyun.com/zh/dws/)
 *   [备案](https://help.aliyun.com/zh/icp-filing/)
 *   [云解析DNS](https://help.aliyun.com/zh/dns/)
-*   [AI 建站万小智](https://help.aliyun.com/zh/product/3039206.html)
+*   [AI 建站万小智](https://help.aliyun.com/zh/website/)
 *   [Agent可信服务](https://help.aliyun.com/zh/product/3046793.html)
 
 知识产权服务
@@ -534,4 +534,4 @@ Serverless
 
 [金融云](https://help.aliyun.com/zh/product/29849.html)
 
-[阿里云集成转售解决方案](https://help.aliyun.co
+[阿里云集成转售解决方案](https://help.aliyun.com/zh/product
