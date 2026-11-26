@@ -1,6 +1,44 @@
 {
   "history": [
     {
+      "at": "2026-11-26T00:13:11.711Z",
+      "atBeijing": "2026-11-26 08:13:11",
+      "status": "ok",
+      "ok": 3,
+      "noNumber": 9,
+      "failed": 1,
+      "changes": [
+        {
+          "kind": "snippet",
+          "message": "Trae：官方页面额度说明有变化"
+        },
+        {
+          "kind": "snippet",
+          "message": "MiniMax Code：官方页面额度说明有变化"
+        },
+        {
+          "kind": "failed",
+          "message": "WorkBuddy：官方页面抓取失败（reader: HTTP 401 / direct: page too short / direct-browser-ua: page too short / archive: page too short）"
+        },
+        {
+          "kind": "snippet",
+          "message": "DuMate（搭子）：官方页面额度说明有变化"
+        },
+        {
+          "kind": "snippet",
+          "message": "JoyCode：官方页面额度说明有变化"
+        },
+        {
+          "kind": "snippet",
+          "message": "CNB 云原生构建：官方页面额度说明有变化"
+        },
+        {
+          "kind": "quota",
+          "message": "CNB 云原生构建：官方页面不再写明数字，沿用上次的 500 credits / 月"
+        }
+      ]
+    },
+    {
       "at": "2026-11-25T00:34:37.700Z",
       "atBeijing": "2026-11-25 08:34:37",
       "status": "ok",
@@ -724,25 +762,16 @@
       "noNumber": 7,
       "failed": 0,
       "changes": []
-    },
-    {
-      "at": "2026-09-26T19:11:05.040Z",
-      "atBeijing": "2026-09-27 03:11:05",
-      "status": "ok",
-      "ok": 6,
-      "noNumber": 7,
-      "failed": 0,
-      "changes": []
     }
   ],
-  "lastSyncAt": "2026-11-25T00:34:37.700Z",
-  "lastSyncAtBeijing": "2026-11-25 08:36:54",
-  "lastSuccessAt": "2026-11-25T00:34:37.700Z",
+  "lastSyncAt": "2026-11-26T00:13:11.711Z",
+  "lastSyncAtBeijing": "2026-11-26 08:13:58",
+  "lastSuccessAt": "2026-11-26T00:13:11.711Z",
   "status": "ok",
   "counts": {
-    "ok": 4,
+    "ok": 3,
     "noNumber": 9,
-    "failed": 0
+    "failed": 1
   },
   "platformCount": 13,
   "error": null
