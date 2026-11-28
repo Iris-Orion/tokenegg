@@ -1,4 +1,4 @@
-<!-- https://docs.coze.cn/coze_pro_credits fetched 2026-11-27T00:31:49.585Z -->
+<!-- https://docs.coze.cn/coze_pro_credits fetched 2026-11-28T00:00:18.829Z -->
 Title: 积分
 
 URL Source: https://docs.coze.cn/coze_pro_credits
@@ -255,7 +255,7 @@ Was this document helpful?
 
 Helpful Not helpful
 
-[Previous 计费概述](https://docs.coze.cn/coze_pro_billing_overview)[Next 扣子账号体系融合升级](https://docs.coze.cn/coze-account-upgrade-and-integration)
+[Previous 计费概述](https://docs.coze.cn/coze_pro_billing_overview)[Next 扣子企业版套餐调整补充公告](https://docs.coze.cn/enterprise-plan-adjustment-notice)
 
 [什么是积分](https://docs.coze.cn/coze_pro_credits#f39a4eda "什么是积分")
 

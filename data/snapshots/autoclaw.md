@@ -1,5 +1,5 @@
-<!-- https://autoclaw.zhipuai.cn/ fetched 2026-11-27T00:32:04.796Z -->
-智谱AutoClaw官网-智谱autoclaw（澳龙）安装下载-GLM-5.3-Flash已上线
+<!-- https://autoclaw.zhipuai.cn/ fetched 2026-11-28T00:00:31.932Z -->
+智谱AutoClaw官网-智谱autoclaw（澳龙）安装下载-GLM-5.4已上线
 跳到主要内容 AutoClaw 简体中文 简体中文
 English
 首页 博客 更新日志 社群 飞书
@@ -21,7 +21,7 @@ AutoClaw 是智谱推出的通用 AI Agent，能跨文件、浏览器和各类�
 新用户注册领取福利 领取 2亿 tokens，价值 120 元
 AutoClaw 智谱 Coding Plan
 畅享智谱专属权益
-体验 GLM 5.3，享 150% 额度 个人版 / 团队版均支持
+体验 GLM 5.4，享 150% 额度 个人版 / 团队版均支持
 每月登录领积分 Lite 5,000 · Pro 10,000 · Max 26,000
 Folio 社区首页设计
 读一下飞书文档里的 Folio 社区 PRD，按我们的设计工作流做一版高保真的移动端首页，导出为 HTML。
@@ -32,7 +32,7 @@ folio-home.html html · 1.2 MB 打开
 任务已完成 15:40
 任务已完成 15:40
 Hermes 进化
-GLM-5.3
+GLM-5.4
 AI 可能出错，请核查重要信息 agent 在本地运行
 文件 folio-home.html Folio PRD
 项目文件
